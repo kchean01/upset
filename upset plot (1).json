@@ -1,0 +1,7214 @@
+[
+ {
+  "Day 5 pos": "PPP1CB",
+  "Day 5 neg": "PENK",
+  "Day 10 pos": "KIAA1468",
+  "Day 10 neg": "SHISA5",
+  "Day 15 pos": "M6PR",
+  "Day 15 neg": "LRFN1",
+  "Day 20 pos": "NAT14",
+  "Day 20 neg": "ALDH1L1"
+ },
+ {
+  "Day 5 pos": "KRTAP24-1",
+  "Day 5 neg": "ABI3",
+  "Day 10 pos": "ADIG",
+  "Day 10 neg": "HELLS",
+  "Day 15 pos": "SLCO4A1",
+  "Day 15 neg": "VCX2",
+  "Day 20 pos": "FAAH2",
+  "Day 20 neg": "CCT4"
+ },
+ {
+  "Day 5 pos": "ATG3",
+  "Day 5 neg": "SETD8",
+  "Day 10 pos": "TH1L",
+  "Day 10 neg": "C1orf114",
+  "Day 15 pos": "COL17A1",
+  "Day 15 neg": "RPS4Y1",
+  "Day 20 pos": "TOMM6",
+  "Day 20 neg": "ELOVL5"
+ },
+ {
+  "Day 5 pos": "PATE2",
+  "Day 5 neg": "TPM4",
+  "Day 10 pos": "SEPHS2",
+  "Day 10 neg": "FAM186A",
+  "Day 15 pos": "KRTAP24-1",
+  "Day 15 neg": "TSPO",
+  "Day 20 pos": "ZSCAN16",
+  "Day 20 neg": "GSDMD"
+ },
+ {
+  "Day 5 pos": "HIST1H2BO",
+  "Day 5 neg": "CT62",
+  "Day 10 pos": "HAMP",
+  "Day 10 neg": "SSPN",
+  "Day 15 pos": "TOP2A",
+  "Day 15 neg": "SNX17",
+  "Day 20 pos": "ROR2",
+  "Day 20 neg": "USH2A"
+ },
+ {
+  "Day 5 pos": "MAT2A",
+  "Day 5 neg": "RPP30",
+  "Day 10 pos": "PABPN1L",
+  "Day 10 neg": "TBX1",
+  "Day 15 pos": "C19orf76",
+  "Day 15 neg": "SPACA7",
+  "Day 20 pos": "DVL2",
+  "Day 20 neg": "PLP1"
+ },
+ {
+  "Day 5 pos": "WDR49",
+  "Day 5 neg": "SLC6A3",
+  "Day 10 pos": "FAM126B",
+  "Day 10 neg": "GRM5",
+  "Day 15 pos": "DGKH",
+  "Day 15 neg": "NCR3",
+  "Day 20 pos": "MAT2A",
+  "Day 20 neg": "SLC2A7"
+ },
+ {
+  "Day 5 pos": "PLA2G10",
+  "Day 5 neg": "ACSM5",
+  "Day 10 pos": "ISG20L2",
+  "Day 10 neg": "MESDC2",
+  "Day 15 pos": "FAM22F",
+  "Day 15 neg": "ARHGAP8",
+  "Day 20 pos": "HINT2",
+  "Day 20 neg": "TUB"
+ },
+ {
+  "Day 5 pos": "GRID2",
+  "Day 5 neg": "TMEM88B",
+  "Day 10 pos": "CCDC71L",
+  "Day 10 neg": "GBA",
+  "Day 15 pos": "OR52A1",
+  "Day 15 neg": "SWSAP1",
+  "Day 20 pos": "TUBG2",
+  "Day 20 neg": "NSMAF"
+ },
+ {
+  "Day 5 pos": "FAAH2",
+  "Day 5 neg": "RELN",
+  "Day 10 pos": "OR52A1",
+  "Day 10 neg": "STRADA",
+  "Day 15 pos": "ZNF385B",
+  "Day 15 neg": "RELB",
+  "Day 20 pos": "HARBI1",
+  "Day 20 neg": "COL3A1"
+ },
+ {
+  "Day 5 pos": "SLCO4A1",
+  "Day 5 neg": "RXFP2",
+  "Day 10 pos": "EFHC1",
+  "Day 10 neg": "CWC25",
+  "Day 15 pos": "CEP135",
+  "Day 15 neg": "ARHGAP9",
+  "Day 20 pos": "IRF2BP1",
+  "Day 20 neg": "EEF1D"
+ },
+ {
+  "Day 5 pos": "SEPHS2",
+  "Day 5 neg": "AP3S1",
+  "Day 10 pos": "TOMM6",
+  "Day 10 neg": "C20orf141",
+  "Day 15 pos": "CEPT1",
+  "Day 15 neg": "TAF6",
+  "Day 20 pos": "MRPS10",
+  "Day 20 neg": "MRO"
+ },
+ {
+  "Day 5 pos": "ATP8A2",
+  "Day 5 neg": "FOXF2",
+  "Day 10 pos": "RIMKLB",
+  "Day 10 neg": "DHX40",
+  "Day 15 pos": "GNL2",
+  "Day 15 neg": "SLC35A2",
+  "Day 20 pos": "SLCO4A1",
+  "Day 20 neg": "SPOCK2"
+ },
+ {
+  "Day 5 pos": "CD69",
+  "Day 5 neg": "LRRC37B",
+  "Day 10 pos": "ZRANB3",
+  "Day 10 neg": "DENND4B",
+  "Day 15 pos": "ZXDA",
+  "Day 15 neg": "FAM166A",
+  "Day 20 pos": "SAV1",
+  "Day 20 neg": "NLRP2"
+ },
+ {
+  "Day 5 pos": "OPALIN",
+  "Day 5 neg": "SNX17",
+  "Day 10 pos": "NAIP",
+  "Day 10 neg": "ZNF878",
+  "Day 15 pos": "HIST1H2BG",
+  "Day 15 neg": "EHMT2",
+  "Day 20 pos": "EFHC1",
+  "Day 20 neg": "ANKH"
+ },
+ {
+  "Day 5 pos": "PNISR",
+  "Day 5 neg": "UPK3A",
+  "Day 10 pos": "APOC3",
+  "Day 10 neg": "MSN",
+  "Day 15 pos": "NBN",
+  "Day 15 neg": "TRPV6",
+  "Day 20 pos": "TOMM7",
+  "Day 20 neg": "TRIM71"
+ },
+ {
+  "Day 5 pos": "ERRFI1",
+  "Day 5 neg": "MEF2D",
+  "Day 10 pos": "C1orf56",
+  "Day 10 neg": "TOX",
+  "Day 15 pos": "SEC61G",
+  "Day 15 neg": "ATP5J2",
+  "Day 20 pos": "ST18",
+  "Day 20 neg": "MMP1"
+ },
+ {
+  "Day 5 pos": "FAM22F",
+  "Day 5 neg": "TNRC6B",
+  "Day 10 pos": "C19orf76",
+  "Day 10 neg": "PRTN3",
+  "Day 15 pos": "MYH1",
+  "Day 15 neg": "NRN1L",
+  "Day 20 pos": "WDR89",
+  "Day 20 neg": "MIF4GD"
+ },
+ {
+  "Day 5 pos": "AIFM2",
+  "Day 5 neg": "MAP3K5",
+  "Day 10 pos": "SH3RF2",
+  "Day 10 neg": "MFRP",
+  "Day 15 pos": "KRT37",
+  "Day 15 neg": "KRT32",
+  "Day 20 pos": "CDA",
+  "Day 20 neg": "KDM3A"
+ },
+ {
+  "Day 5 pos": "ITGB6",
+  "Day 5 neg": "SMR3A",
+  "Day 10 pos": "TRPM5",
+  "Day 10 neg": "DUSP2",
+  "Day 15 pos": "CHRM1",
+  "Day 15 neg": "MTO1",
+  "Day 20 pos": "TRAFD1",
+  "Day 20 neg": "OR10A4"
+ },
+ {
+  "Day 5 pos": "TMOD3",
+  "Day 5 neg": "PDE11A",
+  "Day 10 pos": "NKX2-2",
+  "Day 10 neg": "EPN2",
+  "Day 15 pos": "RAB8B",
+  "Day 15 neg": "GSDMD",
+  "Day 20 pos": "MAGEC2",
+  "Day 20 neg": "ERGIC3"
+ },
+ {
+  "Day 5 pos": "EFHC1",
+  "Day 5 neg": "CTPS2",
+  "Day 10 pos": "CYP4F22",
+  "Day 10 neg": "RBM28",
+  "Day 15 pos": "FOXK1",
+  "Day 15 neg": "PLEKHG6",
+  "Day 20 pos": "HNF1A",
+  "Day 20 neg": "BHLHB9"
+ },
+ {
+  "Day 5 pos": "PLGRKT",
+  "Day 5 neg": "CTDP1",
+  "Day 10 pos": "ATXN7L3",
+  "Day 10 neg": "VARS2",
+  "Day 15 pos": "DIP2C",
+  "Day 15 neg": "ELP2",
+  "Day 20 pos": "SEC61G",
+  "Day 20 neg": "USP39"
+ },
+ {
+  "Day 5 pos": "RIMKLB",
+  "Day 5 neg": "PLCB1",
+  "Day 10 pos": "LCE2B",
+  "Day 10 neg": "SLC4A4",
+  "Day 15 pos": "FAM161B",
+  "Day 15 neg": "UBE2D4",
+  "Day 20 pos": "APOC3",
+  "Day 20 neg": "OR8K5"
+ },
+ {
+  "Day 5 pos": "GJC3",
+  "Day 5 neg": "AKAP7",
+  "Day 10 pos": "PTDSS1",
+  "Day 10 neg": "ABHD1",
+  "Day 15 pos": "CD69",
+  "Day 15 neg": "IL1RN",
+  "Day 20 pos": "CCDC94",
+  "Day 20 neg": "PTGR1"
+ },
+ {
+  "Day 5 pos": "RALYL",
+  "Day 5 neg": "DEFB114",
+  "Day 10 pos": "ZNF354A",
+  "Day 10 neg": "KLHL7",
+  "Day 15 pos": "RTKN2",
+  "Day 15 neg": "CLCNKA",
+  "Day 20 pos": "DMWD",
+  "Day 20 neg": "DBF4B"
+ },
+ {
+  "Day 5 pos": "NEK11",
+  "Day 5 neg": "CCDC56",
+  "Day 10 pos": "SP7",
+  "Day 10 neg": "PRIM1",
+  "Day 15 pos": "ZNF610",
+  "Day 15 neg": "ACO1",
+  "Day 20 pos": "TEX33",
+  "Day 20 neg": "PSEN1"
+ },
+ {
+  "Day 5 pos": "CD5",
+  "Day 5 neg": "APOC1",
+  "Day 10 pos": "ST18",
+  "Day 10 neg": "NMD3",
+  "Day 15 pos": "SLC45A1",
+  "Day 15 neg": "GCC2",
+  "Day 20 pos": "ZBTB12",
+  "Day 20 neg": "ILF3"
+ },
+ {
+  "Day 5 pos": "ZXDA",
+  "Day 5 neg": "SDR16C5",
+  "Day 10 pos": "PIWIL4",
+  "Day 10 neg": "ZNF727",
+  "Day 15 pos": "PATE2",
+  "Day 15 neg": "PQBP1",
+  "Day 20 pos": "KDELC1",
+  "Day 20 neg": "ARRDC1"
+ },
+ {
+  "Day 5 pos": "REEP6",
+  "Day 5 neg": "KLHL29",
+  "Day 10 pos": "ODF3",
+  "Day 10 neg": "RHEBL1",
+  "Day 15 pos": "MUC5B",
+  "Day 15 neg": "TM9SF3",
+  "Day 20 pos": "CRYBA2",
+  "Day 20 neg": "ANKRD65"
+ },
+ {
+  "Day 5 pos": "FAM71C",
+  "Day 5 neg": "PJA1",
+  "Day 10 pos": "CD151",
+  "Day 10 neg": "ANO3",
+  "Day 15 pos": "UFSP1",
+  "Day 15 neg": "GCA",
+  "Day 20 pos": "CTBP2",
+  "Day 20 neg": "MYOG"
+ },
+ {
+  "Day 5 pos": "UBFD1",
+  "Day 5 neg": "RELB",
+  "Day 10 pos": "PHOSPHO1",
+  "Day 10 neg": "THBS1",
+  "Day 15 pos": "ARSE",
+  "Day 15 neg": "SLC13A3",
+  "Day 20 pos": "RAD21L1",
+  "Day 20 neg": "PPP2R2A"
+ },
+ {
+  "Day 5 pos": "SYT8",
+  "Day 5 neg": "KRTAP10-11",
+  "Day 10 pos": "TMIGD1",
+  "Day 10 neg": "ADI1",
+  "Day 15 pos": "ARHGAP31",
+  "Day 15 neg": "CPD",
+  "Day 20 pos": "ZNF501",
+  "Day 20 neg": "TEX15"
+ },
+ {
+  "Day 5 pos": "HIST1H2BA",
+  "Day 5 neg": "SPACA3",
+  "Day 10 pos": "CEPT1",
+  "Day 10 neg": "DSC1",
+  "Day 15 pos": "LMBRD1",
+  "Day 15 neg": "TMEM186",
+  "Day 20 pos": "TH1L",
+  "Day 20 neg": "HEMGN"
+ },
+ {
+  "Day 5 pos": "DDX51",
+  "Day 5 neg": "C14orf93",
+  "Day 10 pos": "EIF2C2",
+  "Day 10 neg": "KRT23",
+  "Day 15 pos": "ODF3L2",
+  "Day 15 neg": "MBL2",
+  "Day 20 pos": "FBXO2",
+  "Day 20 neg": "PSRC1"
+ },
+ {
+  "Day 5 pos": "HAMP",
+  "Day 5 neg": "GFI1B",
+  "Day 10 pos": "IRAK3",
+  "Day 10 neg": "EXPH5",
+  "Day 15 pos": "ARL4D",
+  "Day 15 neg": "FAM155A",
+  "Day 20 pos": "PLN",
+  "Day 20 neg": "KRTAP13-2"
+ },
+ {
+  "Day 5 pos": "CEP135",
+  "Day 5 neg": "PRKAA1",
+  "Day 10 pos": "CEP135",
+  "Day 10 neg": "IL1RAP",
+  "Day 15 pos": "BNC1",
+  "Day 15 neg": "HCN4",
+  "Day 20 pos": "UFSP1",
+  "Day 20 neg": "MMP24"
+ },
+ {
+  "Day 5 pos": "CAMK2N1",
+  "Day 5 neg": "FBXL19",
+  "Day 10 pos": "PSENEN",
+  "Day 10 neg": "JDP2",
+  "Day 15 pos": "C22orf40",
+  "Day 15 neg": "PSMB4",
+  "Day 20 pos": "CCDC71L",
+  "Day 20 neg": "ZNF410"
+ },
+ {
+  "Day 5 pos": "CLASRP",
+  "Day 5 neg": "DDX27",
+  "Day 10 pos": "OAZ3",
+  "Day 10 neg": "IL1R1",
+  "Day 15 pos": "ZNF564",
+  "Day 15 neg": "SH3TC2",
+  "Day 20 pos": "CD5",
+  "Day 20 neg": "ROPN1L"
+ },
+ {
+  "Day 5 pos": "FICD",
+  "Day 5 neg": "MS4A4A",
+  "Day 10 pos": "EIF4EBP3",
+  "Day 10 neg": "STAT2",
+  "Day 15 pos": "SH3RF2",
+  "Day 15 neg": "LPGAT1",
+  "Day 20 pos": "COL5A2",
+  "Day 20 neg": "PARP1"
+ },
+ {
+  "Day 5 pos": "DLGAP2",
+  "Day 5 neg": "GPR56",
+  "Day 10 pos": "C11orf80",
+  "Day 10 neg": "ZNRF2",
+  "Day 15 pos": "MRPL54",
+  "Day 15 neg": "ABCC11",
+  "Day 20 pos": "A2M",
+  "Day 20 neg": "KCNMB2"
+ },
+ {
+  "Day 5 pos": "RAB9B",
+  "Day 5 neg": "YES1",
+  "Day 10 pos": "MPP4",
+  "Day 10 neg": "EPS8L2",
+  "Day 15 pos": "TREML4",
+  "Day 15 neg": "C2orf73",
+  "Day 20 pos": "COX4I2",
+  "Day 20 neg": "POC1A"
+ },
+ {
+  "Day 5 pos": "TAL2",
+  "Day 5 neg": "LAG3",
+  "Day 10 pos": "EIF3K",
+  "Day 10 neg": "KRT12",
+  "Day 15 pos": "KCNJ12",
+  "Day 15 neg": "CCNI2",
+  "Day 20 pos": "OR10AG1",
+  "Day 20 neg": "SLC8A2"
+ },
+ {
+  "Day 5 pos": "NXPE2",
+  "Day 5 neg": "EVC",
+  "Day 10 pos": "DGKH",
+  "Day 10 neg": "SLC35B2",
+  "Day 15 pos": "STARD6",
+  "Day 15 neg": "ASIC4",
+  "Day 20 pos": "HAMP",
+  "Day 20 neg": "NCF4"
+ },
+ {
+  "Day 5 pos": "ZSCAN16",
+  "Day 5 neg": "SFTPD",
+  "Day 10 pos": "NPTX1",
+  "Day 10 neg": "TMEM116",
+  "Day 15 pos": "IFNG",
+  "Day 15 neg": "OR11L1",
+  "Day 20 pos": "ICAM2",
+  "Day 20 neg": "HOMEZ"
+ },
+ {
+  "Day 5 pos": "ONECUT2",
+  "Day 5 neg": "PDZD4",
+  "Day 10 pos": "HRSP12",
+  "Day 10 neg": "DEFA6",
+  "Day 15 pos": "TMEM204",
+  "Day 15 neg": "PRMT2",
+  "Day 20 pos": "APOB",
+  "Day 20 neg": "PPP6R1"
+ },
+ {
+  "Day 5 pos": "LMBR1",
+  "Day 5 neg": "CDC40",
+  "Day 10 pos": "FAM47B",
+  "Day 10 neg": "COX16",
+  "Day 15 pos": "C11orf21",
+  "Day 15 neg": "LMOD3",
+  "Day 20 pos": "CHCHD1",
+  "Day 20 neg": "PLA2G4B"
+ },
+ {
+  "Day 5 pos": "PON3",
+  "Day 5 neg": "NTMT1",
+  "Day 10 pos": "SLC7A10",
+  "Day 10 neg": "AC087645.3",
+  "Day 15 pos": "PKDREJ",
+  "Day 15 neg": "UHRF2",
+  "Day 20 pos": "C17orf66",
+  "Day 20 neg": "CHST2"
+ },
+ {
+  "Day 5 pos": "SLC9C2",
+  "Day 5 neg": "CNEP1R1",
+  "Day 10 pos": "C8orf74",
+  "Day 10 neg": "TEX34",
+  "Day 15 pos": "ZRANB3",
+  "Day 15 neg": "PYHIN1",
+  "Day 20 pos": "COL4A1",
+  "Day 20 neg": "GRM1"
+ },
+ {
+  "Day 5 pos": "LIPG",
+  "Day 5 neg": "ECT2L",
+  "Day 10 pos": "ABCG8",
+  "Day 10 neg": "CAMSAP3",
+  "Day 15 pos": "PNOC",
+  "Day 15 neg": "C8A",
+  "Day 20 pos": "FAM161B",
+  "Day 20 neg": "LRRC29"
+ },
+ {
+  "Day 5 pos": "AFP",
+  "Day 5 neg": "H2BFWT",
+  "Day 10 pos": "OR5AU1",
+  "Day 10 neg": "CBX3",
+  "Day 15 pos": "DHRS7",
+  "Day 15 neg": "APC2",
+  "Day 20 pos": "HIST1H2BB",
+  "Day 20 neg": "MARK3"
+ },
+ {
+  "Day 5 pos": "FAM187B",
+  "Day 5 neg": "KRT40",
+  "Day 10 pos": "LAPTM4A",
+  "Day 10 neg": "DENND1A",
+  "Day 15 pos": "ZNF529",
+  "Day 15 neg": "ADM2",
+  "Day 20 pos": "TBRG1",
+  "Day 20 neg": "ZSCAN30"
+ },
+ {
+  "Day 5 pos": "C12orf56",
+  "Day 5 neg": "NFRKB",
+  "Day 10 pos": "RRS1",
+  "Day 10 neg": "CCDC34",
+  "Day 15 pos": "EDN1",
+  "Day 15 neg": "KDM3A",
+  "Day 20 pos": "DDX6",
+  "Day 20 neg": "TMCO3"
+ },
+ {
+  "Day 5 pos": "SGCG",
+  "Day 5 neg": "PRIM1",
+  "Day 10 pos": "COL5A2",
+  "Day 10 neg": "SHFM1",
+  "Day 15 pos": "EFHC1",
+  "Day 15 neg": "SCGB2A2",
+  "Day 20 pos": "TMOD3",
+  "Day 20 neg": "GFI1B"
+ },
+ {
+  "Day 5 pos": "CDC42EP4",
+  "Day 5 neg": "LPHN1",
+  "Day 10 pos": "PDSS2",
+  "Day 10 neg": "SREK1IP1",
+  "Day 15 pos": "VWA2",
+  "Day 15 neg": "GTF2I",
+  "Day 20 pos": "NKX2-1",
+  "Day 20 neg": "SPAG9"
+ },
+ {
+  "Day 5 pos": "SKP1",
+  "Day 5 neg": "CDK5",
+  "Day 10 pos": "NEUROD6",
+  "Day 10 neg": "C7orf59",
+  "Day 15 pos": "MEIG1",
+  "Day 15 neg": "NSA2",
+  "Day 20 pos": "ZNF813",
+  "Day 20 neg": "ARL6IP6"
+ },
+ {
+  "Day 5 pos": "HAUS1",
+  "Day 5 neg": "FAM134A",
+  "Day 10 pos": "POLR2A",
+  "Day 10 neg": "GJB6",
+  "Day 15 pos": "ERVFRD-1",
+  "Day 15 neg": "INSC",
+  "Day 20 pos": "OR51G1",
+  "Day 20 neg": "SNAP91"
+ },
+ {
+  "Day 5 pos": "C8orf74",
+  "Day 5 neg": "BPHL",
+  "Day 10 pos": "ARFRP1",
+  "Day 10 neg": "BNIPL",
+  "Day 15 pos": "KLF17",
+  "Day 15 neg": "RNF217",
+  "Day 20 pos": "HIST1H2BA",
+  "Day 20 neg": "BANP"
+ },
+ {
+  "Day 5 pos": "IRX1",
+  "Day 5 neg": "CIITA",
+  "Day 10 pos": "ODF3L2",
+  "Day 10 neg": "SLC34A1",
+  "Day 15 pos": "MPEG1",
+  "Day 15 neg": "STK17B",
+  "Day 20 pos": "RELT",
+  "Day 20 neg": "MAP2K3"
+ },
+ {
+  "Day 5 pos": "IL18",
+  "Day 5 neg": "CPA4",
+  "Day 10 pos": "AIDA",
+  "Day 10 neg": "ZMAT1",
+  "Day 15 pos": "ACADS",
+  "Day 15 neg": "NCOA1",
+  "Day 20 pos": "CA14",
+  "Day 20 neg": "CCDC50"
+ },
+ {
+  "Day 5 pos": "MAGEA1",
+  "Day 5 neg": "LTC4S",
+  "Day 10 pos": "ZDHHC6",
+  "Day 10 neg": "DNPEP",
+  "Day 15 pos": "TUBG2",
+  "Day 15 neg": "CSAD",
+  "Day 20 pos": "EXOSC1",
+  "Day 20 neg": "ELL2"
+ },
+ {
+  "Day 5 pos": "FAM126B",
+  "Day 5 neg": "DNAL1",
+  "Day 10 pos": "FAM187B",
+  "Day 10 neg": "UQCC",
+  "Day 15 pos": "PGLS",
+  "Day 15 neg": "AKNA",
+  "Day 20 pos": "ALCAM",
+  "Day 20 neg": "INPP5B"
+ },
+ {
+  "Day 5 pos": "POLR1B",
+  "Day 5 neg": "BGN",
+  "Day 10 pos": "AMIGO3",
+  "Day 10 neg": "NLRP14",
+  "Day 15 pos": "HSBP1L1",
+  "Day 15 neg": "SLC26A9",
+  "Day 20 pos": "TRMT61A",
+  "Day 20 neg": "GRIA4"
+ },
+ {
+  "Day 5 pos": "HSPB2",
+  "Day 5 neg": "ADCY4",
+  "Day 10 pos": "ZNF431",
+  "Day 10 neg": "KLF2",
+  "Day 15 pos": "USP28",
+  "Day 15 neg": "SIX1",
+  "Day 20 pos": "ANKRD45",
+  "Day 20 neg": "PBXIP1"
+ },
+ {
+  "Day 5 pos": "SLC25A35",
+  "Day 5 neg": "ZMAT1",
+  "Day 10 pos": "BNC1",
+  "Day 10 neg": "CLPP",
+  "Day 15 pos": "CALM3",
+  "Day 15 neg": "CALHM3",
+  "Day 20 pos": "SLC15A1",
+  "Day 20 neg": "KIR2DL1"
+ },
+ {
+  "Day 5 pos": "PDE6G",
+  "Day 5 neg": "PIGR",
+  "Day 10 pos": "SERPING1",
+  "Day 10 neg": "TMEM106C",
+  "Day 15 pos": "MRTO4",
+  "Day 15 neg": "CDKN2B",
+  "Day 20 pos": "GPR37",
+  "Day 20 neg": "FHOD3"
+ },
+ {
+  "Day 5 pos": "COL5A2",
+  "Day 5 neg": "PAAF1",
+  "Day 10 pos": "HIST1H2BO",
+  "Day 10 neg": "ARID3C",
+  "Day 15 pos": "FOXN4",
+  "Day 15 neg": "CIAPIN1",
+  "Day 20 pos": "RIMBP2",
+  "Day 20 neg": "ALG5"
+ },
+ {
+  "Day 5 pos": "SEC61G",
+  "Day 5 neg": "TRAPPC12",
+  "Day 10 pos": "TYR",
+  "Day 10 neg": "SDR16C5",
+  "Day 15 pos": "PDZD11",
+  "Day 15 neg": "PSAT1",
+  "Day 20 pos": "RPL39L",
+  "Day 20 neg": "LAT"
+ },
+ {
+  "Day 5 pos": "ZNF700",
+  "Day 5 neg": "NUP43",
+  "Day 10 pos": "BLOC1S2",
+  "Day 10 neg": "SLC25A1",
+  "Day 15 pos": "FAM83E",
+  "Day 15 neg": "ALG5",
+  "Day 20 pos": "KCTD19",
+  "Day 20 neg": "OTUB1"
+ },
+ {
+  "Day 5 pos": "IRAK3",
+  "Day 5 neg": "DPPA5",
+  "Day 10 pos": "ZNF358",
+  "Day 10 neg": "EIF6",
+  "Day 15 pos": "MAN1C1",
+  "Day 15 neg": "GCNT2",
+  "Day 20 pos": "SEMA3F",
+  "Day 20 neg": "SWSAP1"
+ },
+ {
+  "Day 5 pos": "RPS15A",
+  "Day 5 neg": "SRRM2",
+  "Day 10 pos": "S100A13",
+  "Day 10 neg": "STRA13",
+  "Day 15 pos": "RNF121",
+  "Day 15 neg": "IGSF9",
+  "Day 20 pos": "DDX51",
+  "Day 20 neg": "MAP3K3"
+ },
+ {
+  "Day 5 pos": "MAGEF1",
+  "Day 5 neg": "GRIA4",
+  "Day 10 pos": "OTOP3",
+  "Day 10 neg": "ZNF136",
+  "Day 15 pos": "ROR2",
+  "Day 15 neg": "TBCE",
+  "Day 20 pos": "CLASRP",
+  "Day 20 neg": "FBXW9"
+ },
+ {
+  "Day 5 pos": "MX1",
+  "Day 5 neg": "ELK4",
+  "Day 10 pos": "GDAP1L1",
+  "Day 10 neg": "AKAP7",
+  "Day 15 pos": "EIF4EBP3",
+  "Day 15 neg": "C2CD2",
+  "Day 20 pos": "POU2AF1",
+  "Day 20 neg": "SEMA4D"
+ },
+ {
+  "Day 5 pos": "MPEG1",
+  "Day 5 neg": "C1orf159",
+  "Day 10 pos": "FAAH2",
+  "Day 10 neg": "TM9SF3",
+  "Day 15 pos": "RPS16",
+  "Day 15 neg": "MSANTD2",
+  "Day 20 pos": "MYH1",
+  "Day 20 neg": "PCDH19"
+ },
+ {
+  "Day 5 pos": "TAF1L",
+  "Day 5 neg": "ADAMDEC1",
+  "Day 10 pos": "WAS",
+  "Day 10 neg": "APOL2",
+  "Day 15 pos": "ARMCX3",
+  "Day 15 neg": "CACNA2D4",
+  "Day 20 pos": "KHDC1",
+  "Day 20 neg": "AIM2"
+ },
+ {
+  "Day 5 pos": "KLK15",
+  "Day 5 neg": "CACNG2",
+  "Day 10 pos": "HOXD9",
+  "Day 10 neg": "NHLH2",
+  "Day 15 pos": "HSP90AB1",
+  "Day 15 neg": "C16orf13",
+  "Day 20 pos": "C1orf194",
+  "Day 20 neg": "RP4-805N21.1"
+ },
+ {
+  "Day 5 pos": "FGF19",
+  "Day 5 neg": "SLC1A2",
+  "Day 10 pos": "FBXO2",
+  "Day 10 neg": "TIMM13",
+  "Day 15 pos": "STX17",
+  "Day 15 neg": "C17orf72",
+  "Day 20 pos": "LAPTM4A",
+  "Day 20 neg": "PRPF4"
+ },
+ {
+  "Day 5 pos": "SCRN3",
+  "Day 5 neg": "METTL13",
+  "Day 10 pos": "LRRN3",
+  "Day 10 neg": "ACTA1",
+  "Day 15 pos": "C16orf3",
+  "Day 15 neg": "BHLHB9",
+  "Day 20 pos": "NBN",
+  "Day 20 neg": "NTNG1"
+ },
+ {
+  "Day 5 pos": "GPRASP1",
+  "Day 5 neg": "OAS3",
+  "Day 10 pos": "ZNF536",
+  "Day 10 neg": "VPS45",
+  "Day 15 pos": "ZNF227",
+  "Day 15 neg": "LRRC24",
+  "Day 20 pos": "KLF5",
+  "Day 20 neg": "DNAAF3"
+ },
+ {
+  "Day 5 pos": "MTG1",
+  "Day 5 neg": "MEAF6",
+  "Day 10 pos": "HIST1H2BG",
+  "Day 10 neg": "DLEC1",
+  "Day 15 pos": "FPR1",
+  "Day 15 neg": "KDM4C",
+  "Day 20 pos": "SCGB1C1",
+  "Day 20 neg": "OR5B2"
+ },
+ {
+  "Day 5 pos": "ANGPT1",
+  "Day 5 neg": "BABAM1",
+  "Day 10 pos": "C5orf22",
+  "Day 10 neg": "MPV17L",
+  "Day 15 pos": "POLR1B",
+  "Day 15 neg": "RSBN1",
+  "Day 20 pos": "RALYL",
+  "Day 20 neg": "CPXCR1"
+ },
+ {
+  "Day 5 pos": "ACOXL",
+  "Day 5 neg": "EMC4",
+  "Day 10 pos": "TAF1L",
+  "Day 10 neg": "APBA1",
+  "Day 15 pos": "ODF3",
+  "Day 15 neg": "NPC1L1",
+  "Day 20 pos": "ZNF564",
+  "Day 20 neg": "PRPS2"
+ },
+ {
+  "Day 5 pos": "GNAI3",
+  "Day 5 neg": "PIK3CB",
+  "Day 10 pos": "TXNDC15",
+  "Day 10 neg": "OR4C16",
+  "Day 15 pos": "DDX51",
+  "Day 15 neg": "ITM2A",
+  "Day 20 pos": "OR6C2",
+  "Day 20 neg": "ASH2L"
+ },
+ {
+  "Day 5 pos": "GALK2",
+  "Day 5 neg": "CASP3",
+  "Day 10 pos": "OR51A7",
+  "Day 10 neg": "HCN4",
+  "Day 15 pos": "PRAMEF13",
+  "Day 15 neg": "TMPRSS11A",
+  "Day 20 pos": "SLC25A35",
+  "Day 20 neg": "ENPEP"
+ },
+ {
+  "Day 5 pos": "NPTX1",
+  "Day 5 neg": "GPRC5C",
+  "Day 10 pos": "INPP5E",
+  "Day 10 neg": "SI",
+  "Day 15 pos": "OR14A16",
+  "Day 15 neg": "MUTED",
+  "Day 20 pos": "C16orf3",
+  "Day 20 neg": "PRR23A"
+ },
+ {
+  "Day 5 pos": "RBM3",
+  "Day 5 neg": "MYBL1",
+  "Day 10 pos": "UBFD1",
+  "Day 10 neg": "HDLBP",
+  "Day 15 pos": "HSPA5",
+  "Day 15 neg": "APRT",
+  "Day 20 pos": "ARMCX3",
+  "Day 20 neg": "SLC6A2"
+ },
+ {
+  "Day 5 pos": "CPA3",
+  "Day 5 neg": "CCDC22",
+  "Day 10 pos": "B3GNT9",
+  "Day 10 neg": "MRPL37",
+  "Day 15 pos": "CYTL1",
+  "Day 15 neg": "ZNF18",
+  "Day 20 pos": "FAM83E",
+  "Day 20 neg": "AAAS"
+ },
+ {
+  "Day 5 pos": "PNOC",
+  "Day 5 neg": "C16orf73",
+  "Day 10 pos": "RPS15A",
+  "Day 10 neg": "HYDIN",
+  "Day 15 pos": "ANKRD45",
+  "Day 15 neg": "FATE1",
+  "Day 20 pos": "DSG3",
+  "Day 20 neg": "REG4"
+ },
+ {
+  "Day 5 pos": "EIF3K",
+  "Day 5 neg": "PCDH17",
+  "Day 10 pos": "NAALAD2",
+  "Day 10 neg": "WDR24",
+  "Day 15 pos": "GRIK5",
+  "Day 15 neg": "MET",
+  "Day 20 pos": "CEL",
+  "Day 20 neg": "GLP1R"
+ },
+ {
+  "Day 5 pos": "GNL2",
+  "Day 5 neg": "C7orf29",
+  "Day 10 pos": "ADAMTS6",
+  "Day 10 neg": "ASUN",
+  "Day 15 pos": "POLR2A",
+  "Day 15 neg": "MEGF6",
+  "Day 20 pos": "FAM117B",
+  "Day 20 neg": "TOX3"
+ },
+ {
+  "Day 5 pos": "CEBPB",
+  "Day 5 neg": "CCNO",
+  "Day 10 pos": "SGTA",
+  "Day 10 neg": "MEGF6",
+  "Day 15 pos": "COL5A2",
+  "Day 15 neg": "SRP54",
+  "Day 20 pos": "L3MBTL4",
+  "Day 20 neg": "KCNJ2"
+ },
+ {
+  "Day 5 pos": "RIPK1",
+  "Day 5 neg": "MALSU1",
+  "Day 10 pos": "ARMC7",
+  "Day 10 neg": "THOC1",
+  "Day 15 pos": "FAM160A1",
+  "Day 15 neg": "TMBIM6",
+  "Day 20 pos": "HOMER2",
+  "Day 20 neg": "AHRR"
+ },
+ {
+  "Day 5 pos": "C3AR1",
+  "Day 5 neg": "GEMIN2",
+  "Day 10 pos": "ARHGAP44",
+  "Day 10 neg": "NOX5",
+  "Day 15 pos": "WDR55",
+  "Day 15 neg": "ASCL2",
+  "Day 20 pos": "MPHOSPH10",
+  "Day 20 neg": "RIT1"
+ },
+ {
+  "Day 5 pos": "COL17A1",
+  "Day 5 neg": "ABHD14A",
+  "Day 10 pos": "RP11-466G12.4",
+  "Day 10 neg": "PRDM4",
+  "Day 15 pos": "COX17",
+  "Day 15 neg": "PTGR1",
+  "Day 20 pos": "AFP",
+  "Day 20 neg": "ARHGAP9"
+ },
+ {
+  "Day 5 pos": "DSG3",
+  "Day 5 neg": "FAM20C",
+  "Day 10 pos": "HOMER2",
+  "Day 10 neg": "LHX8",
+  "Day 15 pos": "ENPP1",
+  "Day 15 neg": "LONRF3",
+  "Day 20 pos": "RAC3",
+  "Day 20 neg": "TOM1"
+ },
+ {
+  "Day 5 pos": "DKC1",
+  "Day 5 neg": "NHLH2",
+  "Day 10 pos": "RORB",
+  "Day 10 neg": "CKMT1A",
+  "Day 15 pos": "ARNT2",
+  "Day 15 neg": "IBTK",
+  "Day 20 pos": "KLF17",
+  "Day 20 neg": "EGFLAM"
+ },
+ {
+  "Day 5 pos": "FOXD2",
+  "Day 5 neg": "MRPS18B",
+  "Day 10 pos": "EIF2A",
+  "Day 10 neg": "RAD51B",
+  "Day 15 pos": "APOC3",
+  "Day 15 neg": "C9",
+  "Day 20 pos": "NIPA2",
+  "Day 20 neg": "TGIF2"
+ },
+ {
+  "Day 5 pos": "PROCR",
+  "Day 5 neg": "RABL3",
+  "Day 10 pos": "PI16",
+  "Day 10 neg": "EDDM3A",
+  "Day 15 pos": "COL4A1",
+  "Day 15 neg": "C1QB",
+  "Day 20 pos": "BTN3A3",
+  "Day 20 neg": "CXorf36"
+ },
+ {
+  "Day 5 pos": "DDN",
+  "Day 5 neg": "GSDMD",
+  "Day 10 pos": "CDA",
+  "Day 10 neg": "SIL1",
+  "Day 15 pos": "SLC35G2",
+  "Day 15 neg": "ITPRIPL2",
+  "Day 20 pos": "DQX1",
+  "Day 20 neg": "SESN2"
+ },
+ {
+  "Day 5 pos": "ZNF536",
+  "Day 5 neg": "GNG13",
+  "Day 10 pos": "TUBA3C",
+  "Day 10 neg": "B4GALT2",
+  "Day 15 pos": "KNTC1",
+  "Day 15 neg": "SRSF4",
+  "Day 20 pos": "ACADS",
+  "Day 20 neg": "RNF170"
+ },
+ {
+  "Day 5 pos": "S100A13",
+  "Day 5 neg": "POSTN",
+  "Day 10 pos": "GPIHBP1",
+  "Day 10 neg": "SPG7",
+  "Day 15 pos": "ARFGAP2",
+  "Day 15 neg": "VWA5A",
+  "Day 20 pos": "TFE3",
+  "Day 20 neg": "TWF2"
+ },
+ {
+  "Day 5 pos": "CD151",
+  "Day 5 neg": "GJB6",
+  "Day 10 pos": "CLDN8",
+  "Day 10 neg": "SMO",
+  "Day 15 pos": "C17orf66",
+  "Day 15 neg": "USP35",
+  "Day 20 pos": "TRIP13",
+  "Day 20 neg": "DHX29"
+ },
+ {
+  "Day 5 pos": "KCNA10",
+  "Day 5 neg": "RAMP1",
+  "Day 10 pos": "OR52R1",
+  "Day 10 neg": "HSD17B7",
+  "Day 15 pos": "MAGEF1",
+  "Day 15 neg": "C11orf40",
+  "Day 20 pos": "LTB4R",
+  "Day 20 neg": "NDUFV1"
+ },
+ {
+  "Day 5 pos": "SH3RF2",
+  "Day 5 neg": "EIF6",
+  "Day 10 pos": "OR5J2",
+  "Day 10 neg": "CD1B",
+  "Day 15 pos": "C4orf45",
+  "Day 15 neg": "OR2S2",
+  "Day 20 pos": "TOP2A",
+  "Day 20 neg": "C1orf95"
+ },
+ {
+  "Day 5 pos": "PKDREJ",
+  "Day 5 neg": "P4HA3",
+  "Day 10 pos": "FAM105B",
+  "Day 10 neg": "ABCB4",
+  "Day 15 pos": "OR6A2",
+  "Day 15 neg": "STAG2",
+  "Day 20 pos": "RRN3",
+  "Day 20 neg": "ZNF277"
+ },
+ {
+  "Day 5 pos": "KCTD19",
+  "Day 5 neg": "SCN4B",
+  "Day 10 pos": "HIST1H2BD",
+  "Day 10 neg": "ZFAND2B",
+  "Day 15 pos": "PLS3",
+  "Day 15 neg": "SLC35B1",
+  "Day 20 pos": "MOSPD3",
+  "Day 20 neg": "CRYZL1"
+ },
+ {
+  "Day 5 pos": "MOSPD3",
+  "Day 5 neg": "PHF23",
+  "Day 10 pos": "NAP1L5",
+  "Day 10 neg": "C17orf72",
+  "Day 15 pos": "TPCN2",
+  "Day 15 neg": "ERI2",
+  "Day 20 pos": "GPC5",
+  "Day 20 neg": "MPHOSPH9"
+ },
+ {
+  "Day 5 pos": "NLRP4",
+  "Day 5 neg": "PAN3",
+  "Day 10 pos": "EFCAB3",
+  "Day 10 neg": "HRAS",
+  "Day 15 pos": "ZNF383",
+  "Day 15 neg": "PON2",
+  "Day 20 pos": "TMLHE",
+  "Day 20 neg": "MDM1"
+ },
+ {
+  "Day 5 pos": "VWA2",
+  "Day 5 neg": "PLEKHM3",
+  "Day 10 pos": "CRH",
+  "Day 10 neg": "TRPM4",
+  "Day 15 pos": "GTF2A2",
+  "Day 15 neg": "SLC25A44",
+  "Day 20 pos": "RAD1",
+  "Day 20 neg": "GNB1L"
+ },
+ {
+  "Day 5 pos": "FAM47B",
+  "Day 5 neg": "NAPEPLD",
+  "Day 10 pos": "CD69",
+  "Day 10 neg": "C9orf116",
+  "Day 15 pos": "TMEM97",
+  "Day 15 neg": "PRAMEF12",
+  "Day 20 pos": "COMMD3",
+  "Day 20 neg": "NGEF"
+ },
+ {
+  "Day 5 pos": "HTRA4",
+  "Day 5 neg": "PSMB4",
+  "Day 10 pos": "CXCL9",
+  "Day 10 neg": "A1BG",
+  "Day 15 pos": "CLK2",
+  "Day 15 neg": "KRT31",
+  "Day 20 pos": "ITGB6",
+  "Day 20 neg": "DNAJC19"
+ },
+ {
+  "Day 5 pos": "SHISA4",
+  "Day 5 neg": "STX2",
+  "Day 10 pos": "TREML4",
+  "Day 10 neg": "UNC5CL",
+  "Day 15 pos": "CCND2",
+  "Day 15 neg": "NCOR2",
+  "Day 20 pos": "GNG2",
+  "Day 20 neg": "KLHDC1"
+ },
+ {
+  "Day 5 pos": "OR52A1",
+  "Day 5 neg": "ZNF878",
+  "Day 10 pos": "ZBTB48",
+  "Day 10 neg": "ACY3",
+  "Day 15 pos": "FLG",
+  "Day 15 neg": "MAP2K3",
+  "Day 20 pos": "TSGA13",
+  "Day 20 neg": "RABIF"
+ },
+ {
+  "Day 5 pos": "KIAA1377",
+  "Day 5 neg": "ST8SIA3",
+  "Day 10 pos": "OPALIN",
+  "Day 10 neg": "PCDH17",
+  "Day 15 pos": "ZNF32",
+  "Day 15 neg": "FAM98B",
+  "Day 20 pos": "IGDCC3",
+  "Day 20 neg": "FAM65C"
+ },
+ {
+  "Day 5 pos": "ARFRP1",
+  "Day 5 neg": "ZNF696",
+  "Day 10 pos": "METTL10",
+  "Day 10 neg": "OR6K6",
+  "Day 15 pos": "HNRNPL",
+  "Day 15 neg": "TAS2R42",
+  "Day 20 pos": "GRK7",
+  "Day 20 neg": "C4orf46"
+ },
+ {
+  "Day 5 pos": "NRBF2",
+  "Day 5 neg": "CHST2",
+  "Day 10 pos": "AFP",
+  "Day 10 neg": "PSG1",
+  "Day 15 pos": "UHRF1BP1L",
+  "Day 15 neg": "DUSP2",
+  "Day 20 pos": "FAM105B",
+  "Day 20 neg": "S100A12"
+ },
+ {
+  "Day 5 pos": "ADIG",
+  "Day 5 neg": "GAL3ST1",
+  "Day 10 pos": "SLC25A15",
+  "Day 10 neg": "CELA2A",
+  "Day 15 pos": "RRS1",
+  "Day 15 neg": "CHST2",
+  "Day 20 pos": "TAL2",
+  "Day 20 neg": "HVCN1"
+ },
+ {
+  "Day 5 pos": "RAB3IL1",
+  "Day 5 neg": "MEGF6",
+  "Day 10 pos": "TNFRSF11A",
+  "Day 10 neg": "HSPG2",
+  "Day 15 pos": "CD5",
+  "Day 15 neg": "CSF1",
+  "Day 20 pos": "IL17C",
+  "Day 20 neg": "PKLR"
+ },
+ {
+  "Day 5 pos": "TEX33",
+  "Day 5 neg": "SERINC3",
+  "Day 10 pos": "IKBIP",
+  "Day 10 neg": "CHRNA7",
+  "Day 15 pos": "NAIP",
+  "Day 15 neg": "MAP9",
+  "Day 20 pos": "ICAM5",
+  "Day 20 neg": "CRX"
+ },
+ {
+  "Day 5 pos": "FAM161B",
+  "Day 5 neg": "TMX4",
+  "Day 10 pos": "RP3-402G11.5",
+  "Day 10 neg": "F10",
+  "Day 15 pos": "KIAA1468",
+  "Day 15 neg": "AIM2",
+  "Day 20 pos": "IPPK",
+  "Day 20 neg": "OLFM3"
+ },
+ {
+  "Day 5 pos": "KLHDC5",
+  "Day 5 neg": "SIK2",
+  "Day 10 pos": "RASL12",
+  "Day 10 neg": "ATP2B1",
+  "Day 15 pos": "ARF6",
+  "Day 15 neg": "HLA-B",
+  "Day 20 pos": "TNFRSF11A",
+  "Day 20 neg": "ZNF285"
+ },
+ {
+  "Day 5 pos": "C20orf160",
+  "Day 5 neg": "PRSS37",
+  "Day 10 pos": "YWHAZ",
+  "Day 10 neg": "KRT32",
+  "Day 15 pos": "RIMBP2",
+  "Day 15 neg": "NUP43",
+  "Day 20 pos": "UNCX",
+  "Day 20 neg": "CALN1"
+ },
+ {
+  "Day 5 pos": "SYNGR4",
+  "Day 5 neg": "RIOK1",
+  "Day 10 pos": "CLASRP",
+  "Day 10 neg": "CYP1B1",
+  "Day 15 pos": "L3MBTL4",
+  "Day 15 neg": "DUSP8",
+  "Day 20 pos": "KRR1",
+  "Day 20 neg": "ZNF597"
+ },
+ {
+  "Day 5 pos": "CEL",
+  "Day 5 neg": "HYDIN",
+  "Day 10 pos": "KPNA3",
+  "Day 10 neg": "BEND3",
+  "Day 15 pos": "GPR68",
+  "Day 15 neg": "TGM7",
+  "Day 20 pos": "FAM220A",
+  "Day 20 neg": "DIS3"
+ },
+ {
+  "Day 5 pos": "PCSK5",
+  "Day 5 neg": "TUBB",
+  "Day 10 pos": "FMNL2",
+  "Day 10 neg": "C6orf226",
+  "Day 15 pos": "HOXB4",
+  "Day 15 neg": "LANCL1",
+  "Day 20 pos": "NEIL1",
+  "Day 20 neg": "SCRN2"
+ },
+ {
+  "Day 5 pos": "OR2AP1",
+  "Day 5 neg": "SNX9",
+  "Day 10 pos": "EXD1",
+  "Day 10 neg": "ECSIT",
+  "Day 15 pos": "METTL10",
+  "Day 15 neg": "DPP10",
+  "Day 20 pos": "PDZD11",
+  "Day 20 neg": "ADAMTS4"
+ },
+ {
+  "Day 5 pos": "VAMP5",
+  "Day 5 neg": "NSUN3",
+  "Day 10 pos": "KRR1",
+  "Day 10 neg": "PTPN3",
+  "Day 15 pos": "ZNF208",
+  "Day 15 neg": "DGKB",
+  "Day 20 pos": "DPY19L1",
+  "Day 20 neg": "PADI1"
+ },
+ {
+  "Day 5 pos": "CMA1",
+  "Day 5 neg": "TESK1",
+  "Day 10 pos": "KRTAP12-2",
+  "Day 10 neg": "COX8C",
+  "Day 15 pos": "HIST1H2BB",
+  "Day 15 neg": "KRT74",
+  "Day 20 pos": "QPRT",
+  "Day 20 neg": "PIP5K1B"
+ },
+ {
+  "Day 5 pos": "ALKBH3",
+  "Day 5 neg": "KCND2",
+  "Day 10 pos": "SOCS2",
+  "Day 10 neg": "RDBP",
+  "Day 15 pos": "RABAC1",
+  "Day 15 neg": "MAML2",
+  "Day 20 pos": "HRCT1",
+  "Day 20 neg": "PRUNE"
+ },
+ {
+  "Day 5 pos": "C5orf22",
+  "Day 5 neg": "RFTN2",
+  "Day 10 pos": "ZNF564",
+  "Day 10 neg": "IDH3B",
+  "Day 15 pos": "TRMT61A",
+  "Day 15 neg": "CD247",
+  "Day 20 pos": "KRT37",
+  "Day 20 neg": "KIAA1199"
+ },
+ {
+  "Day 5 pos": "ZNF320",
+  "Day 5 neg": "ZNF317",
+  "Day 10 pos": "HIST1H4I",
+  "Day 10 neg": "KRTAP8-1",
+  "Day 15 pos": "SLC9C2",
+  "Day 15 neg": "AQP10",
+  "Day 20 pos": "TMEM106B",
+  "Day 20 neg": "STXBP2"
+ },
+ {
+  "Day 5 pos": "SFTA3",
+  "Day 5 neg": "C9orf41",
+  "Day 10 pos": "CCNG1",
+  "Day 10 neg": "NDUFA12",
+  "Day 15 pos": "CCDC94",
+  "Day 15 neg": "SNX21",
+  "Day 20 pos": "PGK2",
+  "Day 20 neg": "METTL12"
+ },
+ {
+  "Day 5 pos": "CXCL9",
+  "Day 5 neg": "COX16",
+  "Day 10 pos": "ATP8A2",
+  "Day 10 neg": "KLK7",
+  "Day 15 pos": "UCN3",
+  "Day 15 neg": "ENPEP",
+  "Day 20 pos": "CYTL1",
+  "Day 20 neg": "PHC3"
+ },
+ {
+  "Day 5 pos": "08-Mar",
+  "Day 5 neg": "USH1G",
+  "Day 10 pos": "MBTPS1",
+  "Day 10 neg": "KCNK4",
+  "Day 15 pos": "OR2H2",
+  "Day 15 neg": "PAIP2B",
+  "Day 20 pos": "MRFAP1",
+  "Day 20 neg": "TFAP2C"
+ },
+ {
+  "Day 5 pos": "LRRN3",
+  "Day 5 neg": "MAP1S",
+  "Day 10 pos": "IFNA5",
+  "Day 10 neg": "SGK2",
+  "Day 15 pos": "PPAPDC1A",
+  "Day 15 neg": "FBXO25",
+  "Day 20 pos": "MPP4",
+  "Day 20 neg": "RERGL"
+ },
+ {
+  "Day 5 pos": "CDX1",
+  "Day 5 neg": "SEMA4D",
+  "Day 10 pos": "WASF1",
+  "Day 10 neg": "MTMR2",
+  "Day 15 pos": "MRPL3",
+  "Day 15 neg": "HTR2A",
+  "Day 20 pos": "SPDYC",
+  "Day 20 neg": "FXYD2"
+ },
+ {
+  "Day 5 pos": "ZDHHC12",
+  "Day 5 neg": "CTU1",
+  "Day 10 pos": "SUCLA2",
+  "Day 10 neg": "LRRTM2",
+  "Day 15 pos": "HRCT1",
+  "Day 15 neg": "NEK3",
+  "Day 20 pos": "C1orf204",
+  "Day 20 neg": "GALNT9"
+ },
+ {
+  "Day 5 pos": "AKAP9",
+  "Day 5 neg": "UCMA",
+  "Day 10 pos": "GALK2",
+  "Day 10 neg": "LRRN4CL",
+  "Day 15 pos": "TMEM106B",
+  "Day 15 neg": "MAN2C1",
+  "Day 20 pos": "KRT28",
+  "Day 20 neg": "DDHD1"
+ },
+ {
+  "Day 5 pos": "ELTD1",
+  "Day 5 neg": "PGK1",
+  "Day 10 pos": "SLCO4A1",
+  "Day 10 neg": "IL12A",
+  "Day 15 pos": "CLCA2",
+  "Day 15 neg": "FEZ1",
+  "Day 20 pos": "RBBP8",
+  "Day 20 neg": "ING3"
+ },
+ {
+  "Day 5 pos": "OR5J2",
+  "Day 5 neg": "KRTAP13-2",
+  "Day 10 pos": "ZNF71",
+  "Day 10 neg": "DHH",
+  "Day 15 pos": "KIR3DL3",
+  "Day 15 neg": "CABP5",
+  "Day 20 pos": "COL5A1",
+  "Day 20 neg": "UFSP2"
+ },
+ {
+  "Day 5 pos": "HSBP1L1",
+  "Day 5 neg": "INS",
+  "Day 10 pos": "MYEF2",
+  "Day 10 neg": "GIN1",
+  "Day 15 pos": "BLOC1S2",
+  "Day 15 neg": "GAPVD1",
+  "Day 20 pos": "APOBEC3A",
+  "Day 20 neg": "RNF40"
+ },
+ {
+  "Day 5 pos": "DNAJC4",
+  "Day 5 neg": "PAGE2B",
+  "Day 10 pos": "DIP2C",
+  "Day 10 neg": "TUBA3E",
+  "Day 15 pos": "CRYBA2",
+  "Day 15 neg": "C10orf105",
+  "Day 20 pos": "ZNF704",
+  "Day 20 neg": "GFI1"
+ },
+ {
+  "Day 5 pos": "ZBTB12",
+  "Day 5 neg": "SLFN11",
+  "Day 10 pos": "ORMDL3",
+  "Day 10 neg": "C3orf25",
+  "Day 15 pos": "PNISR",
+  "Day 15 neg": "WIPF1",
+  "Day 20 pos": "HAUS5",
+  "Day 20 neg": "SLC39A4"
+ },
+ {
+  "Day 5 pos": "FOXA1",
+  "Day 5 neg": "CYS1",
+  "Day 10 pos": "RND2",
+  "Day 10 neg": "STH",
+  "Day 15 pos": "TFEB",
+  "Day 15 neg": "PJA1",
+  "Day 20 pos": "ELOVL6",
+  "Day 20 neg": "FAM189B"
+ },
+ {
+  "Day 5 pos": "GTF2H3",
+  "Day 5 neg": "CHSY1",
+  "Day 10 pos": "TMOD3",
+  "Day 10 neg": "TIGIT",
+  "Day 15 pos": "L2HGDH",
+  "Day 15 neg": "SLCO1B3",
+  "Day 20 pos": "OTUD1",
+  "Day 20 neg": "PVRL3"
+ },
+ {
+  "Day 5 pos": "RPS18",
+  "Day 5 neg": "ACOT11",
+  "Day 10 pos": "HARBI1",
+  "Day 10 neg": "HSD17B10",
+  "Day 15 pos": "UTP20",
+  "Day 15 neg": "MYSM1",
+  "Day 20 pos": "DIP2C",
+  "Day 20 neg": "MSLN"
+ },
+ {
+  "Day 5 pos": "ROR2",
+  "Day 5 neg": "OR14I1",
+  "Day 10 pos": "BMPER",
+  "Day 10 neg": "SHISA9",
+  "Day 15 pos": "NT5DC3",
+  "Day 15 neg": "TMC5",
+  "Day 20 pos": "RNF150",
+  "Day 20 neg": "KIF26A"
+ },
+ {
+  "Day 5 pos": "EFHC2",
+  "Day 5 neg": "B3GNT1",
+  "Day 10 pos": "UFSP1",
+  "Day 10 neg": "BCLAF1",
+  "Day 15 pos": "KRR1",
+  "Day 15 neg": "PSRC1",
+  "Day 20 pos": "MT1B",
+  "Day 20 neg": "04-Mar"
+ },
+ {
+  "Day 5 pos": "PDHA2",
+  "Day 5 neg": "CHRNA7",
+  "Day 10 pos": "M6PR",
+  "Day 10 neg": "PEX26",
+  "Day 15 pos": "PIWIL4",
+  "Day 15 neg": "SEMA4D",
+  "Day 20 pos": "TMEM138",
+  "Day 20 neg": "NBEA"
+ },
+ {
+  "Day 5 pos": "FAM213B",
+  "Day 5 neg": "PIK3C2A",
+  "Day 10 pos": "NT5DC3",
+  "Day 10 neg": "MAML2",
+  "Day 15 pos": "HIST1H2BA",
+  "Day 15 neg": "COL10A1",
+  "Day 20 pos": "FGF19",
+  "Day 20 neg": "DCLK1"
+ },
+ {
+  "Day 5 pos": "C1S",
+  "Day 5 neg": "ATPBD4",
+  "Day 10 pos": "IDO1",
+  "Day 10 neg": "DIEXF",
+  "Day 15 pos": "CRH",
+  "Day 15 neg": "RIN1",
+  "Day 20 pos": "PCDH10",
+  "Day 20 neg": "WWC1"
+ },
+ {
+  "Day 5 pos": "UCN3",
+  "Day 5 neg": "TMIGD2",
+  "Day 10 pos": "RPL34",
+  "Day 10 neg": "GK",
+  "Day 15 pos": "PRRX2",
+  "Day 15 neg": "MOB3A",
+  "Day 20 pos": "MOB1A",
+  "Day 20 neg": "LIPH"
+ },
+ {
+  "Day 5 pos": "ANO2",
+  "Day 5 neg": "TEAD3",
+  "Day 10 pos": "WDR49",
+  "Day 10 neg": "PTCD1",
+  "Day 15 pos": "NPAS4",
+  "Day 15 neg": "BANP",
+  "Day 20 pos": "RPL34",
+  "Day 20 neg": "TRIML2"
+ },
+ {
+  "Day 5 pos": "NOM1",
+  "Day 5 neg": "SCFD2",
+  "Day 10 pos": "PTPRO",
+  "Day 10 neg": "ULK2",
+  "Day 15 pos": "HARBI1",
+  "Day 15 neg": "NAA10",
+  "Day 20 pos": "MYO18B",
+  "Day 20 neg": "RSPH6A"
+ },
+ {
+  "Day 5 pos": "C2CD4D",
+  "Day 5 neg": "ANGEL1",
+  "Day 10 pos": "ABHD6",
+  "Day 10 neg": "PUS7",
+  "Day 15 pos": "GNAI3",
+  "Day 15 neg": "TRIM31",
+  "Day 20 pos": "CHCHD5",
+  "Day 20 neg": "DHX35"
+ },
+ {
+  "Day 5 pos": "FBXO2",
+  "Day 5 neg": "KLHDC8B",
+  "Day 10 pos": "RHBDL2",
+  "Day 10 neg": "ARRB1",
+  "Day 15 pos": "ATXN7L3",
+  "Day 15 neg": "CPSF3L",
+  "Day 20 pos": "HLA-C",
+  "Day 20 neg": "IFT88"
+ },
+ {
+  "Day 5 pos": "C19orf76",
+  "Day 5 neg": "MMP25",
+  "Day 10 pos": "AIG1",
+  "Day 10 neg": "ACOT11",
+  "Day 15 pos": "CSN2",
+  "Day 15 neg": "TAB1",
+  "Day 20 pos": "UTP20",
+  "Day 20 neg": "SPRR1B"
+ },
+ {
+  "Day 5 pos": "IGFL3",
+  "Day 5 neg": "IRF2",
+  "Day 10 pos": "ATAD2",
+  "Day 10 neg": "ADSS",
+  "Day 15 pos": "MYH3",
+  "Day 15 neg": "ALDH1L1",
+  "Day 20 pos": "PABPN1L",
+  "Day 20 neg": "PRPS1"
+ },
+ {
+  "Day 5 pos": "PABPN1L",
+  "Day 5 neg": "C10orf12",
+  "Day 10 pos": "RWDD4",
+  "Day 10 neg": "MMP25",
+  "Day 15 pos": "KCTD21",
+  "Day 15 neg": "THOC6",
+  "Day 20 pos": "AMIGO3",
+  "Day 20 neg": "MBOAT7"
+ },
+ {
+  "Day 5 pos": "TRPM5",
+  "Day 5 neg": "ADK",
+  "Day 10 pos": "FNBP4",
+  "Day 10 neg": "BHLHB9",
+  "Day 15 pos": "WASF3",
+  "Day 15 neg": "DOCK10",
+  "Day 20 pos": "RIMKLB",
+  "Day 20 neg": "GBGT1"
+ },
+ {
+  "Day 5 pos": "NAALAD2",
+  "Day 5 neg": "GATAD2B",
+  "Day 10 pos": "HSP90AB1",
+  "Day 10 neg": "METTL14",
+  "Day 15 pos": "OR5J2",
+  "Day 15 neg": "RIN3",
+  "Day 20 pos": "MAGEF1",
+  "Day 20 neg": "INMT"
+ },
+ {
+  "Day 5 pos": "OR5C1",
+  "Day 5 neg": "PLB1",
+  "Day 10 pos": "PTRH2",
+  "Day 10 neg": "KLHL21",
+  "Day 15 pos": "DPY19L1",
+  "Day 15 neg": "RFK",
+  "Day 20 pos": "BYSL",
+  "Day 20 neg": "EPOR"
+ },
+ {
+  "Day 5 pos": "RALGAPB",
+  "Day 5 neg": "PLXNA1",
+  "Day 10 pos": "IL18",
+  "Day 10 neg": "XPNPEP2",
+  "Day 15 pos": "SRSF12",
+  "Day 15 neg": "NXPH3",
+  "Day 20 pos": "PHOSPHO1",
+  "Day 20 neg": "FAM83C"
+ },
+ {
+  "Day 5 pos": "ARL4D",
+  "Day 5 neg": "TCP10L",
+  "Day 10 pos": "SCGB1A1",
+  "Day 10 neg": "RPS7",
+  "Day 15 pos": "MRPS10",
+  "Day 15 neg": "SLC34A2",
+  "Day 20 pos": "CST5",
+  "Day 20 neg": "ATP6V0E2"
+ },
+ {
+  "Day 5 pos": "NFKBIB",
+  "Day 5 neg": "UFC1",
+  "Day 10 pos": "MAGEF1",
+  "Day 10 neg": "TBC1D10B",
+  "Day 15 pos": "ETV5",
+  "Day 15 neg": "ARTN",
+  "Day 20 pos": "REEP6",
+  "Day 20 neg": "TMEM86A"
+ },
+ {
+  "Day 5 pos": "ABTB2",
+  "Day 5 neg": "FREM2",
+  "Day 10 pos": "NDUFA7",
+  "Day 10 neg": "SYTL4",
+  "Day 15 pos": "PARP6",
+  "Day 15 neg": "PCYT1A",
+  "Day 20 pos": "RIPK1",
+  "Day 20 neg": "CCDC147"
+ },
+ {
+  "Day 5 pos": "NSMCE4A",
+  "Day 5 neg": "DSCAML1",
+  "Day 10 pos": "ITGA5",
+  "Day 10 neg": "INO80",
+  "Day 15 pos": "PON3",
+  "Day 15 neg": "NEXN",
+  "Day 20 pos": "ATP4B",
+  "Day 20 neg": "NPLOC4"
+ },
+ {
+  "Day 5 pos": "C20orf201",
+  "Day 5 neg": "ELFN1",
+  "Day 10 pos": "SLC43A3",
+  "Day 10 neg": "GAN",
+  "Day 15 pos": "MOSPD3",
+  "Day 15 neg": "ADAM10",
+  "Day 20 pos": "PIWIL4",
+  "Day 20 neg": "PDCD10"
+ },
+ {
+  "Day 5 pos": "MYO18B",
+  "Day 5 neg": "ANAPC7",
+  "Day 10 pos": "TBPL2",
+  "Day 10 neg": "UBE2QL1",
+  "Day 15 pos": "ZNF737",
+  "Day 15 neg": "BCAN",
+  "Day 20 pos": "CATSPER4",
+  "Day 20 neg": "SLC25A19"
+ },
+ {
+  "Day 5 pos": "METTL10",
+  "Day 5 neg": "NUP88",
+  "Day 10 pos": "TTC17",
+  "Day 10 neg": "DOK5",
+  "Day 15 pos": "ORMDL3",
+  "Day 15 neg": "TAGLN3",
+  "Day 20 pos": "OR4X2",
+  "Day 20 neg": "CIR1"
+ },
+ {
+  "Day 5 pos": "MANBAL",
+  "Day 5 neg": "SMC1B",
+  "Day 10 pos": "NXNL1",
+  "Day 10 neg": "NOL8",
+  "Day 15 pos": "ISG20L2",
+  "Day 15 neg": "GSTM5",
+  "Day 20 pos": "KRTAP25-1",
+  "Day 20 neg": "MEGF9"
+ },
+ {
+  "Day 5 pos": "IFI16",
+  "Day 5 neg": "CALML3",
+  "Day 10 pos": "PDE6G",
+  "Day 10 neg": "CDC25C",
+  "Day 15 pos": "MCEE",
+  "Day 15 neg": "LAG3",
+  "Day 20 pos": "EFTUD2",
+  "Day 20 neg": "C22orf31"
+ },
+ {
+  "Day 5 pos": "TRAFD1",
+  "Day 5 neg": "C4orf46",
+  "Day 10 pos": "PHKG1",
+  "Day 10 neg": "PAAF1",
+  "Day 15 pos": "HARS2",
+  "Day 15 neg": "GNG13",
+  "Day 20 pos": "FMNL2",
+  "Day 20 neg": "BOK"
+ },
+ {
+  "Day 5 pos": "SP1",
+  "Day 5 neg": "NLRP13",
+  "Day 10 pos": "RBM3",
+  "Day 10 neg": "ZNF511",
+  "Day 15 pos": "PPP1R26",
+  "Day 15 neg": "RBM6",
+  "Day 20 pos": "EIF2C2",
+  "Day 20 neg": "CPLX1"
+ },
+ {
+  "Day 5 pos": "ARMC7",
+  "Day 5 neg": "NT5C3L",
+  "Day 10 pos": "CEBPB",
+  "Day 10 neg": "DLX5",
+  "Day 15 pos": "TMEM229B",
+  "Day 15 neg": "PLS1",
+  "Day 20 pos": "SPTSSA",
+  "Day 20 neg": "CYP46A1"
+ },
+ {
+  "Day 5 pos": "DPPA2",
+  "Day 5 neg": "IL1F10",
+  "Day 10 pos": "CSGALNACT2",
+  "Day 10 neg": "TMEM86A",
+  "Day 15 pos": "EIF3K",
+  "Day 15 neg": "HIF1A",
+  "Day 20 pos": "MRPS26",
+  "Day 20 neg": "FBXO30"
+ },
+ {
+  "Day 5 pos": "EHBP1L1",
+  "Day 5 neg": "CANX",
+  "Day 10 pos": "NOTCH2NL",
+  "Day 10 neg": "ITSN1",
+  "Day 15 pos": "ERRFI1",
+  "Day 15 neg": "NT5C1B",
+  "Day 20 pos": "OR5T1",
+  "Day 20 neg": "CNTNAP2"
+ },
+ {
+  "Day 5 pos": "PIAS1",
+  "Day 5 neg": "OR4C3",
+  "Day 10 pos": "KHDC1",
+  "Day 10 neg": "CDH22",
+  "Day 15 pos": "ATAD5",
+  "Day 15 neg": "ACR",
+  "Day 20 pos": "KRTAP4-2",
+  "Day 20 neg": "LYZ"
+ },
+ {
+  "Day 5 pos": "SAV1",
+  "Day 5 neg": "PSAT1",
+  "Day 10 pos": "TAL2",
+  "Day 10 neg": "ARL5B",
+  "Day 15 pos": "HINT2",
+  "Day 15 neg": "GIPC2",
+  "Day 20 pos": "C17orf108",
+  "Day 20 neg": "ZNF827"
+ },
+ {
+  "Day 5 pos": "FBXW10",
+  "Day 5 neg": "CCDC159",
+  "Day 10 pos": "PIK3CA",
+  "Day 10 neg": "SOCS7",
+  "Day 15 pos": "TNFRSF11A",
+  "Day 15 neg": "CRISP2",
+  "Day 20 pos": "ZBED3",
+  "Day 20 neg": "NDRG4"
+ },
+ {
+  "Day 5 pos": "BMPER",
+  "Day 5 neg": "TBC1D20",
+  "Day 10 pos": "NAT14",
+  "Day 10 neg": "BZW1",
+  "Day 15 pos": "TMX3",
+  "Day 15 neg": "C10orf88",
+  "Day 20 pos": "SPATA8",
+  "Day 20 neg": "PRR22"
+ },
+ {
+  "Day 5 pos": "KIAA1468",
+  "Day 5 neg": "DOK5",
+  "Day 10 pos": "MNS1",
+  "Day 10 neg": "UBE2G2",
+  "Day 15 pos": "ALDH1L2",
+  "Day 15 neg": "VIM",
+  "Day 20 pos": "DDR2",
+  "Day 20 neg": "ALKBH6"
+ },
+ {
+  "Day 5 pos": "LSR",
+  "Day 5 neg": "WDSUB1",
+  "Day 10 pos": "NISCH",
+  "Day 10 neg": "JPH4",
+  "Day 15 pos": "PPP2R1A",
+  "Day 15 neg": "TEX264",
+  "Day 20 pos": "BSN",
+  "Day 20 neg": "PSMD8"
+ },
+ {
+  "Day 5 pos": "HAUS6",
+  "Day 5 neg": "CPNE2",
+  "Day 10 pos": "C20orf20",
+  "Day 10 neg": "RFK",
+  "Day 15 pos": "HAUS6",
+  "Day 15 neg": "RUNDC1",
+  "Day 20 pos": "CALM3",
+  "Day 20 neg": "MTBP"
+ },
+ {
+  "Day 5 pos": "PLAC1L",
+  "Day 5 neg": "UBQLN3",
+  "Day 10 pos": "MAFA",
+  "Day 10 neg": "CLDND2",
+  "Day 15 pos": "SPERT",
+  "Day 15 neg": "AHCYL2",
+  "Day 20 pos": "FITM1",
+  "Day 20 neg": "SERPINI1"
+ },
+ {
+  "Day 5 pos": "GPC4",
+  "Day 5 neg": "ANKRD9",
+  "Day 10 pos": "ANKRD45",
+  "Day 10 neg": "GTDC2",
+  "Day 15 pos": "EXOSC1",
+  "Day 15 neg": "KCTD3",
+  "Day 20 pos": "UGGT2",
+  "Day 20 neg": "CDH2"
+ },
+ {
+  "Day 5 pos": "M6PR",
+  "Day 5 neg": "DUSP7",
+  "Day 10 pos": "ARFGAP2",
+  "Day 10 neg": "GTF2B",
+  "Day 15 pos": "DCXR",
+  "Day 15 neg": "TAGAP",
+  "Day 20 pos": "MAD1L1",
+  "Day 20 neg": "NNMT"
+ },
+ {
+  "Day 5 pos": "ACVR1",
+  "Day 5 neg": "C12orf44",
+  "Day 10 pos": "GALNTL1",
+  "Day 10 neg": "PPIG",
+  "Day 15 pos": "GTF2H3",
+  "Day 15 neg": "HMGXB4",
+  "Day 20 pos": "OR11H6",
+  "Day 20 neg": "SLC12A7"
+ },
+ {
+  "Day 5 pos": "P2RY4",
+  "Day 5 neg": "MRGPRF",
+  "Day 10 pos": "IRF2BP1",
+  "Day 10 neg": "CPSF1",
+  "Day 15 pos": "ZNF624",
+  "Day 15 neg": "HS6ST2",
+  "Day 20 pos": "SLC2A8",
+  "Day 20 neg": "KLHL33"
+ },
+ {
+  "Day 5 pos": "POLR2A",
+  "Day 5 neg": "PACRG",
+  "Day 10 pos": "UCN3",
+  "Day 10 neg": "RNMTL1",
+  "Day 15 pos": "BMPER",
+  "Day 15 neg": "CDKN2AIP",
+  "Day 20 pos": "RASEF",
+  "Day 20 neg": "SLC39A14"
+ },
+ {
+  "Day 5 pos": "OR6C2",
+  "Day 5 neg": "IFI27",
+  "Day 10 pos": "BOD1L1",
+  "Day 10 neg": "VSX2",
+  "Day 15 pos": "RFXAP",
+  "Day 15 neg": "ZNF639",
+  "Day 20 pos": "SALL2",
+  "Day 20 neg": "CCL28"
+ },
+ {
+  "Day 5 pos": "PPP1R18",
+  "Day 5 neg": "PRELID1",
+  "Day 10 pos": "PRKAB1",
+  "Day 10 neg": "DECR2",
+  "Day 15 pos": "HIST2H3D",
+  "Day 15 neg": "FAM180A",
+  "Day 20 pos": "C7orf66",
+  "Day 20 neg": "IGFBP3"
+ },
+ {
+  "Day 5 pos": "SPAG4",
+  "Day 5 neg": "CRYGN",
+  "Day 10 pos": "EXOSC1",
+  "Day 10 neg": "CTU1",
+  "Day 15 pos": "DHX8",
+  "Day 15 neg": "HBEGF",
+  "Day 20 pos": "NPTX1",
+  "Day 20 neg": "CASS4"
+ },
+ {
+  "Day 5 pos": "TMLHE",
+  "Day 5 neg": "CD1B",
+  "Day 10 pos": "OR6C2",
+  "Day 10 neg": "TBX10",
+  "Day 15 pos": "ST18",
+  "Day 15 neg": "NMI",
+  "Day 20 pos": "SFT2D2",
+  "Day 20 neg": "RNF130"
+ },
+ {
+  "Day 5 pos": "IFITM2",
+  "Day 5 neg": "PIBF1",
+  "Day 10 pos": "CHCHD1",
+  "Day 10 neg": "TSPO2",
+  "Day 15 pos": "COL20A1",
+  "Day 15 neg": "CHRNA7",
+  "Day 20 pos": "06-Mar",
+  "Day 20 neg": "CSTF3"
+ },
+ {
+  "Day 5 pos": "TDRD9",
+  "Day 5 neg": "ABHD1",
+  "Day 10 pos": "GTF3C4",
+  "Day 10 neg": "TLE6",
+  "Day 15 pos": "RIMKLB",
+  "Day 15 neg": "FBXO17",
+  "Day 20 pos": "EGLN2",
+  "Day 20 neg": "PTCD3"
+ },
+ {
+  "Day 5 pos": "RXFP4",
+  "Day 5 neg": "C18orf1",
+  "Day 10 pos": "CLN8",
+  "Day 10 neg": "TRIM32",
+  "Day 15 pos": "ZBTB12",
+  "Day 15 neg": "EHD4",
+  "Day 20 pos": "FAM83G",
+  "Day 20 neg": "DEPDC1"
+ },
+ {
+  "Day 5 pos": "ORMDL3",
+  "Day 5 neg": "CLDN4",
+  "Day 10 pos": "PIGO",
+  "Day 10 neg": "PIAS2",
+  "Day 15 pos": "TAF1L",
+  "Day 15 neg": "CHRAC1",
+  "Day 20 pos": "ZNF431",
+  "Day 20 neg": "IGSF1"
+ },
+ {
+  "Day 5 pos": "RPS16",
+  "Day 5 neg": "GLTPD1",
+  "Day 10 pos": "CALM2",
+  "Day 10 neg": "BCAP31",
+  "Day 15 pos": "LEFTY1",
+  "Day 15 neg": "SLFNL1",
+  "Day 20 pos": "KCNA7",
+  "Day 20 neg": "C17orf56"
+ },
+ {
+  "Day 5 pos": "APOL5",
+  "Day 5 neg": "FANCG",
+  "Day 10 pos": "ZNF234",
+  "Day 10 neg": "B3GNT3",
+  "Day 15 pos": "P2RY4",
+  "Day 15 neg": "TCIRG1",
+  "Day 20 pos": "SLC34A3",
+  "Day 20 neg": "TRMT2B"
+ },
+ {
+  "Day 5 pos": "C2orf40",
+  "Day 5 neg": "KLF10",
+  "Day 10 pos": "DVL2",
+  "Day 10 neg": "DAGLB",
+  "Day 15 pos": "C10orf95",
+  "Day 15 neg": "TPM3",
+  "Day 20 pos": "ABHD6",
+  "Day 20 neg": "RC3H1"
+ },
+ {
+  "Day 5 pos": "OPA1",
+  "Day 5 neg": "IFT46",
+  "Day 10 pos": "CYP27C1",
+  "Day 10 neg": "FAM98B",
+  "Day 15 pos": "RAC3",
+  "Day 15 neg": "ANKRD10",
+  "Day 20 pos": "PPP1R26",
+  "Day 20 neg": "SLC25A46"
+ },
+ {
+  "Day 5 pos": "HIST1H2BB",
+  "Day 5 neg": "LTBP2",
+  "Day 10 pos": "IL17C",
+  "Day 10 neg": "MYOT",
+  "Day 15 pos": "SCN1B",
+  "Day 15 neg": "GAL3ST4",
+  "Day 20 pos": "TFR2",
+  "Day 20 neg": "GPR157"
+ },
+ {
+  "Day 5 pos": "TNFRSF11A",
+  "Day 5 neg": "C2orf42",
+  "Day 10 pos": "DDB2",
+  "Day 10 neg": "ASCL2",
+  "Day 15 pos": "ASPDH",
+  "Day 15 neg": "RP11-173D9.3",
+  "Day 20 pos": "C7orf41",
+  "Day 20 neg": "ARHGAP24"
+ },
+ {
+  "Day 5 pos": "AFG3L2",
+  "Day 5 neg": "C8orf73",
+  "Day 10 pos": "APOC4",
+  "Day 10 neg": "PAGE1",
+  "Day 15 pos": "RAB9B",
+  "Day 15 neg": "PHOX2B",
+  "Day 20 pos": "GNB2",
+  "Day 20 neg": "KRT10"
+ },
+ {
+  "Day 5 pos": "NDUFA7",
+  "Day 5 neg": "C17orf96",
+  "Day 10 pos": "ZNF491",
+  "Day 10 neg": "FCHO2",
+  "Day 15 pos": "WDR96",
+  "Day 15 neg": "SAMD10",
+  "Day 20 pos": "G6PC",
+  "Day 20 neg": "SYTL4"
+ },
+ {
+  "Day 5 pos": "BSN",
+  "Day 5 neg": "ARHGEF38",
+  "Day 10 pos": "ROR2",
+  "Day 10 neg": "RPS8",
+  "Day 15 pos": "KIF1C",
+  "Day 15 neg": "PPP4R2",
+  "Day 20 pos": "ARHGAP44",
+  "Day 20 neg": "SMAD3"
+ },
+ {
+  "Day 5 pos": "OR2Z1",
+  "Day 5 neg": "TAF3",
+  "Day 10 pos": "ARHGAP35",
+  "Day 10 neg": "SYN3",
+  "Day 15 pos": "WASF1",
+  "Day 15 neg": "ZCCHC7",
+  "Day 20 pos": "LYG2",
+  "Day 20 neg": "ARHGAP15"
+ },
+ {
+  "Day 5 pos": "PHKG1",
+  "Day 5 neg": "C3orf77",
+  "Day 10 pos": "ZSCAN21",
+  "Day 10 neg": "UNC45B",
+  "Day 15 pos": "SLC34A3",
+  "Day 15 neg": "TTBK2",
+  "Day 20 pos": "DGAT2L6",
+  "Day 20 neg": "FHDC1"
+ },
+ {
+  "Day 5 pos": "ZNF564",
+  "Day 5 neg": "OR10G3",
+  "Day 10 pos": "ERN�2.00",
+  "Day 10 neg": "PDE7B",
+  "Day 15 pos": "C3orf19",
+  "Day 15 neg": "MORN4",
+  "Day 20 pos": "PAG1",
+  "Day 20 neg": "ISX"
+ },
+ {
+  "Day 5 pos": "RIMBP2",
+  "Day 5 neg": "C6orf108",
+  "Day 10 pos": "ITGB6",
+  "Day 10 neg": "TRIM47",
+  "Day 15 pos": "ACOT6",
+  "Day 15 neg": "SBF2",
+  "Day 20 pos": "PSME2",
+  "Day 20 neg": "KCNJ13"
+ },
+ {
+  "Day 5 pos": "ASF1B",
+  "Day 5 neg": "PRDX2",
+  "Day 10 pos": "DYNLL2",
+  "Day 10 neg": "EVL",
+  "Day 15 pos": "NDUFA5",
+  "Day 15 neg": "C1orf159",
+  "Day 20 pos": "C12orf10",
+  "Day 20 neg": "RBMX"
+ },
+ {
+  "Day 5 pos": "RAB20",
+  "Day 5 neg": "BEND3",
+  "Day 10 pos": "PNN",
+  "Day 10 neg": "TTPA",
+  "Day 15 pos": "GDAP1",
+  "Day 15 neg": "SPEN",
+  "Day 20 pos": "OR2Z1",
+  "Day 20 neg": "FAM212A"
+ },
+ {
+  "Day 5 pos": "POLR1C",
+  "Day 5 neg": "GIMAP7",
+  "Day 10 pos": "ERRFI1",
+  "Day 10 neg": "MVD",
+  "Day 15 pos": "DDX6",
+  "Day 15 neg": "ATP6V1A",
+  "Day 20 pos": "OR2H2",
+  "Day 20 neg": "MRFAP1L1"
+ },
+ {
+  "Day 5 pos": "TRAPPC2L",
+  "Day 5 neg": "ARPC3",
+  "Day 10 pos": "HAND1",
+  "Day 10 neg": "PDYN",
+  "Day 15 pos": "FAM92B",
+  "Day 15 neg": "SMAGP",
+  "Day 20 pos": "PBX2",
+  "Day 20 neg": "DMPK"
+ },
+ {
+  "Day 5 pos": "CHMP2A",
+  "Day 5 neg": "THEM5",
+  "Day 10 pos": "OR10AG1",
+  "Day 10 neg": "INSIG2",
+  "Day 15 pos": "RRN3",
+  "Day 15 neg": "SIM1",
+  "Day 20 pos": "SERPINA11",
+  "Day 20 neg": "VDAC3"
+ },
+ {
+  "Day 5 pos": "ATP5D",
+  "Day 5 neg": "CHEK1",
+  "Day 10 pos": "ZDHHC12",
+  "Day 10 neg": "FEZ1",
+  "Day 15 pos": "SEPHS2",
+  "Day 15 neg": "SPTLC3",
+  "Day 20 pos": "OR1I1",
+  "Day 20 neg": "CPO"
+ },
+ {
+  "Day 5 pos": "EDN1",
+  "Day 5 neg": "AP1G2",
+  "Day 10 pos": "TMLHE",
+  "Day 10 neg": "LRRC1",
+  "Day 15 pos": "MT1B",
+  "Day 15 neg": "C8orf33",
+  "Day 20 pos": "C1orf56",
+  "Day 20 neg": "SETD9"
+ },
+ {
+  "Day 5 pos": "SLK",
+  "Day 5 neg": "CAPZA1",
+  "Day 10 pos": "FGF21",
+  "Day 10 neg": "TRPS1",
+  "Day 15 pos": "TMEM154",
+  "Day 15 neg": "C1orf55",
+  "Day 20 pos": "PLG",
+  "Day 20 neg": "PADI4"
+ },
+ {
+  "Day 5 pos": "KHDC1",
+  "Day 5 neg": "SPOPL",
+  "Day 10 pos": "CD36",
+  "Day 10 neg": "KCNK17",
+  "Day 15 pos": "GPRASP1",
+  "Day 15 neg": "SVIP",
+  "Day 20 pos": "UCN3",
+  "Day 20 neg": "ATP5J"
+ },
+ {
+  "Day 5 pos": "TPCN2",
+  "Day 5 neg": "DUSP8",
+  "Day 10 pos": "PNISR",
+  "Day 10 neg": "TMC5",
+  "Day 15 pos": "ZNF620",
+  "Day 15 neg": "MAN2A1",
+  "Day 20 pos": "TYR",
+  "Day 20 neg": "HSDL1"
+ },
+ {
+  "Day 5 pos": "DDX6",
+  "Day 5 neg": "ADAD1",
+  "Day 10 pos": "PPP2R1A",
+  "Day 10 neg": "C22orf29",
+  "Day 15 pos": "SLC22A10",
+  "Day 15 neg": "CSRP1",
+  "Day 20 pos": "KIAA1377",
+  "Day 20 neg": "ARSK"
+ },
+ {
+  "Day 5 pos": "DTWD2",
+  "Day 5 neg": "CDCA3",
+  "Day 10 pos": "FBXL6",
+  "Day 10 neg": "SPACA3",
+  "Day 15 pos": "ART4",
+  "Day 15 neg": "IL18R1",
+  "Day 20 pos": "BMP8A",
+  "Day 20 neg": "MAN1A2"
+ },
+ {
+  "Day 5 pos": "ACOT6",
+  "Day 5 neg": "SNUPN",
+  "Day 10 pos": "CTDNEP1",
+  "Day 10 neg": "OTC",
+  "Day 15 pos": "TM6SF2",
+  "Day 15 neg": "HNRNPC",
+  "Day 20 pos": "MYEF2",
+  "Day 20 neg": "HEBP1"
+ },
+ {
+  "Day 5 pos": "VPREB3",
+  "Day 5 neg": "RNASEH1",
+  "Day 10 pos": "C14orf176",
+  "Day 10 neg": "POU4F1",
+  "Day 15 pos": "EIF2C2",
+  "Day 15 neg": "VBP1",
+  "Day 20 pos": "PSENEN",
+  "Day 20 neg": "ADAM30"
+ },
+ {
+  "Day 5 pos": "GRIK5",
+  "Day 5 neg": "CHRAC1",
+  "Day 10 pos": "CHRM2",
+  "Day 10 neg": "SRBD1",
+  "Day 15 pos": "IAH1",
+  "Day 15 neg": "CHST9",
+  "Day 20 pos": "RNF152",
+  "Day 20 neg": "DEPDC7"
+ },
+ {
+  "Day 5 pos": "TIMM17A",
+  "Day 5 neg": "C11orf10",
+  "Day 10 pos": "CCND3",
+  "Day 10 neg": "ACTRT3",
+  "Day 15 pos": "CLEC4G",
+  "Day 15 neg": "ZNF295",
+  "Day 20 pos": "ALKBH3",
+  "Day 20 neg": "MRPL30"
+ },
+ {
+  "Day 5 pos": "RCE1",
+  "Day 5 neg": "ERGIC2",
+  "Day 10 pos": "POLR3D",
+  "Day 10 neg": "UQCR11",
+  "Day 15 pos": "NEK11",
+  "Day 15 neg": "PSEN2",
+  "Day 20 pos": "NICN1",
+  "Day 20 neg": "KDELR2"
+ },
+ {
+  "Day 5 pos": "NAPRT1",
+  "Day 5 neg": "DNAJB12",
+  "Day 10 pos": "ZNF529",
+  "Day 10 neg": "CDK8",
+  "Day 15 pos": "KLHDC10",
+  "Day 15 neg": "C14orf142",
+  "Day 20 pos": "TRPM5",
+  "Day 20 neg": "ZNF578"
+ },
+ {
+  "Day 5 pos": "RRAGC",
+  "Day 5 neg": "FBXO5",
+  "Day 10 pos": "TPP2",
+  "Day 10 neg": "NCAPH",
+  "Day 15 pos": "IGF2R",
+  "Day 15 neg": "CHRNG",
+  "Day 20 pos": "IFITM10",
+  "Day 20 neg": "FAM155A"
+ },
+ {
+  "Day 5 pos": "ATP5G2",
+  "Day 5 neg": "LRRN4CL",
+  "Day 10 pos": "SMPDL3B",
+  "Day 10 neg": "ATG4C",
+  "Day 15 pos": "ITGB6",
+  "Day 15 neg": "ACAD8",
+  "Day 20 pos": "FBXO31",
+  "Day 20 neg": "PTK2B"
+ },
+ {
+  "Day 5 pos": "DHX9",
+  "Day 5 neg": "COL4A3",
+  "Day 10 pos": "HRCT1",
+  "Day 10 neg": "LHFPL5",
+  "Day 15 pos": "D2HGDH",
+  "Day 15 neg": "PIM3",
+  "Day 20 pos": "ACOT6",
+  "Day 20 neg": "PERP"
+ },
+ {
+  "Day 5 pos": "NPAS4",
+  "Day 5 neg": "ASCL2",
+  "Day 10 pos": "MRPS10",
+  "Day 10 neg": "CA13",
+  "Day 15 pos": "OR4E2",
+  "Day 15 neg": "EMC7",
+  "Day 20 pos": "IDO1",
+  "Day 20 neg": "SCYL1"
+ },
+ {
+  "Day 5 pos": "REPS1",
+  "Day 5 neg": "TRPM4",
+  "Day 10 pos": "MFHAS1",
+  "Day 10 neg": "SIX2",
+  "Day 15 pos": "RALYL",
+  "Day 15 neg": "ARL2",
+  "Day 20 pos": "WDFY1",
+  "Day 20 neg": "RDM1"
+ },
+ {
+  "Day 5 pos": "CYTL1",
+  "Day 5 neg": "MAP2K2",
+  "Day 10 pos": "UHRF1BP1L",
+  "Day 10 neg": "C10orf118",
+  "Day 15 pos": "PNLDC1",
+  "Day 15 neg": "ADAMTS1",
+  "Day 20 pos": "DGKH",
+  "Day 20 neg": "MSRB2"
+ },
+ {
+  "Day 5 pos": "FAM92B",
+  "Day 5 neg": "SYT12",
+  "Day 10 pos": "CTSO",
+  "Day 10 neg": "WIPF1",
+  "Day 15 pos": "ATP13A1",
+  "Day 15 neg": "APOF",
+  "Day 20 pos": "TRAPPC2L",
+  "Day 20 neg": "EXTL1"
+ },
+ {
+  "Day 5 pos": "CDRT15",
+  "Day 5 neg": "ACBD7",
+  "Day 10 pos": "S100A11",
+  "Day 10 neg": "MRPS18B",
+  "Day 15 pos": "TEX33",
+  "Day 15 neg": "PSMB7",
+  "Day 20 pos": "MYL4",
+  "Day 20 neg": "WDR31"
+ },
+ {
+  "Day 5 pos": "CTNNBL1",
+  "Day 5 neg": "ZBTB22",
+  "Day 10 pos": "ERVFRD-1",
+  "Day 10 neg": "CCDC63",
+  "Day 15 pos": "C11orf94",
+  "Day 15 neg": "EFCAB5",
+  "Day 20 pos": "NRTN",
+  "Day 20 neg": "SGSM2"
+ },
+ {
+  "Day 5 pos": "ODF4",
+  "Day 5 neg": "CIAPIN1",
+  "Day 10 pos": "PIAS1",
+  "Day 10 neg": "ZDHHC19",
+  "Day 15 pos": "NXN",
+  "Day 15 neg": "SNX32",
+  "Day 20 pos": "ALG3",
+  "Day 20 neg": "ATG4D"
+ },
+ {
+  "Day 5 pos": "DHX8",
+  "Day 5 neg": "EIF3B",
+  "Day 10 pos": "RIMBP2",
+  "Day 10 neg": "HSPA4",
+  "Day 15 pos": "RNF7",
+  "Day 15 neg": "BAIAP2L1",
+  "Day 20 pos": "NDUFA7",
+  "Day 20 neg": "C7orf53"
+ },
+ {
+  "Day 5 pos": "CATSPER4",
+  "Day 5 neg": "MRPL1",
+  "Day 10 pos": "OR4K15",
+  "Day 10 neg": "LHFP",
+  "Day 15 pos": "SLC7A10",
+  "Day 15 neg": "OR3A2",
+  "Day 20 pos": "ERCC6L2",
+  "Day 20 neg": "ZNF174"
+ },
+ {
+  "Day 5 pos": "DNALI1",
+  "Day 5 neg": "OTC",
+  "Day 10 pos": "TRAFD1",
+  "Day 10 neg": "ADAM10",
+  "Day 15 pos": "SAV1",
+  "Day 15 neg": "MAN1A2",
+  "Day 20 pos": "FBXW10",
+  "Day 20 neg": "CD52"
+ },
+ {
+  "Day 5 pos": "SPERT",
+  "Day 5 neg": "TRAPPC8",
+  "Day 10 pos": "MT1B",
+  "Day 10 neg": "BUB1B",
+  "Day 15 pos": "FOXA3",
+  "Day 15 neg": "BBX",
+  "Day 20 pos": "FAM50A",
+  "Day 20 neg": "SSTR2"
+ },
+ {
+  "Day 5 pos": "WASF3",
+  "Day 5 neg": "PDE7B",
+  "Day 10 pos": "TAS2R8",
+  "Day 10 neg": "KIF13B",
+  "Day 15 pos": "FAM129A",
+  "Day 15 neg": "USH2A",
+  "Day 20 pos": "PPP1CB",
+  "Day 20 neg": "KRT23"
+ },
+ {
+  "Day 5 pos": "TREML2",
+  "Day 5 neg": "MIIP",
+  "Day 10 pos": "CST6",
+  "Day 10 neg": "TPH1",
+  "Day 15 pos": "SERPINA4",
+  "Day 15 neg": "PURA",
+  "Day 20 pos": "QSOX2",
+  "Day 20 neg": "CCL5"
+ },
+ {
+  "Day 5 pos": "C10orf95",
+  "Day 5 neg": "HRAS",
+  "Day 10 pos": "PLD4",
+  "Day 10 neg": "RRH",
+  "Day 15 pos": "CLRN2",
+  "Day 15 neg": "AGTR1",
+  "Day 20 pos": "PNISR",
+  "Day 20 neg": "TMCO5A"
+ },
+ {
+  "Day 5 pos": "OR5AU1",
+  "Day 5 neg": "HCRT",
+  "Day 10 pos": "MAGEA1",
+  "Day 10 neg": "LAG3",
+  "Day 15 pos": "ARMC7",
+  "Day 15 neg": "TRPM8",
+  "Day 20 pos": "HIGD1C",
+  "Day 20 neg": "NUCB1"
+ },
+ {
+  "Day 5 pos": "GNMT",
+  "Day 5 neg": "GALNT11",
+  "Day 10 pos": "FBXL14",
+  "Day 10 neg": "CDCA3",
+  "Day 15 pos": "IQGAP1",
+  "Day 15 neg": "SLC22A9",
+  "Day 20 pos": "CROT",
+  "Day 20 neg": "CYP1B1"
+ },
+ {
+  "Day 5 pos": "SKA3",
+  "Day 5 neg": "SLC24A3",
+  "Day 10 pos": "VCL",
+  "Day 10 neg": "NSD1",
+  "Day 15 pos": "IL18",
+  "Day 15 neg": "FASTKD1",
+  "Day 20 pos": "POLR2A",
+  "Day 20 neg": "FGL2"
+ },
+ {
+  "Day 5 pos": "CALM3",
+  "Day 5 neg": "METTL4",
+  "Day 10 pos": "FUT10",
+  "Day 10 neg": "ITIH2",
+  "Day 15 pos": "USP43",
+  "Day 15 neg": "RPGRIP1",
+  "Day 20 pos": "CYP27C1",
+  "Day 20 neg": "WDR26"
+ },
+ {
+  "Day 5 pos": "C15orf38",
+  "Day 5 neg": "MED4",
+  "Day 10 pos": "CAPS2",
+  "Day 10 neg": "ONECUT3",
+  "Day 15 pos": "FAM71C",
+  "Day 15 neg": "CRX",
+  "Day 20 pos": "ORMDL3",
+  "Day 20 neg": "MSS51"
+ },
+ {
+  "Day 5 pos": "DYNLL2",
+  "Day 5 neg": "CTSW",
+  "Day 10 pos": "FAM117B",
+  "Day 10 neg": "IER3IP1",
+  "Day 15 pos": "ANAPC4",
+  "Day 15 neg": "SDR16C5",
+  "Day 20 pos": "SOGA3",
+  "Day 20 neg": "ZNF91"
+ },
+ {
+  "Day 5 pos": "DRD5",
+  "Day 5 neg": "NNMT",
+  "Day 10 pos": "CCS",
+  "Day 10 neg": "ZNF35",
+  "Day 15 pos": "DLGAP2",
+  "Day 15 neg": "SEMA4F",
+  "Day 20 pos": "EXD1",
+  "Day 20 neg": "SUV39H2"
+ },
+ {
+  "Day 5 pos": "PNN",
+  "Day 5 neg": "MDN1",
+  "Day 10 pos": "RALYL",
+  "Day 10 neg": "PSMD2",
+  "Day 15 pos": "HMX2",
+  "Day 15 neg": "GLTSCR1",
+  "Day 20 pos": "CPA3",
+  "Day 20 neg": "PIGR"
+ },
+ {
+  "Day 5 pos": "RPL37",
+  "Day 5 neg": "KRT8",
+  "Day 10 pos": "RWDD2B",
+  "Day 10 neg": "RPS4Y2",
+  "Day 15 pos": "NOL12",
+  "Day 15 neg": "VDR",
+  "Day 20 pos": "PEX11G",
+  "Day 20 neg": "SGPP2"
+ },
+ {
+  "Day 5 pos": "D2HGDH",
+  "Day 5 neg": "KRT79",
+  "Day 10 pos": "TMEM204",
+  "Day 10 neg": "SLC1A2",
+  "Day 15 pos": "PRKAB1",
+  "Day 15 neg": "OLFM3",
+  "Day 20 pos": "TREML2",
+  "Day 20 neg": "DHRS7C"
+ },
+ {
+  "Day 5 pos": "DDR2",
+  "Day 5 neg": "SVIP",
+  "Day 10 pos": "PPL",
+  "Day 10 neg": "ACAA2",
+  "Day 15 pos": "TRPM5",
+  "Day 15 neg": "TMCO4",
+  "Day 20 pos": "SRSF12",
+  "Day 20 neg": "PHF1"
+ },
+ {
+  "Day 5 pos": "GPI",
+  "Day 5 neg": "CPEB2",
+  "Day 10 pos": "SOX7",
+  "Day 10 neg": "AQP4",
+  "Day 15 pos": "TPPP",
+  "Day 15 neg": "CDC6",
+  "Day 20 pos": "CDC42EP4",
+  "Day 20 neg": "EDA2R"
+ },
+ {
+  "Day 5 pos": "AC024575.1",
+  "Day 5 neg": "CENPBD1",
+  "Day 10 pos": "DEFB121",
+  "Day 10 neg": "RETSAT",
+  "Day 15 pos": "GNG2",
+  "Day 15 neg": "ZNF510",
+  "Day 20 pos": "ZNF385B",
+  "Day 20 neg": "CDH12"
+ },
+ {
+  "Day 5 pos": "DQX1",
+  "Day 5 neg": "LRGUK",
+  "Day 10 pos": "PURG",
+  "Day 10 neg": "IL5",
+  "Day 15 pos": "CHRM2",
+  "Day 15 neg": "ITM2B",
+  "Day 20 pos": "DPCD",
+  "Day 20 neg": "SCN3A"
+ },
+ {
+  "Day 5 pos": "NICN1",
+  "Day 5 neg": "C1orf64",
+  "Day 10 pos": "CBLN2",
+  "Day 10 neg": "MTMR6",
+  "Day 15 pos": "NPTX1",
+  "Day 15 neg": "TSPAN15",
+  "Day 20 pos": "CTCF",
+  "Day 20 neg": "FRMD3"
+ },
+ {
+  "Day 5 pos": "KIAA1407",
+  "Day 5 neg": "ACSF2",
+  "Day 10 pos": "C4orf3",
+  "Day 10 neg": "GIPC2",
+  "Day 15 pos": "HOXC10",
+  "Day 15 neg": "BCL9L",
+  "Day 20 pos": "COLEC12",
+  "Day 20 neg": "SCAMP3"
+ },
+ {
+  "Day 5 pos": "TMED9",
+  "Day 5 neg": "AP2S1",
+  "Day 10 pos": "USP28",
+  "Day 10 neg": "NPW",
+  "Day 15 pos": "CST5",
+  "Day 15 neg": "CFTR",
+  "Day 20 pos": "CCNE2",
+  "Day 20 neg": "STARD13"
+ },
+ {
+  "Day 5 pos": "AGT",
+  "Day 5 neg": "CLGN",
+  "Day 10 pos": "SCN1B",
+  "Day 10 neg": "UQCRB",
+  "Day 15 pos": "LPCAT4",
+  "Day 15 neg": "C17orf61",
+  "Day 20 pos": "ZSCAN1",
+  "Day 20 neg": "CASC4"
+ },
+ {
+  "Day 5 pos": "MRPS10",
+  "Day 5 neg": "METTL23",
+  "Day 10 pos": "LIPG",
+  "Day 10 neg": "KCTD3",
+  "Day 15 pos": "RIPK1",
+  "Day 15 neg": "PADI1",
+  "Day 20 pos": "IAPP",
+  "Day 20 neg": "OLIG2"
+ },
+ {
+  "Day 5 pos": "RNF150",
+  "Day 5 neg": "GNL3L",
+  "Day 10 pos": "PLGRKT",
+  "Day 10 neg": "CDC6",
+  "Day 15 pos": "PNPLA2",
+  "Day 15 neg": "YY1",
+  "Day 20 pos": "SPERT",
+  "Day 20 neg": "ZP3"
+ },
+ {
+  "Day 5 pos": "LCN15",
+  "Day 5 neg": "EIF3H",
+  "Day 10 pos": "MUC5B",
+  "Day 10 neg": "SPATS1",
+  "Day 15 pos": "FAAH2",
+  "Day 15 neg": "PRDX6",
+  "Day 20 pos": "AEN",
+  "Day 20 neg": "GLCCI1"
+ },
+ {
+  "Day 5 pos": "APOC3",
+  "Day 5 neg": "FKBP2",
+  "Day 10 pos": "VPS36",
+  "Day 10 neg": "ZBTB25",
+  "Day 15 pos": "IRAK3",
+  "Day 15 neg": "FAM190B",
+  "Day 20 pos": "BPIFB1",
+  "Day 20 neg": "GPR119"
+ },
+ {
+  "Day 5 pos": "GP1BA",
+  "Day 5 neg": "EBAG9",
+  "Day 10 pos": "ZNF704",
+  "Day 10 neg": "SERPINI2",
+  "Day 15 pos": "LTA",
+  "Day 15 neg": "SPC24",
+  "Day 20 pos": "CUEDC2",
+  "Day 20 neg": "VIPR1"
+ },
+ {
+  "Day 5 pos": "ISG20L2",
+  "Day 5 neg": "KLHL32",
+  "Day 10 pos": "TCTA",
+  "Day 10 neg": "KRTAP3-2",
+  "Day 15 pos": "SLC7A5",
+  "Day 15 neg": "CCNI",
+  "Day 20 pos": "KCTD11",
+  "Day 20 neg": "C9orf47"
+ },
+ {
+  "Day 5 pos": "SCN1B",
+  "Day 5 neg": "ZDHHC19",
+  "Day 10 pos": "SPERT",
+  "Day 10 neg": "DHX29",
+  "Day 15 pos": "AHR",
+  "Day 15 neg": "ADAR",
+  "Day 20 pos": "C9orf84",
+  "Day 20 neg": "AP000892.1"
+ },
+ {
+  "Day 5 pos": "SMARCD2",
+  "Day 5 neg": "FNDC5",
+  "Day 10 pos": "SYT5",
+  "Day 10 neg": "BUD31",
+  "Day 15 pos": "THRB",
+  "Day 15 neg": "RANBP10",
+  "Day 20 pos": "GNPAT",
+  "Day 20 neg": "FAM78B"
+ },
+ {
+  "Day 5 pos": "TAF11",
+  "Day 5 neg": "NOL8",
+  "Day 10 pos": "SHISA4",
+  "Day 10 neg": "CLDN1",
+  "Day 15 pos": "KLRC2",
+  "Day 15 neg": "SNAPC2",
+  "Day 20 pos": "AFG3L2",
+  "Day 20 neg": "APBA2"
+ },
+ {
+  "Day 5 pos": "DBH",
+  "Day 5 neg": "GBX2",
+  "Day 10 pos": "BNIP2",
+  "Day 10 neg": "RIC8B",
+  "Day 15 pos": "C5orf4",
+  "Day 15 neg": "CAMK2A",
+  "Day 20 pos": "DSCR4",
+  "Day 20 neg": "PRSS42"
+ },
+ {
+  "Day 5 pos": "NIPA2",
+  "Day 5 neg": "KRTAP8-1",
+  "Day 10 pos": "CYP4X1",
+  "Day 10 neg": "KDELR1",
+  "Day 15 pos": "RUVBL1",
+  "Day 15 neg": "SERPINA12",
+  "Day 20 pos": "SART3",
+  "Day 20 neg": "HINT3"
+ },
+ {
+  "Day 5 pos": "SLC18A3",
+  "Day 5 neg": "ZNF232",
+  "Day 10 pos": "PPM1G",
+  "Day 10 neg": "PRL",
+  "Day 15 pos": "HAUS5",
+  "Day 15 neg": "CDH4",
+  "Day 20 pos": "OR14A16",
+  "Day 20 neg": "CELF4"
+ },
+ {
+  "Day 5 pos": "HIST1H4I",
+  "Day 5 neg": "ALOX12",
+  "Day 10 pos": "MPEG1",
+  "Day 10 neg": "SLC22A25",
+  "Day 15 pos": "CPA3",
+  "Day 15 neg": "TRIM34",
+  "Day 20 pos": "CALML6",
+  "Day 20 neg": "DEFA6"
+ },
+ {
+  "Day 5 pos": "PGD",
+  "Day 5 neg": "FEM1B",
+  "Day 10 pos": "NIPA2",
+  "Day 10 neg": "STATH",
+  "Day 15 pos": "IL18RAP",
+  "Day 15 neg": "PRAF2",
+  "Day 20 pos": "ANGPT1",
+  "Day 20 neg": "ZNF33A"
+ },
+ {
+  "Day 5 pos": "PRDM8",
+  "Day 5 neg": "H3F3B",
+  "Day 10 pos": "TMX3",
+  "Day 10 neg": "MTPAP",
+  "Day 15 pos": "SP1",
+  "Day 15 neg": "COL9A3",
+  "Day 20 pos": "MLC1",
+  "Day 20 neg": "LRP3"
+ },
+ {
+  "Day 5 pos": "THRB",
+  "Day 5 neg": "OPRD1",
+  "Day 10 pos": "ZWILCH",
+  "Day 10 neg": "ZADH2",
+  "Day 15 pos": "AC011498.1",
+  "Day 15 neg": "CHI3L2",
+  "Day 20 pos": "TAOK1",
+  "Day 20 neg": "ASIC2"
+ },
+ {
+  "Day 5 pos": "MIEN1",
+  "Day 5 neg": "VSIG8",
+  "Day 10 pos": "THRB",
+  "Day 10 neg": "CDKN2AIP",
+  "Day 15 pos": "SS18L1",
+  "Day 15 neg": "METTL12",
+  "Day 20 pos": "SLC7A11",
+  "Day 20 neg": "CDKL3"
+ },
+ {
+  "Day 5 pos": "MBTPS1",
+  "Day 5 neg": "MAPKAPK2",
+  "Day 10 pos": "NEK11",
+  "Day 10 neg": "TBX18",
+  "Day 15 pos": "APOL6",
+  "Day 15 neg": "TMPRSS13",
+  "Day 20 pos": "TMX3",
+  "Day 20 neg": "MAU2"
+ },
+ {
+  "Day 5 pos": "C12orf70",
+  "Day 5 neg": "CCDC58",
+  "Day 10 pos": "RAB3IL1",
+  "Day 10 neg": "AL359853.2",
+  "Day 15 pos": "KIAA0913",
+  "Day 15 neg": "TRIM29",
+  "Day 20 pos": "C10orf95",
+  "Day 20 neg": "CD1B"
+ },
+ {
+  "Day 5 pos": "BOD1L1",
+  "Day 5 neg": "SHCBP1L",
+  "Day 10 pos": "GMNC",
+  "Day 10 neg": "SCGB1D1",
+  "Day 15 pos": "SH3TC1",
+  "Day 15 neg": "SERTM1",
+  "Day 20 pos": "HS3ST5",
+  "Day 20 neg": "SRM"
+ },
+ {
+  "Day 5 pos": "ZFP90",
+  "Day 5 neg": "CYYR1",
+  "Day 10 pos": "POLR1C",
+  "Day 10 neg": "TGDS",
+  "Day 15 pos": "ABHD6",
+  "Day 15 neg": "KRT222",
+  "Day 20 pos": "DCXR",
+  "Day 20 neg": "SND1"
+ },
+ {
+  "Day 5 pos": "IL17C",
+  "Day 5 neg": "OSTN",
+  "Day 10 pos": "ABCC2",
+  "Day 10 neg": "NPR�1.00",
+  "Day 15 pos": "ANO4",
+  "Day 15 neg": "LIG1",
+  "Day 20 pos": "PROCR",
+  "Day 20 neg": "RTCA"
+ },
+ {
+  "Day 5 pos": "CSTF1",
+  "Day 5 neg": "GOLIM4",
+  "Day 10 pos": "ABHD4",
+  "Day 10 neg": "FABP12",
+  "Day 15 pos": "LMTK2",
+  "Day 15 neg": "SERTAD4",
+  "Day 20 pos": "CADPS2",
+  "Day 20 neg": "NHLH2"
+ },
+ {
+  "Day 5 pos": "COL28A1",
+  "Day 5 neg": "L3MBTL1",
+  "Day 10 pos": "GPR97",
+  "Day 10 neg": "SQRDL",
+  "Day 15 pos": "RSC1A1",
+  "Day 15 neg": "NHLH2",
+  "Day 20 pos": "ASF1B",
+  "Day 20 neg": "APBA3"
+ },
+ {
+  "Day 5 pos": "PHC2",
+  "Day 5 neg": "SH3BGRL",
+  "Day 10 pos": "C22orf40",
+  "Day 10 neg": "SMC1B",
+  "Day 15 pos": "WAS",
+  "Day 15 neg": "ARPC2",
+  "Day 20 pos": "EIF3K",
+  "Day 20 neg": "TM4SF1"
+ },
+ {
+  "Day 5 pos": "TMEM204",
+  "Day 5 neg": "COL21A1",
+  "Day 10 pos": "GNPAT",
+  "Day 10 neg": "DDX53",
+  "Day 15 pos": "DHX9",
+  "Day 15 neg": "GALNT6",
+  "Day 20 pos": "SHISA4",
+  "Day 20 neg": "TLX2"
+ },
+ {
+  "Day 5 pos": "MAN1C1",
+  "Day 5 neg": "ALG10",
+  "Day 10 pos": "RANBP9",
+  "Day 10 neg": "C14orf38",
+  "Day 15 pos": "TRPV1",
+  "Day 15 neg": "KLHL35",
+  "Day 20 pos": "CDX1",
+  "Day 20 neg": "STX7"
+ },
+ {
+  "Day 5 pos": "FAM162B",
+  "Day 5 neg": "TARBP2",
+  "Day 10 pos": "PGBD4",
+  "Day 10 neg": "BATF2",
+  "Day 15 pos": "FBXO31",
+  "Day 15 neg": "ZNF578",
+  "Day 20 pos": "PRKAR1A",
+  "Day 20 neg": "SLC14A2"
+ },
+ {
+  "Day 5 pos": "IQGAP1",
+  "Day 5 neg": "TGFBRAP1",
+  "Day 10 pos": "CUL1",
+  "Day 10 neg": "OC90",
+  "Day 15 pos": "TAOK1",
+  "Day 15 neg": "IL10RB",
+  "Day 20 pos": "ACOXL",
+  "Day 20 neg": "CEP55"
+ },
+ {
+  "Day 5 pos": "EFNB3",
+  "Day 5 neg": "PPAT",
+  "Day 10 pos": "RASL10B",
+  "Day 10 neg": "FLT3LG",
+  "Day 15 pos": "PRSS54",
+  "Day 15 neg": "MYC",
+  "Day 20 pos": "AHR",
+  "Day 20 neg": "CCDC134"
+ },
+ {
+  "Day 5 pos": "IKBIP",
+  "Day 5 neg": "EFCAB11",
+  "Day 10 pos": "PRKAR1A",
+  "Day 10 neg": "ZNF732",
+  "Day 15 pos": "PARD6G",
+  "Day 15 neg": "GTPBP8",
+  "Day 20 pos": "CLRN2",
+  "Day 20 neg": "USP9X"
+ },
+ {
+  "Day 5 pos": "NUPR1",
+  "Day 5 neg": "PALB2",
+  "Day 10 pos": "BNIP3",
+  "Day 10 neg": "ITIH6",
+  "Day 15 pos": "OR5C1",
+  "Day 15 neg": "NKX6-3",
+  "Day 20 pos": "TCTA",
+  "Day 20 neg": "GATA1"
+ },
+ {
+  "Day 5 pos": "PPP2R1A",
+  "Day 5 neg": "GHSR",
+  "Day 10 pos": "FOXA3",
+  "Day 10 neg": "HEATR6",
+  "Day 15 pos": "S100A13",
+  "Day 15 neg": "DNAJB1",
+  "Day 20 pos": "ATP5G2",
+  "Day 20 neg": "ATP11B"
+ },
+ {
+  "Day 5 pos": "GTF3C4",
+  "Day 5 neg": "TSKU",
+  "Day 10 pos": "ACOXL",
+  "Day 10 neg": "CRIM1",
+  "Day 15 pos": "ZNF354A",
+  "Day 15 neg": "TOP2B",
+  "Day 20 pos": "BNC1",
+  "Day 20 neg": "PGAM2"
+ },
+ {
+  "Day 5 pos": "PAQR4",
+  "Day 5 neg": "ELANE",
+  "Day 10 pos": "EXOC4",
+  "Day 10 neg": "KIAA1704",
+  "Day 15 pos": "KCNA7",
+  "Day 15 neg": "PRAME",
+  "Day 20 pos": "IGF2R",
+  "Day 20 neg": "LEPROTL1"
+ },
+ {
+  "Day 5 pos": "NUP37",
+  "Day 5 neg": "DHX29",
+  "Day 10 pos": "TFE3",
+  "Day 10 neg": "SCN9A",
+  "Day 15 pos": "FAM117B",
+  "Day 15 neg": "MCM2",
+  "Day 20 pos": "RBFA",
+  "Day 20 neg": "XPNPEP2"
+ },
+ {
+  "Day 5 pos": "ATP13A1",
+  "Day 5 neg": "TMEM177",
+  "Day 10 pos": "C9orf84",
+  "Day 10 neg": "CRYAA",
+  "Day 15 pos": "RASEF",
+  "Day 15 neg": "GTF2E2",
+  "Day 20 pos": "AQP3",
+  "Day 20 neg": "NFKBIE"
+ },
+ {
+  "Day 5 pos": "APOL6",
+  "Day 5 neg": "OR13C9",
+  "Day 10 pos": "NRBF2",
+  "Day 10 neg": "LGR5",
+  "Day 15 pos": "HAND1",
+  "Day 15 neg": "RPS8",
+  "Day 20 pos": "CD5L",
+  "Day 20 neg": "MCM9"
+ },
+ {
+  "Day 5 pos": "GNG2",
+  "Day 5 neg": "RPF2",
+  "Day 10 pos": "IFI16",
+  "Day 10 neg": "SLC12A5",
+  "Day 15 pos": "HSPA12B",
+  "Day 15 neg": "PLCL2",
+  "Day 20 pos": "TMEM88",
+  "Day 20 neg": "MSMO1"
+ },
+ {
+  "Day 5 pos": "NOTCH2NL",
+  "Day 5 neg": "STAG2",
+  "Day 10 pos": "FAT2",
+  "Day 10 neg": "IMPG2",
+  "Day 15 pos": "GALNTL1",
+  "Day 15 neg": "TMEM217",
+  "Day 20 pos": "ZDHHC12",
+  "Day 20 neg": "ANKRD32"
+ },
+ {
+  "Day 5 pos": "JAG1",
+  "Day 5 neg": "EBF1",
+  "Day 10 pos": "OR1I1",
+  "Day 10 neg": "KLF8",
+  "Day 15 pos": "PCP2",
+  "Day 15 neg": "COX8A",
+  "Day 20 pos": "C2orf40",
+  "Day 20 neg": "BTAF1"
+ },
+ {
+  "Day 5 pos": "UTS2D",
+  "Day 5 neg": "IL27RA",
+  "Day 10 pos": "OR2H2",
+  "Day 10 neg": "LINGO4",
+  "Day 15 pos": "TFPI2",
+  "Day 15 neg": "NRG2",
+  "Day 20 pos": "NISCH",
+  "Day 20 neg": "MVP"
+ },
+ {
+  "Day 5 pos": "NDUFB6",
+  "Day 5 neg": "HEPACAM",
+  "Day 10 pos": "TPPP",
+  "Day 10 neg": "C14orf119",
+  "Day 15 pos": "TRAM1",
+  "Day 15 neg": "TTC36",
+  "Day 20 pos": "MTTP",
+  "Day 20 neg": "FOXO4"
+ },
+ {
+  "Day 5 pos": "CACNG3",
+  "Day 5 neg": "C10orf118",
+  "Day 10 pos": "MT1A",
+  "Day 10 neg": "PHOX2B",
+  "Day 15 pos": "RASL10B",
+  "Day 15 neg": "IL1F10",
+  "Day 20 pos": "LOXL3",
+  "Day 20 neg": "SHISA5"
+ },
+ {
+  "Day 5 pos": "MS4A8B",
+  "Day 5 neg": "MSANTD2",
+  "Day 10 pos": "ZSCAN1",
+  "Day 10 neg": "STAC",
+  "Day 15 pos": "MIEN1",
+  "Day 15 neg": "ENGASE",
+  "Day 20 pos": "INIP",
+  "Day 20 neg": "AIFM3"
+ },
+ {
+  "Day 5 pos": "SPACA7",
+  "Day 5 neg": "PSMD2",
+  "Day 10 pos": "CEL",
+  "Day 10 neg": "RBBP5",
+  "Day 15 pos": "CALML6",
+  "Day 15 neg": "GBA2",
+  "Day 20 pos": "NSMCE4A",
+  "Day 20 neg": "LTF"
+ },
+ {
+  "Day 5 pos": "TAS2R8",
+  "Day 5 neg": "DOCK10",
+  "Day 10 pos": "CADPS2",
+  "Day 10 neg": "OR5AK2",
+  "Day 15 pos": "IFITM2",
+  "Day 15 neg": "ASPG",
+  "Day 20 pos": "OCA2",
+  "Day 20 neg": "KIAA1210"
+ },
+ {
+  "Day 5 pos": "LMBRD1",
+  "Day 5 neg": "TTC9B",
+  "Day 10 pos": "SNX1",
+  "Day 10 neg": "BFSP2",
+  "Day 15 pos": "PCDH10",
+  "Day 15 neg": "STS",
+  "Day 20 pos": "ALPK2",
+  "Day 20 neg": "PSMB4"
+ },
+ {
+  "Day 5 pos": "A2M",
+  "Day 5 neg": "ATRN",
+  "Day 10 pos": "WASF3",
+  "Day 10 neg": "PTGDS",
+  "Day 15 pos": "HSPB6",
+  "Day 15 neg": "IQSEC1",
+  "Day 20 pos": "KIF4B",
+  "Day 20 neg": "MAPK4"
+ },
+ {
+  "Day 5 pos": "SLC35G2",
+  "Day 5 neg": "PRR14L",
+  "Day 10 pos": "OR5T3",
+  "Day 10 neg": "PGS1",
+  "Day 15 pos": "ANKRD29",
+  "Day 15 neg": "STXBP5",
+  "Day 20 pos": "KIF15",
+  "Day 20 neg": "RABL3"
+ },
+ {
+  "Day 5 pos": "SEC23A",
+  "Day 5 neg": "PI15",
+  "Day 10 pos": "CD109",
+  "Day 10 neg": "PTCD2",
+  "Day 15 pos": "SLC18A2",
+  "Day 15 neg": "ZIC5",
+  "Day 20 pos": "TOPBP1",
+  "Day 20 neg": "C5orf49"
+ },
+ {
+  "Day 5 pos": "SKIV2L2",
+  "Day 5 neg": "C12orf49",
+  "Day 10 pos": "TEX33",
+  "Day 10 neg": "TMCO5A",
+  "Day 15 pos": "ZDHHC12",
+  "Day 15 neg": "CHRNA2",
+  "Day 20 pos": "RAB8A",
+  "Day 20 neg": "ABCC11"
+ },
+ {
+  "Day 5 pos": "MAPK15",
+  "Day 5 neg": "JAK2",
+  "Day 10 pos": "HOXB4",
+  "Day 10 neg": "AQP9",
+  "Day 15 pos": "CDH1",
+  "Day 15 neg": "OR4K13",
+  "Day 20 pos": "FH",
+  "Day 20 neg": "GPKOW"
+ },
+ {
+  "Day 5 pos": "DNAJA2",
+  "Day 5 neg": "C6orf201",
+  "Day 10 pos": "KCNG2",
+  "Day 10 neg": "TMX4",
+  "Day 15 pos": "PSENEN",
+  "Day 15 neg": "TRPM4",
+  "Day 20 pos": "ADPRHL1",
+  "Day 20 neg": "ESF1"
+ },
+ {
+  "Day 5 pos": "TXNDC15",
+  "Day 5 neg": "RHOG",
+  "Day 10 pos": "HSD17B12",
+  "Day 10 neg": "FOLR1",
+  "Day 15 pos": "CDC42EP4",
+  "Day 15 neg": "UBL7",
+  "Day 20 pos": "RINL",
+  "Day 20 neg": "TM4SF20"
+ },
+ {
+  "Day 5 pos": "TBC1D8",
+  "Day 5 neg": "C21orf7",
+  "Day 10 pos": "ASPSCR1",
+  "Day 10 neg": "DCK",
+  "Day 15 pos": "ZNF385D",
+  "Day 15 neg": "KIAA0141",
+  "Day 20 pos": "CYP11B2",
+  "Day 20 neg": "C6orf108"
+ },
+ {
+  "Day 5 pos": "HIGD1C",
+  "Day 5 neg": "CMAS",
+  "Day 10 pos": "ANGPT4",
+  "Day 10 neg": "BCKDHA",
+  "Day 15 pos": "NMBR",
+  "Day 15 neg": "EPB41L3",
+  "Day 20 pos": "DNAJA2",
+  "Day 20 neg": "GALNT7"
+ },
+ {
+  "Day 5 pos": "AURKA",
+  "Day 5 neg": "HS6ST2",
+  "Day 10 pos": "FBXO31",
+  "Day 10 neg": "GNB1L",
+  "Day 15 pos": "ZNF23",
+  "Day 15 neg": "PDE6H",
+  "Day 20 pos": "MURC",
+  "Day 20 neg": "SOCS7"
+ },
+ {
+  "Day 5 pos": "KIF4B",
+  "Day 5 neg": "CPXCR1",
+  "Day 10 pos": "FPGT-TNNI3K",
+  "Day 10 neg": "VAT1",
+  "Day 15 pos": "CTCF",
+  "Day 15 neg": "CCDC90A",
+  "Day 20 pos": "USP6NL",
+  "Day 20 neg": "KDELR3"
+ },
+ {
+  "Day 5 pos": "RNF207",
+  "Day 5 neg": "RRH",
+  "Day 10 pos": "DLGAP2",
+  "Day 10 neg": "ATL2",
+  "Day 15 pos": "OR10J3",
+  "Day 15 neg": "INCENP",
+  "Day 20 pos": "ZNF610",
+  "Day 20 neg": "MORF4L2"
+ },
+ {
+  "Day 5 pos": "TMEM239",
+  "Day 5 neg": "PADI1",
+  "Day 10 pos": "TKT",
+  "Day 10 neg": "ZAR�1.00",
+  "Day 15 pos": "SLCO3A1",
+  "Day 15 neg": "EPOR",
+  "Day 20 pos": "NAP1L5",
+  "Day 20 neg": "CDK5"
+ },
+ {
+  "Day 5 pos": "UPK1A",
+  "Day 5 neg": "PDZRN4",
+  "Day 10 pos": "KDELC1",
+  "Day 10 neg": "CCL14",
+  "Day 15 pos": "C1orf204",
+  "Day 15 neg": "CPEB1",
+  "Day 20 pos": "STAM",
+  "Day 20 neg": "ESAM"
+ },
+ {
+  "Day 5 pos": "ABHD6",
+  "Day 5 neg": "FADS1",
+  "Day 10 pos": "SKP1",
+  "Day 10 neg": "TMEM169",
+  "Day 15 pos": "PSME2",
+  "Day 15 neg": "SWT1",
+  "Day 20 pos": "HSPA5",
+  "Day 20 neg": "PRKAR2A"
+ },
+ {
+  "Day 5 pos": "SPTSSA",
+  "Day 5 neg": "KRTDAP",
+  "Day 10 pos": "FAM161B",
+  "Day 10 neg": "KLHL29",
+  "Day 15 pos": "PPP1R11",
+  "Day 15 neg": "FREM2",
+  "Day 20 pos": "PDSS2",
+  "Day 20 neg": "CDHR2"
+ },
+ {
+  "Day 5 pos": "CHCHD1",
+  "Day 5 neg": "TM7SF2",
+  "Day 10 pos": "RIPK1",
+  "Day 10 neg": "TAF9B",
+  "Day 15 pos": "C4orf22",
+  "Day 15 neg": "CHST12",
+  "Day 20 pos": "C11orf2",
+  "Day 20 neg": "BCAP31"
+ },
+ {
+  "Day 5 pos": "GNA15",
+  "Day 5 neg": "SHROOM4",
+  "Day 10 pos": "TREML2",
+  "Day 10 neg": "EPHX4",
+  "Day 15 pos": "SAMD4B",
+  "Day 15 neg": "SYF2",
+  "Day 20 pos": "TMEM239",
+  "Day 20 neg": "OR2A4"
+ },
+ {
+  "Day 5 pos": "NBN",
+  "Day 5 neg": "ALX3",
+  "Day 10 pos": "HINT2",
+  "Day 10 neg": "FADS1",
+  "Day 15 pos": "DDX19A",
+  "Day 15 neg": "IQCK",
+  "Day 20 pos": "TRIO",
+  "Day 20 neg": "ASH1L"
+ },
+ {
+  "Day 5 pos": "ARG2",
+  "Day 5 neg": "PSMB9",
+  "Day 10 pos": "SLC34A3",
+  "Day 10 neg": "CRB2",
+  "Day 15 pos": "SBK2",
+  "Day 15 neg": "TCP10L2",
+  "Day 20 pos": "RUVBL1",
+  "Day 20 neg": "C17orf81"
+ },
+ {
+  "Day 5 pos": "C9orf84",
+  "Day 5 neg": "ISG20",
+  "Day 10 pos": "C7orf66",
+  "Day 10 neg": "KBTBD10",
+  "Day 15 pos": "TRIM8",
+  "Day 15 neg": "OR10R2",
+  "Day 20 pos": "CD36",
+  "Day 20 neg": "NCOA5"
+ },
+ {
+  "Day 5 pos": "RAC3",
+  "Day 5 neg": "CRIM1",
+  "Day 10 pos": "DNALI1",
+  "Day 10 neg": "ESPNL",
+  "Day 15 pos": "CTNS",
+  "Day 15 neg": "LILRA3",
+  "Day 20 pos": "TDRD1",
+  "Day 20 neg": "SH3GL3"
+ },
+ {
+  "Day 5 pos": "CYP27C1",
+  "Day 5 neg": "MYLK2",
+  "Day 10 pos": "OR56A3",
+  "Day 10 neg": "ZDBF2",
+  "Day 15 pos": "HAPLN1",
+  "Day 15 neg": "CCL28",
+  "Day 20 pos": "TPP2",
+  "Day 20 neg": "HOXD8"
+ },
+ {
+  "Day 5 pos": "TAF2",
+  "Day 5 neg": "TRIM26",
+  "Day 10 pos": "EFTUD2",
+  "Day 10 neg": "TMEM144",
+  "Day 15 pos": "CCL15",
+  "Day 15 neg": "DHPS",
+  "Day 20 pos": "KIR3DL3",
+  "Day 20 neg": "NCAN"
+ },
+ {
+  "Day 5 pos": "FAM13C",
+  "Day 5 neg": "CLCNKB",
+  "Day 10 pos": "OSBP",
+  "Day 10 neg": "MDM1",
+  "Day 15 pos": "SPINK14",
+  "Day 15 neg": "CXCL5",
+  "Day 20 pos": "RP11-466G12.4",
+  "Day 20 neg": "KNCN"
+ },
+ {
+  "Day 5 pos": "C11orf21",
+  "Day 5 neg": "EXPH5",
+  "Day 10 pos": "B4GALNT3",
+  "Day 10 neg": "FUT7",
+  "Day 15 pos": "POU2AF1",
+  "Day 15 neg": "KRT26",
+  "Day 20 pos": "TPPP",
+  "Day 20 neg": "HCN2"
+ },
+ {
+  "Day 5 pos": "TOMM6",
+  "Day 5 neg": "E2F2",
+  "Day 10 pos": "XKR4",
+  "Day 10 neg": "CDC42BPB",
+  "Day 15 pos": "TRAFD1",
+  "Day 15 neg": "FAM212A",
+  "Day 20 pos": "OR4E2",
+  "Day 20 neg": "ZNF407"
+ },
+ {
+  "Day 5 pos": "PPP1R13B",
+  "Day 5 neg": "TRMT1L",
+  "Day 10 pos": "CEP104",
+  "Day 10 neg": "SPTLC3",
+  "Day 15 pos": "OLA1",
+  "Day 15 neg": "TMEM107",
+  "Day 20 pos": "PHYH",
+  "Day 20 neg": "CELSR1"
+ },
+ {
+  "Day 5 pos": "KIR3DL3",
+  "Day 5 neg": "FAM73A",
+  "Day 10 pos": "DUS1L",
+  "Day 10 neg": "EBF1",
+  "Day 15 pos": "USP38",
+  "Day 15 neg": "PICK1",
+  "Day 20 pos": "PLEKHH1",
+  "Day 20 neg": "PXT1"
+ },
+ {
+  "Day 5 pos": "MUC5B",
+  "Day 5 neg": "TAF1B",
+  "Day 10 pos": "GINS1",
+  "Day 10 neg": "TEFM",
+  "Day 15 pos": "IGF1R",
+  "Day 15 neg": "PRSS38",
+  "Day 20 pos": "PHC2",
+  "Day 20 neg": "PSME1"
+ },
+ {
+  "Day 5 pos": "MYL4",
+  "Day 5 neg": "FGF5",
+  "Day 10 pos": "KLRC2",
+  "Day 10 neg": "ZNF517",
+  "Day 15 pos": "ALG3",
+  "Day 15 neg": "SLC25A24",
+  "Day 20 pos": "FOXN4",
+  "Day 20 neg": "MTMR4"
+ },
+ {
+  "Day 5 pos": "LRRC4B",
+  "Day 5 neg": "SNX4",
+  "Day 10 pos": "SPATA8",
+  "Day 10 neg": "GAS2L2",
+  "Day 15 pos": "SRD5A1",
+  "Day 15 neg": "CPA4",
+  "Day 20 pos": "ZNF714",
+  "Day 20 neg": "PIP5K1C"
+ },
+ {
+  "Day 5 pos": "TGFB1I1",
+  "Day 5 neg": "MSI2",
+  "Day 10 pos": "PSMC2",
+  "Day 10 neg": "SLC43A1",
+  "Day 15 pos": "PNN",
+  "Day 15 neg": "UBL4A",
+  "Day 20 pos": "PGAP1",
+  "Day 20 neg": "ZNF764"
+ },
+ {
+  "Day 5 pos": "GEMIN5",
+  "Day 5 neg": "CDC6",
+  "Day 10 pos": "USP53",
+  "Day 10 neg": "C6orf118",
+  "Day 15 pos": "SPDYC",
+  "Day 15 neg": "RGP1",
+  "Day 20 pos": "ADRA1D",
+  "Day 20 neg": "GPCPD1"
+ },
+ {
+  "Day 5 pos": "EXOSC1",
+  "Day 5 neg": "ZBTB25",
+  "Day 10 pos": "MACF1",
+  "Day 10 neg": "MSLN",
+  "Day 15 pos": "MARCKS",
+  "Day 15 neg": "FRMPD1",
+  "Day 20 pos": "DHTKD1",
+  "Day 20 neg": "AKAP7"
+ },
+ {
+  "Day 5 pos": "ITGAV",
+  "Day 5 neg": "MVP",
+  "Day 10 pos": "ZNF23",
+  "Day 10 neg": "SP3",
+  "Day 15 pos": "CTDNEP1",
+  "Day 15 neg": "C12orf44",
+  "Day 20 pos": "TAF1L",
+  "Day 20 neg": "MYSM1"
+ },
+ {
+  "Day 5 pos": "TYSND1",
+  "Day 5 neg": "TLE6",
+  "Day 10 pos": "FOXN4",
+  "Day 10 neg": "DHX37",
+  "Day 15 pos": "RDH12",
+  "Day 15 neg": "ENTPD6",
+  "Day 20 pos": "NRBF2",
+  "Day 20 neg": "PKP4"
+ },
+ {
+  "Day 5 pos": "WDR96",
+  "Day 5 neg": "TXNRD2",
+  "Day 10 pos": "HS3ST5",
+  "Day 10 neg": "DNAJC16",
+  "Day 15 pos": "MOB1A",
+  "Day 15 neg": "ZNF827",
+  "Day 20 pos": "ACMSD",
+  "Day 20 neg": "UBR7"
+ },
+ {
+  "Day 5 pos": "STIP1",
+  "Day 5 neg": "MLL3",
+  "Day 10 pos": "VPS4A",
+  "Day 10 neg": "HIAT1",
+  "Day 15 pos": "ANGPT1",
+  "Day 15 neg": "PRR22",
+  "Day 20 pos": "UBR2",
+  "Day 20 neg": "ATPBD4"
+ },
+ {
+  "Day 5 pos": "ICAM5",
+  "Day 5 neg": "RAB19",
+  "Day 10 pos": "RBFA",
+  "Day 10 neg": "STRA8",
+  "Day 15 pos": "ENTPD3",
+  "Day 15 neg": "PSMD8",
+  "Day 20 pos": "HORMAD2",
+  "Day 20 neg": "ZMYM3"
+ },
+ {
+  "Day 5 pos": "SLC7A10",
+  "Day 5 neg": "GJA9",
+  "Day 10 pos": "L3MBTL4",
+  "Day 10 neg": "PEAK1",
+  "Day 15 pos": "MRPS35",
+  "Day 15 neg": "ABCA6",
+  "Day 20 pos": "FAM71C",
+  "Day 20 neg": "IMP4"
+ },
+ {
+  "Day 5 pos": "TH1L",
+  "Day 5 neg": "TMC7",
+  "Day 10 pos": "TPRKB",
+  "Day 10 neg": "C17orf61",
+  "Day 15 pos": "PFDN6",
+  "Day 15 neg": "COL4A3",
+  "Day 20 pos": "PROP1",
+  "Day 20 neg": "LSP1"
+ },
+ {
+  "Day 5 pos": "CCDC15",
+  "Day 5 neg": "AL359853.2",
+  "Day 10 pos": "ICAM5",
+  "Day 10 neg": "WDR16",
+  "Day 15 pos": "CYP4F22",
+  "Day 15 neg": "ZNF225",
+  "Day 20 pos": "NFKBIB",
+  "Day 20 neg": "ACOX2"
+ },
+ {
+  "Day 5 pos": "OR6C76",
+  "Day 5 neg": "AP1S3",
+  "Day 10 pos": "P2RY14",
+  "Day 10 neg": "SAFB2",
+  "Day 15 pos": "PDSS2",
+  "Day 15 neg": "ZBTB6",
+  "Day 20 pos": "PRR16",
+  "Day 20 neg": "KIR3DL1"
+ },
+ {
+  "Day 5 pos": "ANKRD45",
+  "Day 5 neg": "CCNB2",
+  "Day 10 pos": "UGGT2",
+  "Day 10 neg": "LGALS7",
+  "Day 15 pos": "TRIM42",
+  "Day 15 neg": "DDX50",
+  "Day 20 pos": "RAB9B",
+  "Day 20 neg": "FABP12"
+ },
+ {
+  "Day 5 pos": "PRND",
+  "Day 5 neg": "DNAJC19",
+  "Day 10 pos": "SCGB2B2",
+  "Day 10 neg": "ACTL6A",
+  "Day 15 pos": "GPR97",
+  "Day 15 neg": "ITGB2",
+  "Day 20 pos": "KPNA3",
+  "Day 20 neg": "MICAL1"
+ },
+ {
+  "Day 5 pos": "CSTL1",
+  "Day 5 neg": "OC90",
+  "Day 10 pos": "PDIK1L",
+  "Day 10 neg": "AKAP8L",
+  "Day 15 pos": "MPP4",
+  "Day 15 neg": "ARSJ",
+  "Day 20 pos": "FAM133A",
+  "Day 20 neg": "PRTFDC1"
+ },
+ {
+  "Day 5 pos": "SLC34A3",
+  "Day 5 neg": "C7orf65",
+  "Day 10 pos": "AC007228.1",
+  "Day 10 neg": "USP32",
+  "Day 15 pos": "ZNF268",
+  "Day 15 neg": "IQCA1",
+  "Day 20 pos": "ABHD4",
+  "Day 20 neg": "LRRC38"
+ },
+ {
+  "Day 5 pos": "UBC",
+  "Day 5 neg": "CTDSPL2",
+  "Day 10 pos": "MOSPD3",
+  "Day 10 neg": "ABCF3",
+  "Day 15 pos": "SLC2A3",
+  "Day 15 neg": "ADI1",
+  "Day 20 pos": "MPEG1",
+  "Day 20 neg": "GALNT11"
+ },
+ {
+  "Day 5 pos": "DYRK2",
+  "Day 5 neg": "CYP4F3",
+  "Day 10 pos": "ZNF385B",
+  "Day 10 neg": "ADAMTS20",
+  "Day 15 pos": "PDIK1L",
+  "Day 15 neg": "RFNG",
+  "Day 20 pos": "FBXO10",
+  "Day 20 neg": "INS"
+ },
+ {
+  "Day 5 pos": "PSENEN",
+  "Day 5 neg": "AGGF1",
+  "Day 10 pos": "KIAA1407",
+  "Day 10 neg": "C12orf49",
+  "Day 15 pos": "KIF4B",
+  "Day 15 neg": "ATP8A1",
+  "Day 20 pos": "NPFFR1",
+  "Day 20 neg": "CAPN2"
+ },
+ {
+  "Day 5 pos": "HSPA12B",
+  "Day 5 neg": "PTX4",
+  "Day 10 pos": "COL5A1",
+  "Day 10 neg": "SIPA1L2",
+  "Day 15 pos": "PPP1CB",
+  "Day 15 neg": "TBRG4",
+  "Day 20 pos": "NUDT5",
+  "Day 20 neg": "PRRC1"
+ },
+ {
+  "Day 5 pos": "TECTA",
+  "Day 5 neg": "CDR2L",
+  "Day 10 pos": "OR11H12",
+  "Day 10 neg": "ATP7A",
+  "Day 15 pos": "TAS2R8",
+  "Day 15 neg": "ERP44",
+  "Day 20 pos": "FBLN1",
+  "Day 20 neg": "EFCAB4B"
+ },
+ {
+  "Day 5 pos": "KLF17",
+  "Day 5 neg": "SLC12A5",
+  "Day 10 pos": "TAS2R3",
+  "Day 10 neg": "UTF1",
+  "Day 15 pos": "FNBP4",
+  "Day 15 neg": "CHEK1",
+  "Day 20 pos": "MANSC1",
+  "Day 20 neg": "TEX12"
+ },
+ {
+  "Day 5 pos": "ZNF354A",
+  "Day 5 neg": "C14orf119",
+  "Day 10 pos": "PROP1",
+  "Day 10 neg": "FAM163A",
+  "Day 15 pos": "HPCAL1",
+  "Day 15 neg": "CCDC42",
+  "Day 20 pos": "RAB28",
+  "Day 20 neg": "GPSM3"
+ },
+ {
+  "Day 5 pos": "PRICKLE4",
+  "Day 5 neg": "BFSP2",
+  "Day 10 pos": "LAMP3",
+  "Day 10 neg": "IGF2BP3",
+  "Day 15 pos": "TXNDC15",
+  "Day 15 neg": "MOB2",
+  "Day 20 pos": "COL28A1",
+  "Day 20 neg": "CWC27"
+ },
+ {
+  "Day 5 pos": "UTP20",
+  "Day 5 neg": "NR0B1",
+  "Day 10 pos": "HOXA1",
+  "Day 10 neg": "PSMB7",
+  "Day 15 pos": "BYSL",
+  "Day 15 neg": "C12orf75",
+  "Day 20 pos": "C9orf100",
+  "Day 20 neg": "TAGAP"
+ },
+ {
+  "Day 5 pos": "SCGB1A1",
+  "Day 5 neg": "TTBK2",
+  "Day 10 pos": "AJUBA",
+  "Day 10 neg": "MOGAT2",
+  "Day 15 pos": "SCGB1C1",
+  "Day 15 neg": "FFAR1",
+  "Day 20 pos": "PDPR",
+  "Day 20 neg": "ZNF781"
+ },
+ {
+  "Day 5 pos": "CCNE2",
+  "Day 5 neg": "AWAT1",
+  "Day 10 pos": "NXPH1",
+  "Day 10 neg": "SNCAIP",
+  "Day 15 pos": "CERK",
+  "Day 15 neg": "OOEP",
+  "Day 20 pos": "RP3-402G11.5",
+  "Day 20 neg": "NOL3"
+ },
+ {
+  "Day 5 pos": "CLEC4G",
+  "Day 5 neg": "LPIN2",
+  "Day 10 pos": "CHCHD5",
+  "Day 10 neg": "C1orf64",
+  "Day 15 pos": "NCK2",
+  "Day 15 neg": "KERA",
+  "Day 20 pos": "LDHA",
+  "Day 20 neg": "C20orf202"
+ },
+ {
+  "Day 5 pos": "ORAI1",
+  "Day 5 neg": "KLRB1",
+  "Day 10 pos": "ELOVL6",
+  "Day 10 neg": "BBX",
+  "Day 15 pos": "FBXW10",
+  "Day 15 neg": "ATP6V0C",
+  "Day 20 pos": "OR6P1",
+  "Day 20 neg": "ZNF347"
+ },
+ {
+  "Day 5 pos": "TRIP13",
+  "Day 5 neg": "MPI",
+  "Day 10 pos": "C4orf17",
+  "Day 10 neg": "RP11-178D12.1",
+  "Day 15 pos": "TYR",
+  "Day 15 neg": "CHRNE",
+  "Day 20 pos": "TNFSF10",
+  "Day 20 neg": "SNN"
+ },
+ {
+  "Day 5 pos": "ACADS",
+  "Day 5 neg": "KCNH4",
+  "Day 10 pos": "PLN",
+  "Day 10 neg": "CNTN6",
+  "Day 15 pos": "MOCS2",
+  "Day 15 neg": "TJP3",
+  "Day 20 pos": "ZNF844",
+  "Day 20 neg": "SRF"
+ },
+ {
+  "Day 5 pos": "PTCHD2",
+  "Day 5 neg": "MRPL42",
+  "Day 10 pos": "CCDC164",
+  "Day 10 neg": "RRP9",
+  "Day 15 pos": "ELOVL6",
+  "Day 15 neg": "BZRAP1",
+  "Day 20 pos": "CCDC36",
+  "Day 20 neg": "C5orf47"
+ },
+ {
+  "Day 5 pos": "OR2H2",
+  "Day 5 neg": "EPRS",
+  "Day 10 pos": "STK11IP",
+  "Day 10 neg": "ADAM23",
+  "Day 15 pos": "MED15",
+  "Day 15 neg": "RC3H1",
+  "Day 20 pos": "ZMIZ1",
+  "Day 20 neg": "ZC2HC1B"
+ },
+ {
+  "Day 5 pos": "RNF103",
+  "Day 5 neg": "ACADM",
+  "Day 10 pos": "CTCF",
+  "Day 10 neg": "NFATC1",
+  "Day 15 pos": "FOXO1",
+  "Day 15 neg": "AOX1",
+  "Day 20 pos": "WDR96",
+  "Day 20 neg": "PIGM"
+ },
+ {
+  "Day 5 pos": "CLIP2",
+  "Day 5 neg": "HAS3",
+  "Day 10 pos": "DSG3",
+  "Day 10 neg": "ATOX1",
+  "Day 15 pos": "NINL",
+  "Day 15 neg": "RHBDL3",
+  "Day 20 pos": "TXNDC15",
+  "Day 20 neg": "ADCYAP1"
+ },
+ {
+  "Day 5 pos": "UNCX",
+  "Day 5 neg": "IL5",
+  "Day 10 pos": "SH2D4A",
+  "Day 10 neg": "GAST",
+  "Day 15 pos": "NKX2-1",
+  "Day 15 neg": "PDCD1LG2",
+  "Day 20 pos": "ZNF251",
+  "Day 20 neg": "RBPJ"
+ },
+ {
+  "Day 5 pos": "RASL12",
+  "Day 5 neg": "ZAR1",
+  "Day 10 pos": "KIAA0226",
+  "Day 10 neg": "AURKB",
+  "Day 15 pos": "NYX",
+  "Day 15 neg": "BTBD9",
+  "Day 20 pos": "ZNF98",
+  "Day 20 neg": "AASDHPPT"
+ },
+ {
+  "Day 5 pos": "SCGB1C1",
+  "Day 5 neg": "LIPT2",
+  "Day 10 pos": "UTP20",
+  "Day 10 neg": "POU6F1",
+  "Day 15 pos": "DDOST",
+  "Day 15 neg": "NCK1",
+  "Day 20 pos": "TRAF1",
+  "Day 20 neg": "TTC7A"
+ },
+ {
+  "Day 5 pos": "HTRA3",
+  "Day 5 neg": "AMDHD1",
+  "Day 10 pos": "RNF165",
+  "Day 10 neg": "PKDCC",
+  "Day 15 pos": "WNK3",
+  "Day 15 neg": "OR4K14",
+  "Day 20 pos": "HGSNAT",
+  "Day 20 neg": "ZNF75A"
+ },
+ {
+  "Day 5 pos": "TYR",
+  "Day 5 neg": "SERPINB10",
+  "Day 10 pos": "GAL3ST2",
+  "Day 10 neg": "SDC4",
+  "Day 15 pos": "DSG3",
+  "Day 15 neg": "KRT10",
+  "Day 20 pos": "SNX22",
+  "Day 20 neg": "CDK17"
+ },
+ {
+  "Day 5 pos": "ZNF704",
+  "Day 5 neg": "XKR6",
+  "Day 10 pos": "SPTSSA",
+  "Day 10 neg": "KPRP",
+  "Day 15 pos": "DEFB112",
+  "Day 15 neg": "DOK4",
+  "Day 20 pos": "PLIN3",
+  "Day 20 neg": "ALOX5"
+ },
+ {
+  "Day 5 pos": "ZNF469",
+  "Day 5 neg": "PRKRIR",
+  "Day 10 pos": "CCND2",
+  "Day 10 neg": "FAIM",
+  "Day 15 pos": "TMLHE",
+  "Day 15 neg": "ETF1",
+  "Day 20 pos": "AQP7",
+  "Day 20 neg": "CBX7"
+ },
+ {
+  "Day 5 pos": "OXGR1",
+  "Day 5 neg": "TAF9B",
+  "Day 10 pos": "NCK2",
+  "Day 10 neg": "CLGN",
+  "Day 15 pos": "SUCLA2",
+  "Day 15 neg": "PIK3AP1",
+  "Day 20 pos": "MMD",
+  "Day 20 neg": "TOR4A"
+ },
+ {
+  "Day 5 pos": "ODF3",
+  "Day 5 neg": "CABP2",
+  "Day 10 pos": "HACE1",
+  "Day 10 neg": "TARDBP",
+  "Day 15 pos": "ITGA5",
+  "Day 15 neg": "C10orf107",
+  "Day 20 pos": "SGMS2",
+  "Day 20 neg": "ASCC2"
+ },
+ {
+  "Day 5 pos": "LYG2",
+  "Day 5 neg": "REXO4",
+  "Day 10 pos": "CCDC94",
+  "Day 10 neg": "MRFAP1L1",
+  "Day 15 pos": "HOXA1",
+  "Day 15 neg": "DGCR2",
+  "Day 20 pos": "NAA60",
+  "Day 20 neg": "YES1"
+ },
+ {
+  "Day 5 pos": "FBXO10",
+  "Day 5 neg": "RHOF",
+  "Day 10 pos": "C16orf86",
+  "Day 10 neg": "SRSF2",
+  "Day 15 pos": "CYP4X1",
+  "Day 15 neg": "MTHFD1",
+  "Day 20 pos": "BCL11B",
+  "Day 20 neg": "SMARCD1"
+ },
+ {
+  "Day 5 pos": "OR4E2",
+  "Day 5 neg": "KBTBD10",
+  "Day 10 pos": "MPO",
+  "Day 10 neg": "OLFM3",
+  "Day 15 pos": "SKP1",
+  "Day 15 neg": "SPINK4",
+  "Day 20 pos": "OR8B4",
+  "Day 20 neg": "GFOD2"
+ },
+ {
+  "Day 5 pos": "RASL10B",
+  "Day 5 neg": "ESPNL",
+  "Day 10 pos": "KIAA1377",
+  "Day 10 neg": "KIF26A",
+  "Day 15 pos": "IL17C",
+  "Day 15 neg": "MAP6",
+  "Day 20 pos": "SPRY2",
+  "Day 20 neg": "TMX4"
+ },
+ {
+  "Day 5 pos": "RAD21L1",
+  "Day 5 neg": "ZDBF2",
+  "Day 10 pos": "CLIP2",
+  "Day 10 neg": "CXorf66",
+  "Day 15 pos": "FAM100B",
+  "Day 15 neg": "FBXW4",
+  "Day 20 pos": "PARD6G",
+  "Day 20 neg": "ANKRD55"
+ },
+ {
+  "Day 5 pos": "FAM220A",
+  "Day 5 neg": "TMEM144",
+  "Day 10 pos": "DBP",
+  "Day 10 neg": "TTC33",
+  "Day 15 pos": "PLK2",
+  "Day 15 neg": "SLIRP",
+  "Day 20 pos": "MED15",
+  "Day 20 neg": "NDST3"
+ },
+ {
+  "Day 5 pos": "AMIGO3",
+  "Day 5 neg": "C7orf73",
+  "Day 10 pos": "PLIN3",
+  "Day 10 neg": "INS",
+  "Day 15 pos": "HNF1A",
+  "Day 15 neg": "ATCAY",
+  "Day 20 pos": "ZNF138",
+  "Day 20 neg": "REG3G"
+ },
+ {
+  "Day 5 pos": "OR14J1",
+  "Day 5 neg": "SH3YL1",
+  "Day 10 pos": "HIST1H2BB",
+  "Day 10 neg": "CEP57L1",
+  "Day 15 pos": "WFDC1",
+  "Day 15 neg": "ZNF814",
+  "Day 20 pos": "GLI2",
+  "Day 20 neg": "RBM28"
+ },
+ {
+  "Day 5 pos": "BIN2",
+  "Day 5 neg": "KIAA0141",
+  "Day 10 pos": "SH3D21",
+  "Day 10 neg": "CFTR",
+  "Day 15 pos": "CCND3",
+  "Day 15 neg": "NBEAL1",
+  "Day 20 pos": "SLC10A5",
+  "Day 20 neg": "ZNF750"
+ },
+ {
+  "Day 5 pos": "DCXR",
+  "Day 5 neg": "SPTA1",
+  "Day 10 pos": "GPR17",
+  "Day 10 neg": "PADI1",
+  "Day 15 pos": "ABCC2",
+  "Day 15 neg": "TRPM1",
+  "Day 20 pos": "TESPA1",
+  "Day 20 neg": "PLK4"
+ },
+ {
+  "Day 5 pos": "KIAA1731",
+  "Day 5 neg": "GNAI1",
+  "Day 10 pos": "DDX6",
+  "Day 10 neg": "LAMC3",
+  "Day 15 pos": "ZNF700",
+  "Day 15 neg": "H2AFY2",
+  "Day 20 pos": "ANKRD13A",
+  "Day 20 neg": "IWS1"
+ },
+ {
+  "Day 5 pos": "CADPS2",
+  "Day 5 neg": "GPR112",
+  "Day 10 pos": "CTBP2",
+  "Day 10 neg": "PRDX6",
+  "Day 15 pos": "RNF165",
+  "Day 15 neg": "DNAH7",
+  "Day 20 pos": "SMAD1",
+  "Day 20 neg": "GRIK4"
+ },
+ {
+  "Day 5 pos": "C4orf26",
+  "Day 5 neg": "BTBD2",
+  "Day 10 pos": "LRRC15",
+  "Day 10 neg": "OR10T2",
+  "Day 15 pos": "RAP1GAP2",
+  "Day 15 neg": "DPP4",
+  "Day 20 pos": "KIAA0226",
+  "Day 20 neg": "TSPAN12"
+ },
+ {
+  "Day 5 pos": "C1orf204",
+  "Day 5 neg": "PRAMEF11",
+  "Day 10 pos": "RBBP8",
+  "Day 10 neg": "SLC13A1",
+  "Day 15 pos": "TMOD3",
+  "Day 15 neg": "BHMT",
+  "Day 20 pos": "PLD3",
+  "Day 20 neg": "PALM"
+ },
+ {
+  "Day 5 pos": "SHISA7",
+  "Day 5 neg": "HRK",
+  "Day 10 pos": "COX4I2",
+  "Day 10 neg": "TCHP",
+  "Day 15 pos": "C18orf8",
+  "Day 15 neg": "ESCO1",
+  "Day 20 pos": "WNK3",
+  "Day 20 neg": "TBX10"
+ },
+ {
+  "Day 5 pos": "ZNF490",
+  "Day 5 neg": "KIAA1432",
+  "Day 10 pos": "CST5",
+  "Day 10 neg": "KCNS2",
+  "Day 15 pos": "MYL4",
+  "Day 15 neg": "TLX2",
+  "Day 20 pos": "ACVR1",
+  "Day 20 neg": "NARFL"
+ },
+ {
+  "Day 5 pos": "SLC40A1",
+  "Day 5 neg": "CST9L",
+  "Day 10 pos": "RPS18",
+  "Day 10 neg": "C7orf65",
+  "Day 15 pos": "C1orf216",
+  "Day 15 neg": "NECAB2",
+  "Day 20 pos": "RPA1",
+  "Day 20 neg": "FST"
+ },
+ {
+  "Day 5 pos": "MED28",
+  "Day 5 neg": "RLTPR",
+  "Day 10 pos": "RPL39L",
+  "Day 10 neg": "RP11-528L24.3",
+  "Day 15 pos": "CSRP2",
+  "Day 15 neg": "C3orf15",
+  "Day 20 pos": "TMEM109",
+  "Day 20 neg": "C16orf78"
+ },
+ {
+  "Day 5 pos": "GDAP1L1",
+  "Day 5 neg": "GLRX2",
+  "Day 10 pos": "PLK2",
+  "Day 10 neg": "STAC2",
+  "Day 15 pos": "SNRNP27",
+  "Day 15 neg": "RNASE13",
+  "Day 20 pos": "FAM194A",
+  "Day 20 neg": "DGAT1"
+ },
+ {
+  "Day 5 pos": "A1CF",
+  "Day 5 neg": "C6orf228",
+  "Day 10 pos": "C1orf172",
+  "Day 10 neg": "CFP",
+  "Day 15 pos": "IPPK",
+  "Day 15 neg": "TNFRSF14",
+  "Day 20 pos": "CLC",
+  "Day 20 neg": "SPI1"
+ },
+ {
+  "Day 5 pos": "CKB",
+  "Day 5 neg": "C14orf142",
+  "Day 10 pos": "ZNF530",
+  "Day 10 neg": "CCDC88B",
+  "Day 15 pos": "EAF1",
+  "Day 15 neg": "OR4C3",
+  "Day 20 pos": "KCNE3",
+  "Day 20 neg": "FBXL19"
+ },
+ {
+  "Day 5 pos": "MOK",
+  "Day 5 neg": "ITGAL",
+  "Day 10 pos": "ZNF774",
+  "Day 10 neg": "DNAJA3",
+  "Day 15 pos": "NICN1",
+  "Day 15 neg": "CDC16",
+  "Day 20 pos": "RELL2",
+  "Day 20 neg": "LGALS3BP"
+ },
+ {
+  "Day 5 pos": "PTPRO",
+  "Day 5 neg": "MYO3A",
+  "Day 10 pos": "NFKBIB",
+  "Day 10 neg": "INPP5J",
+  "Day 15 pos": "C12orf56",
+  "Day 15 neg": "TIMP2",
+  "Day 20 pos": "SYNGR4",
+  "Day 20 neg": "PPP1R15B"
+ },
+ {
+  "Day 5 pos": "ATP13A3",
+  "Day 5 neg": "NEK5",
+  "Day 10 pos": "VAMP5",
+  "Day 10 neg": "DNAJB12",
+  "Day 15 pos": "GDAP1L1",
+  "Day 15 neg": "SESN1",
+  "Day 20 pos": "IL18RAP",
+  "Day 20 neg": "RPL28"
+ },
+ {
+  "Day 5 pos": "CRCT1",
+  "Day 5 neg": "NDUFC2",
+  "Day 10 pos": "CXCL6",
+  "Day 10 neg": "TRNT1",
+  "Day 15 pos": "OTOP2",
+  "Day 15 neg": "NUDT8",
+  "Day 20 pos": "EFR3A",
+  "Day 20 neg": "GIMAP8"
+ },
+ {
+  "Day 5 pos": "XRCC4",
+  "Day 5 neg": "ATP1B1",
+  "Day 10 pos": "GNG2",
+  "Day 10 neg": "PCSK1",
+  "Day 15 pos": "SEC23A",
+  "Day 15 neg": "PTK2B",
+  "Day 20 pos": "C9orf64",
+  "Day 20 neg": "COX8C"
+ },
+ {
+  "Day 5 pos": "BTN3A3",
+  "Day 5 neg": "CHRNB2",
+  "Day 10 pos": "C20orf151",
+  "Day 10 neg": "SPRTN",
+  "Day 15 pos": "FBXO2",
+  "Day 15 neg": "SBF1",
+  "Day 20 pos": "USP49",
+  "Day 20 neg": "SEPN1"
+ },
+ {
+  "Day 5 pos": "OR2G6",
+  "Day 5 neg": "SETD2",
+  "Day 10 pos": "PRSS8",
+  "Day 10 neg": "TSNAX",
+  "Day 15 pos": "BRAP",
+  "Day 15 neg": "C15orf57",
+  "Day 20 pos": "ERI3",
+  "Day 20 neg": "NHLH1"
+ },
+ {
+  "Day 5 pos": "DUPD1",
+  "Day 5 neg": "LGALS7",
+  "Day 10 pos": "IFITM2",
+  "Day 10 neg": "EPRS",
+  "Day 15 pos": "CHCHD1",
+  "Day 15 neg": "ZNF174",
+  "Day 20 pos": "AMH",
+  "Day 20 neg": "CEP41"
+ },
+ {
+  "Day 5 pos": "NCK2",
+  "Day 5 neg": "CUL7",
+  "Day 10 pos": "IGFBP4",
+  "Day 10 neg": "LAT2",
+  "Day 15 pos": "GPR37",
+  "Day 15 neg": "KRT77",
+  "Day 20 pos": "VAT1L",
+  "Day 20 neg": "C9orf3"
+ },
+ {
+  "Day 5 pos": "GPR37",
+  "Day 5 neg": "ADAMTS20",
+  "Day 10 pos": "MYO18B",
+  "Day 10 neg": "FGFRL1",
+  "Day 15 pos": "NIPA1",
+  "Day 15 neg": "SLITRK6",
+  "Day 20 pos": "AHCYL1",
+  "Day 20 neg": "KIF3B"
+ },
+ {
+  "Day 5 pos": "DDB2",
+  "Day 5 neg": "TLR2",
+  "Day 10 pos": "VIL1",
+  "Day 10 neg": "C1orf150",
+  "Day 15 pos": "PGBD4",
+  "Day 15 neg": "UCHL5",
+  "Day 20 pos": "RER1",
+  "Day 20 neg": "ARPC1A"
+ },
+ {
+  "Day 5 pos": "SERPING1",
+  "Day 5 neg": "EHD3",
+  "Day 10 pos": "RNF150",
+  "Day 10 neg": "FRMPD1",
+  "Day 15 pos": "ZDHHC22",
+  "Day 15 neg": "TCERG1",
+  "Day 20 pos": "HDDC3",
+  "Day 20 neg": "DDX5"
+ },
+ {
+  "Day 5 pos": "ANKRD30B",
+  "Day 5 neg": "SP5",
+  "Day 10 pos": "RPS3A",
+  "Day 10 neg": "APCS",
+  "Day 15 pos": "HERC5",
+  "Day 15 neg": "BRPF3",
+  "Day 20 pos": "LMO4",
+  "Day 20 neg": "ZBTB2"
+ },
+ {
+  "Day 5 pos": "ERP29",
+  "Day 5 neg": "CRY1",
+  "Day 10 pos": "GINS4",
+  "Day 10 neg": "ERCC3",
+  "Day 15 pos": "GINS1",
+  "Day 15 neg": "SPATA21",
+  "Day 20 pos": "C20orf27",
+  "Day 20 neg": "INTS5"
+ },
+ {
+  "Day 5 pos": "ZSCAN1",
+  "Day 5 neg": "EIF2B5",
+  "Day 10 pos": "PCDH10",
+  "Day 10 neg": "INA",
+  "Day 15 pos": "HS3ST5",
+  "Day 15 neg": "CSF1R",
+  "Day 20 pos": "GJB1",
+  "Day 20 neg": "PLSCR2"
+ },
+ {
+  "Day 5 pos": "OR11H12",
+  "Day 5 neg": "SNX19",
+  "Day 10 pos": "OR10G4",
+  "Day 10 neg": "ABHD14A",
+  "Day 15 pos": "SPTSSA",
+  "Day 15 neg": "SGSM2",
+  "Day 20 pos": "BNIP2",
+  "Day 20 neg": "SPECC1L"
+ },
+ {
+  "Day 5 pos": "FUT2",
+  "Day 5 neg": "CUX2",
+  "Day 10 pos": "MYRIP",
+  "Day 10 neg": "ZIC5",
+  "Day 15 pos": "WARS",
+  "Day 15 neg": "SNRNP48",
+  "Day 20 pos": "DCDC1",
+  "Day 20 neg": "PAK7"
+ },
+ {
+  "Day 5 pos": "EIF4EBP2",
+  "Day 5 neg": "C3orf75",
+  "Day 10 pos": "MSH2",
+  "Day 10 neg": "SNRNP25",
+  "Day 15 pos": "GEMIN5",
+  "Day 15 neg": "MTNR1B",
+  "Day 20 pos": "SYCP1",
+  "Day 20 neg": "SLC25A17"
+ },
+ {
+  "Day 5 pos": "TRMT61A",
+  "Day 5 neg": "CYP24A1",
+  "Day 10 pos": "HINT1",
+  "Day 10 neg": "STS",
+  "Day 15 pos": "STAMBP",
+  "Day 15 neg": "PET112",
+  "Day 20 pos": "SARDH",
+  "Day 20 neg": "NDFIP2"
+ },
+ {
+  "Day 5 pos": "06-Mar",
+  "Day 5 neg": "RAB6B",
+  "Day 10 pos": "METTL21D",
+  "Day 10 neg": "NOTCH1",
+  "Day 15 pos": "CD36",
+  "Day 15 neg": "TMED7-TICAM2",
+  "Day 20 pos": "PLA2G3",
+  "Day 20 neg": "GJB4"
+ },
+ {
+  "Day 5 pos": "TMEM147",
+  "Day 5 neg": "VIMP",
+  "Day 10 pos": "SKIV2L",
+  "Day 10 neg": "OR4F5",
+  "Day 15 pos": "KLF5",
+  "Day 15 neg": "LRRC2",
+  "Day 20 pos": "OR2T10",
+  "Day 20 neg": "CEP89"
+ },
+ {
+  "Day 5 pos": "PTPDC1",
+  "Day 5 neg": "PSMD8",
+  "Day 10 pos": "PLG",
+  "Day 10 neg": "MTA2",
+  "Day 15 pos": "COL8A2",
+  "Day 15 neg": "IL1RL1",
+  "Day 20 pos": "ZC3HAV1",
+  "Day 20 neg": "SLC38A7"
+ },
+ {
+  "Day 5 pos": "GRK7",
+  "Day 5 neg": "SLC35D3",
+  "Day 10 pos": "KIF1C",
+  "Day 10 neg": "C15orf62",
+  "Day 15 pos": "TREML2",
+  "Day 15 neg": "MIIP",
+  "Day 20 pos": "EPYC",
+  "Day 20 neg": "NFATC4"
+ },
+ {
+  "Day 5 pos": "OTOP2",
+  "Day 5 neg": "SERTAD4",
+  "Day 10 pos": "HMGXB3",
+  "Day 10 neg": "SCAI",
+  "Day 15 pos": "GDF10",
+  "Day 15 neg": "TMEM156",
+  "Day 20 pos": "STAT5A",
+  "Day 20 neg": "DENND4B"
+ },
+ {
+  "Day 5 pos": "PLIN3",
+  "Day 5 neg": "GAS2L2",
+  "Day 10 pos": "UNCX",
+  "Day 10 neg": "FAM90A1",
+  "Day 15 pos": "NEIL2",
+  "Day 15 neg": "AP3S2",
+  "Day 20 pos": "ZDHHC9",
+  "Day 20 neg": "NMD3"
+ },
+ {
+  "Day 5 pos": "FAM168B",
+  "Day 5 neg": "CREB3",
+  "Day 10 pos": "RPL35A",
+  "Day 10 neg": "ZNF223",
+  "Day 15 pos": "ZNF699",
+  "Day 15 neg": "TRPC7",
+  "Day 20 pos": "PIAS1",
+  "Day 20 neg": "MMP15"
+ },
+ {
+  "Day 5 pos": "LZTR1",
+  "Day 5 neg": "CTU2",
+  "Day 10 pos": "GNA15",
+  "Day 10 neg": "NLGN4X",
+  "Day 15 pos": "PLEKHH1",
+  "Day 15 neg": "PPM1A",
+  "Day 20 pos": "KIFC1",
+  "Day 20 neg": "NOL8"
+ },
+ {
+  "Day 5 pos": "HNF1A",
+  "Day 5 neg": "MUS81",
+  "Day 10 pos": "DHX8",
+  "Day 10 neg": "SUGP1",
+  "Day 15 pos": "GRIK1",
+  "Day 15 neg": "UBE4A",
+  "Day 20 pos": "PMP22",
+  "Day 20 neg": "SKAP2"
+ },
+ {
+  "Day 5 pos": "QPRT",
+  "Day 5 neg": "C12orf52",
+  "Day 10 pos": "SMARCD2",
+  "Day 10 neg": "KCNV1",
+  "Day 15 pos": "HMGXB3",
+  "Day 15 neg": "MICAL3",
+  "Day 20 pos": "C4orf26",
+  "Day 20 neg": "TIMELESS"
+ },
+ {
+  "Day 5 pos": "DIP2C",
+  "Day 5 neg": "USP25",
+  "Day 10 pos": "ANKRD30B",
+  "Day 10 neg": "UBL7",
+  "Day 15 pos": "MAPK15",
+  "Day 15 neg": "SPATA13",
+  "Day 20 pos": "FBXL18",
+  "Day 20 neg": "CD34"
+ },
+ {
+  "Day 5 pos": "GPHA2",
+  "Day 5 neg": "ALKBH6",
+  "Day 10 pos": "KLHDC10",
+  "Day 10 neg": "DSCR3",
+  "Day 15 pos": "AP1S1",
+  "Day 15 neg": "OGFRL1",
+  "Day 20 pos": "ADAMTS17",
+  "Day 20 neg": "KARS"
+ },
+ {
+  "Day 5 pos": "CYP4F22",
+  "Day 5 neg": "PEF1",
+  "Day 10 pos": "ULBP1",
+  "Day 10 neg": "ZNF768",
+  "Day 15 pos": "CACUL1",
+  "Day 15 neg": "GABARAPL1",
+  "Day 20 pos": "OR4X1",
+  "Day 20 neg": "ADRB1"
+ },
+ {
+  "Day 5 pos": "SLC25A15",
+  "Day 5 neg": "LRRC1",
+  "Day 10 pos": "C17orf108",
+  "Day 10 neg": "ACRBP",
+  "Day 15 pos": "SLC1A3",
+  "Day 15 neg": "PEX19",
+  "Day 20 pos": "IVL",
+  "Day 20 neg": "TMPO"
+ },
+ {
+  "Day 5 pos": "ANAPC4",
+  "Day 5 neg": "CNTFR",
+  "Day 10 pos": "REPIN1",
+  "Day 10 neg": "PIGV",
+  "Day 15 pos": "NXPE2",
+  "Day 15 neg": "CCDC28B",
+  "Day 20 pos": "CXCR6",
+  "Day 20 neg": "TNNI1"
+ },
+ {
+  "Day 5 pos": "OR4X2",
+  "Day 5 neg": "LRRC3C",
+  "Day 10 pos": "LYG2",
+  "Day 10 neg": "INCENP",
+  "Day 15 pos": "COL28A1",
+  "Day 15 neg": "ZBTB7A",
+  "Day 20 pos": "NGDN",
+  "Day 20 neg": "KIAA1737"
+ },
+ {
+  "Day 5 pos": "SLC23A1",
+  "Day 5 neg": "BCL9L",
+  "Day 10 pos": "NOX3",
+  "Day 10 neg": "GZMK",
+  "Day 15 pos": "AJUBA",
+  "Day 15 neg": "EFS",
+  "Day 20 pos": "KIAA1383",
+  "Day 20 neg": "RPN2"
+ },
+ {
+  "Day 5 pos": "TOP2A",
+  "Day 5 neg": "NUGGC",
+  "Day 10 pos": "C17orf66",
+  "Day 10 neg": "EPG5",
+  "Day 15 pos": "RSF1",
+  "Day 15 neg": "TAS1R2",
+  "Day 20 pos": "MTHFD2L",
+  "Day 20 neg": "TIMM22"
+ },
+ {
+  "Day 5 pos": "TFE3",
+  "Day 5 neg": "GET4",
+  "Day 10 pos": "SLC35G2",
+  "Day 10 neg": "FIZ1",
+  "Day 15 pos": "PLCD1",
+  "Day 15 neg": "AP4E1",
+  "Day 20 pos": "ZBTB45",
+  "Day 20 neg": "MPHOSPH6"
+ },
+ {
+  "Day 5 pos": "VEGFC",
+  "Day 5 neg": "CEP57L1",
+  "Day 10 pos": "SH3TC1",
+  "Day 10 neg": "PHRF1",
+  "Day 15 pos": "NOS1AP",
+  "Day 15 neg": "WDR26",
+  "Day 20 pos": "ARMCX5",
+  "Day 20 neg": "KRT72"
+ },
+ {
+  "Day 5 pos": "CCDC115",
+  "Day 5 neg": "FAAH",
+  "Day 10 pos": "LMBRD1",
+  "Day 10 neg": "TAAR2",
+  "Day 15 pos": "RASL12",
+  "Day 15 neg": "UTS2",
+  "Day 20 pos": "PDCD4",
+  "Day 20 neg": "NUDT22"
+ },
+ {
+  "Day 5 pos": "UFD1L",
+  "Day 5 neg": "CFTR",
+  "Day 10 pos": "SLC1A3",
+  "Day 10 neg": "HMGB4",
+  "Day 15 pos": "MPHOSPH10",
+  "Day 15 neg": "SPATA9",
+  "Day 20 pos": "B3GNT7",
+  "Day 20 neg": "C14orf43"
+ },
+ {
+  "Day 5 pos": "COX4I2",
+  "Day 5 neg": "OIT3",
+  "Day 10 pos": "ZC3H12B",
+  "Day 10 neg": "PCIF1",
+  "Day 15 pos": "CLN8",
+  "Day 15 neg": "ERI1",
+  "Day 20 pos": "NGFR",
+  "Day 20 neg": "CSRP2BP"
+ },
+ {
+  "Day 5 pos": "ANO3",
+  "Day 5 neg": "TRIM29",
+  "Day 10 pos": "BCL2L15",
+  "Day 10 neg": "DDX39A",
+  "Day 15 pos": "TMEM86B",
+  "Day 15 neg": "UBAP1",
+  "Day 20 pos": "PKIA",
+  "Day 20 neg": "TBATA"
+ },
+ {
+  "Day 5 pos": "SLC9A7",
+  "Day 5 neg": "EPOR",
+  "Day 10 pos": "CEP192",
+  "Day 10 neg": "C8orf73",
+  "Day 15 pos": "TFE3",
+  "Day 15 neg": "ALG9",
+  "Day 20 pos": "TULP2",
+  "Day 20 neg": "RAB2A"
+ },
+ {
+  "Day 5 pos": "USP28",
+  "Day 5 neg": "DCAF15",
+  "Day 10 pos": "PPM1J",
+  "Day 10 neg": "RNF20",
+  "Day 15 pos": "LMO7",
+  "Day 15 neg": "CT62",
+  "Day 20 pos": "TMEM241",
+  "Day 20 neg": "JAKMIP1"
+ },
+ {
+  "Day 5 pos": "XYLB",
+  "Day 5 neg": "SLC14A1",
+  "Day 10 pos": "SAGE1",
+  "Day 10 neg": "PIP4K2B",
+  "Day 15 pos": "ADCY3",
+  "Day 15 neg": "PGAM2",
+  "Day 20 pos": "HTR5A",
+  "Day 20 neg": "GCC2"
+ },
+ {
+  "Day 5 pos": "RUSC2",
+  "Day 5 neg": "MIF",
+  "Day 10 pos": "NPFFR1",
+  "Day 10 neg": "CX3CL1",
+  "Day 15 pos": "NCOA2",
+  "Day 15 neg": "KRTAP10-5",
+  "Day 20 pos": "BLCAP",
+  "Day 20 neg": "ZFP36L2"
+ },
+ {
+  "Day 5 pos": "NPFFR1",
+  "Day 5 neg": "ADAT2",
+  "Day 10 pos": "SP1",
+  "Day 10 neg": "RHBDD1",
+  "Day 15 pos": "NRTN",
+  "Day 15 neg": "C16orf53",
+  "Day 20 pos": "SUOX",
+  "Day 20 neg": "RNF157"
+ },
+ {
+  "Day 5 pos": "OR6P1",
+  "Day 5 neg": "NIPAL3",
+  "Day 10 pos": "CLEC4G",
+  "Day 10 neg": "PODXL",
+  "Day 15 pos": "GREB1L",
+  "Day 15 neg": "HOXC4",
+  "Day 20 pos": "MEIS1",
+  "Day 20 neg": "EHF"
+ },
+ {
+  "Day 5 pos": "PRG3",
+  "Day 5 neg": "ST3GAL2",
+  "Day 10 pos": "IVL",
+  "Day 10 neg": "SLC25A19",
+  "Day 15 pos": "CENPE",
+  "Day 15 neg": "CSNK2B",
+  "Day 20 pos": "PEX1",
+  "Day 20 neg": "RTN4R"
+ },
+ {
+  "Day 5 pos": "DHX34",
+  "Day 5 neg": "SIAH1",
+  "Day 10 pos": "DYRK2",
+  "Day 10 neg": "MKRN2",
+  "Day 15 pos": "PRH2",
+  "Day 15 neg": "C6orf226",
+  "Day 20 pos": "ZNF792",
+  "Day 20 neg": "LAMA4"
+ },
+ {
+  "Day 5 pos": "LRP1",
+  "Day 5 neg": "HADHB",
+  "Day 10 pos": "TAOK1",
+  "Day 10 neg": "DYNLT3",
+  "Day 15 pos": "ZNF251",
+  "Day 15 neg": "MTHFR",
+  "Day 20 pos": "RPS6KA2",
+  "Day 20 neg": "ADSS"
+ },
+ {
+  "Day 5 pos": "C19orf59",
+  "Day 5 neg": "WDR90",
+  "Day 10 pos": "DOK1",
+  "Day 10 neg": "FAM110B",
+  "Day 15 pos": "GNB2",
+  "Day 15 neg": "UMPS",
+  "Day 20 pos": "KHDRBS2",
+  "Day 20 neg": "ITPRIPL2"
+ },
+ {
+  "Day 5 pos": "HOXA1",
+  "Day 5 neg": "CLEC4M",
+  "Day 10 pos": "BACH2",
+  "Day 10 neg": "ZCRB1",
+  "Day 15 pos": "NDUFAF2",
+  "Day 15 neg": "TEKT5",
+  "Day 20 pos": "PRSS54",
+  "Day 20 neg": "THAP9"
+ },
+ {
+  "Day 5 pos": "NGFR",
+  "Day 5 neg": "C6orf52",
+  "Day 10 pos": "TRIM3",
+  "Day 10 neg": "BET1",
+  "Day 15 pos": "OTOP1",
+  "Day 15 neg": "THUMPD1",
+  "Day 20 pos": "STEAP1",
+  "Day 20 neg": "UNC119"
+ },
+ {
+  "Day 5 pos": "MPHOSPH10",
+  "Day 5 neg": "TAF10",
+  "Day 10 pos": "HTRA3",
+  "Day 10 neg": "PTK2B",
+  "Day 15 pos": "PLOD1",
+  "Day 15 neg": "TNFSF11",
+  "Day 20 pos": "ZNF667",
+  "Day 20 neg": "LTC4S"
+ },
+ {
+  "Day 5 pos": "PLEKHB1",
+  "Day 5 neg": "SYCP3",
+  "Day 10 pos": "NUDT5",
+  "Day 10 neg": "DCLRE1B",
+  "Day 15 pos": "C5orf22",
+  "Day 15 neg": "CASC4",
+  "Day 20 pos": "FAM179A",
+  "Day 20 neg": "HHATL"
+ },
+ {
+  "Day 5 pos": "MCHR1",
+  "Day 5 neg": "DCUN1D5",
+  "Day 10 pos": "ADCY3",
+  "Day 10 neg": "GALNT10",
+  "Day 15 pos": "PGAP1",
+  "Day 15 neg": "YIPF4",
+  "Day 20 pos": "GAGE12H",
+  "Day 20 neg": "MS4A4A"
+ },
+ {
+  "Day 5 pos": "COL4A1",
+  "Day 5 neg": "OR4D6",
+  "Day 10 pos": "REST",
+  "Day 10 neg": "POLR2C",
+  "Day 15 pos": "ERCC6L2",
+  "Day 15 neg": "C9orf62",
+  "Day 20 pos": "BLOC1S1",
+  "Day 20 neg": "ATRIP"
+ },
+ {
+  "Day 5 pos": "TREML4",
+  "Day 5 neg": "FGFRL1",
+  "Day 10 pos": "SLC2A3",
+  "Day 10 neg": "SLITRK4",
+  "Day 15 pos": "TRIM3",
+  "Day 15 neg": "ACBD3",
+  "Day 20 pos": "ACSM1",
+  "Day 20 neg": "ADPRHL2"
+ },
+ {
+  "Day 5 pos": "KDM5A",
+  "Day 5 neg": "MMP10",
+  "Day 10 pos": "HHIP",
+  "Day 10 neg": "SMAD2",
+  "Day 15 pos": "PLEKHB1",
+  "Day 15 neg": "CEBPE",
+  "Day 20 pos": "EIF1B",
+  "Day 20 neg": "TACO1"
+ },
+ {
+  "Day 5 pos": "MAF1",
+  "Day 5 neg": "B3GALT4",
+  "Day 10 pos": "EPHB6",
+  "Day 10 neg": "IRAK4",
+  "Day 15 pos": "ATF2",
+  "Day 15 neg": "OLIG2",
+  "Day 20 pos": "SNURF",
+  "Day 20 neg": "CRIPAK"
+ },
+ {
+  "Day 5 pos": "AQP7",
+  "Day 5 neg": "WNT4",
+  "Day 10 pos": "KLF17",
+  "Day 10 neg": "GTSE1",
+  "Day 15 pos": "RAB28",
+  "Day 15 neg": "SMARCD1",
+  "Day 20 pos": "FXYD5",
+  "Day 20 neg": "HOXB9"
+ },
+ {
+  "Day 5 pos": "AVPR1A",
+  "Day 5 neg": "NFIX",
+  "Day 10 pos": "ARHGAP31",
+  "Day 10 neg": "CALML3",
+  "Day 15 pos": "AZIN1",
+  "Day 15 neg": "SIX5",
+  "Day 20 pos": "NEK1",
+  "Day 20 neg": "RSAD2"
+ },
+ {
+  "Day 5 pos": "CCDC94",
+  "Day 5 neg": "TBKBP1",
+  "Day 10 pos": "BSN",
+  "Day 10 neg": "ZNF827",
+  "Day 15 pos": "DOK1",
+  "Day 15 neg": "CAPN2",
+  "Day 20 pos": "METTL21D",
+  "Day 20 neg": "C18orf63"
+ },
+ {
+  "Day 5 pos": "ILKAP",
+  "Day 5 neg": "DNAH7",
+  "Day 10 pos": "ACOT6",
+  "Day 10 neg": "DLL4",
+  "Day 15 pos": "ADAM18",
+  "Day 15 neg": "BFSP1",
+  "Day 20 pos": "CCDC114",
+  "Day 20 neg": "NUDT17"
+ },
+ {
+  "Day 5 pos": "ZNF385B",
+  "Day 5 neg": "PER1",
+  "Day 10 pos": "CHRNA10",
+  "Day 10 neg": "SH3BGRL3",
+  "Day 15 pos": "CLRN3",
+  "Day 15 neg": "MTF2",
+  "Day 20 pos": "HOXC10",
+  "Day 20 neg": "PDILT"
+ },
+ {
+  "Day 5 pos": "ODF3L2",
+  "Day 5 neg": "COX8A",
+  "Day 10 pos": "FPR1",
+  "Day 10 neg": "PSMD8",
+  "Day 15 pos": "FNDC3B",
+  "Day 15 neg": "FAM78B",
+  "Day 20 pos": "NXPH2",
+  "Day 20 neg": "AATF"
+ },
+ {
+  "Day 5 pos": "CLK2",
+  "Day 5 neg": "ERCC3",
+  "Day 10 pos": "NPHP3",
+  "Day 10 neg": "COL4A3",
+  "Day 15 pos": "ZSWIM4",
+  "Day 15 neg": "MTHFD2",
+  "Day 20 pos": "MCM7",
+  "Day 20 neg": "C2orf51"
+ },
+ {
+  "Day 5 pos": "RNF43",
+  "Day 5 neg": "CHAD",
+  "Day 10 pos": "BIN2",
+  "Day 10 neg": "MBOAT4",
+  "Day 15 pos": "SKIV2L",
+  "Day 15 neg": "DAND5",
+  "Day 20 pos": "OR8D2",
+  "Day 20 neg": "PYGO2"
+ },
+ {
+  "Day 5 pos": "MRPL24",
+  "Day 5 neg": "ZIC5",
+  "Day 10 pos": "LMTK2",
+  "Day 10 neg": "SNX4",
+  "Day 15 pos": "ZNF530",
+  "Day 15 neg": "OSTN",
+  "Day 20 pos": "CHD7",
+  "Day 20 neg": "SLC6A19"
+ },
+ {
+  "Day 5 pos": "WDFY1",
+  "Day 5 neg": "MARK4",
+  "Day 10 pos": "TEX26",
+  "Day 10 neg": "CLEC3B",
+  "Day 15 pos": "CRYGS",
+  "Day 15 neg": "LBP",
+  "Day 20 pos": "ARF1",
+  "Day 20 neg": "MEGF6"
+ },
+ {
+  "Day 5 pos": "KDELC1",
+  "Day 5 neg": "CYTH3",
+  "Day 10 pos": "ALCAM",
+  "Day 10 neg": "DDX50",
+  "Day 15 pos": "PER2",
+  "Day 15 neg": "ESYT3",
+  "Day 20 pos": "C2orf80",
+  "Day 20 neg": "RHD"
+ },
+ {
+  "Day 5 pos": "C9orf100",
+  "Day 5 neg": "RNF151",
+  "Day 10 pos": "PTEN",
+  "Day 10 neg": "LMNB2",
+  "Day 15 pos": "CCDC36",
+  "Day 15 neg": "C5orf54",
+  "Day 20 pos": "ZYG11A",
+  "Day 20 neg": "BOLA3"
+ },
+ {
+  "Day 5 pos": "TLCD2",
+  "Day 5 neg": "ANKLE2",
+  "Day 10 pos": "RIMKLA",
+  "Day 10 neg": "ZBTB40",
+  "Day 15 pos": "EXOG",
+  "Day 15 neg": "CYSLTR2",
+  "Day 20 pos": "ALOXE3",
+  "Day 20 neg": "SF3B4"
+ },
+ {
+  "Day 5 pos": "RUVBL1",
+  "Day 5 neg": "ANO5",
+  "Day 10 pos": "HIVEP1",
+  "Day 10 neg": "DOCK2",
+  "Day 15 pos": "OR2L13",
+  "Day 15 neg": "MKRN1",
+  "Day 20 pos": "MRPS30",
+  "Day 20 neg": "TREML1"
+ },
+ {
+  "Day 5 pos": "TRPV1",
+  "Day 5 neg": "SUGP1",
+  "Day 10 pos": "BYSL",
+  "Day 10 neg": "KANK3",
+  "Day 15 pos": "SNX1",
+  "Day 15 neg": "MCCC2",
+  "Day 20 pos": "AEBP1",
+  "Day 20 neg": "FAM20C"
+ },
+ {
+  "Day 5 pos": "COBRA1",
+  "Day 5 neg": "GLT1D1",
+  "Day 10 pos": "MAPK15",
+  "Day 10 neg": "CT62",
+  "Day 15 pos": "SOX18",
+  "Day 15 neg": "KRTDAP",
+  "Day 20 pos": "SLC25A5",
+  "Day 20 neg": "PYGL"
+ },
+ {
+  "Day 5 pos": "OSBP",
+  "Day 5 neg": "RFC3",
+  "Day 10 pos": "PLAC1L",
+  "Day 10 neg": "C17orf102",
+  "Day 15 pos": "DNALI1",
+  "Day 15 neg": "GABRA6",
+  "Day 20 pos": "THPO",
+  "Day 20 neg": "CPEB2"
+ },
+ {
+  "Day 5 pos": "PPAP2A",
+  "Day 5 neg": "PLEKHA3",
+  "Day 10 pos": "FKBP3",
+  "Day 10 neg": "ATP8A1",
+  "Day 15 pos": "SLC3A1",
+  "Day 15 neg": "SACM1L",
+  "Day 20 pos": "LARGE",
+  "Day 20 neg": "GARNL3"
+ },
+ {
+  "Day 5 pos": "INPP5F",
+  "Day 5 neg": "UBL7",
+  "Day 10 pos": "PPP1R3A",
+  "Day 10 neg": "FAM209A",
+  "Day 15 pos": "ARID2",
+  "Day 15 neg": "ESX1",
+  "Day 20 pos": "HERC5",
+  "Day 20 neg": "GDF7"
+ },
+ {
+  "Day 5 pos": "USP38",
+  "Day 5 neg": "NRGN",
+  "Day 10 pos": "MRPS12",
+  "Day 10 neg": "KLF3",
+  "Day 15 pos": "QRFP",
+  "Day 15 neg": "PHF6",
+  "Day 20 pos": "POLR1C",
+  "Day 20 neg": "KLRC4"
+ },
+ {
+  "Day 5 pos": "CDH1",
+  "Day 5 neg": "SOD1",
+  "Day 10 pos": "CCDC15",
+  "Day 10 neg": "KCTD20",
+  "Day 15 pos": "CSDC2",
+  "Day 15 neg": "TOP1",
+  "Day 20 pos": "PPAPDC3",
+  "Day 20 neg": "SLC16A14"
+ },
+ {
+  "Day 5 pos": "C1orf9",
+  "Day 5 neg": "MTMR2",
+  "Day 10 pos": "TECTA",
+  "Day 10 neg": "LGMN",
+  "Day 15 pos": "CCDC148",
+  "Day 15 neg": "STX7",
+  "Day 20 pos": "RETNLB",
+  "Day 20 neg": "SPINK8"
+ },
+ {
+  "Day 5 pos": "UGGT2",
+  "Day 5 neg": "FARSA",
+  "Day 10 pos": "PPIA",
+  "Day 10 neg": "SPACA1",
+  "Day 15 pos": "GAGE12H",
+  "Day 15 neg": "TM4SF4",
+  "Day 20 pos": "MYLK4",
+  "Day 20 neg": "TEX9"
+ },
+ {
+  "Day 5 pos": "C21orf58",
+  "Day 5 neg": "CNIH",
+  "Day 10 pos": "MYH8",
+  "Day 10 neg": "RILPL1",
+  "Day 15 pos": "SAMM50",
+  "Day 15 neg": "KCNJ5",
+  "Day 20 pos": "SLC39A1",
+  "Day 20 neg": "OR11L1"
+ },
+ {
+  "Day 5 pos": "TBRG1",
+  "Day 5 neg": "SYTL4",
+  "Day 10 pos": "ATP4B",
+  "Day 10 neg": "PROSER1",
+  "Day 15 pos": "RNF103",
+  "Day 15 neg": "ZNF41",
+  "Day 20 pos": "APPBP2",
+  "Day 20 neg": "RXFP2"
+ },
+ {
+  "Day 5 pos": "NKX2-1",
+  "Day 5 neg": "SLC9A9",
+  "Day 10 pos": "TMEM99",
+  "Day 10 neg": "RNF26",
+  "Day 15 pos": "SULT2A1",
+  "Day 15 neg": "TBK1",
+  "Day 20 pos": "IMPG1",
+  "Day 20 neg": "GAB4"
+ },
+ {
+  "Day 5 pos": "SLC7A11",
+  "Day 5 neg": "C19orf73",
+  "Day 10 pos": "RASAL2",
+  "Day 10 neg": "POU3F2",
+  "Day 15 pos": "ZBTB20",
+  "Day 15 neg": "TMEM221",
+  "Day 20 pos": "CALHM2",
+  "Day 20 neg": "ATG4C"
+ },
+ {
+  "Day 5 pos": "SNRNP27",
+  "Day 5 neg": "TUBGCP3",
+  "Day 10 pos": "APPBP2",
+  "Day 10 neg": "KLK1",
+  "Day 15 pos": "SARDH",
+  "Day 15 neg": "CACNG2",
+  "Day 20 pos": "NTRK1",
+  "Day 20 neg": "EHD1"
+ },
+ {
+  "Day 5 pos": "SFT2D2",
+  "Day 5 neg": "IQCK",
+  "Day 10 pos": "ZNF90",
+  "Day 10 neg": "SLC7A13",
+  "Day 15 pos": "TMEM203",
+  "Day 15 neg": "RPL10",
+  "Day 20 pos": "ELOVL3",
+  "Day 20 neg": "SLC5A2"
+ },
+ {
+  "Day 5 pos": "GDPD3",
+  "Day 5 neg": "SCNN1G",
+  "Day 10 pos": "RPL23",
+  "Day 10 neg": "ANP32B",
+  "Day 15 pos": "TYMP",
+  "Day 15 neg": "EIF2S3",
+  "Day 20 pos": "ATP6V1G3",
+  "Day 20 neg": "GBP1"
+ },
+ {
+  "Day 5 pos": "ARHGAP35",
+  "Day 5 neg": "OR1L8",
+  "Day 10 pos": "RINT1",
+  "Day 10 neg": "C16orf78",
+  "Day 15 pos": "SLC25A5",
+  "Day 15 neg": "LRCH2",
+  "Day 20 pos": "PLEKHB1",
+  "Day 20 neg": "BRI3BP"
+ },
+ {
+  "Day 5 pos": "CST5",
+  "Day 5 neg": "PTK2B",
+  "Day 10 pos": "PGAP1",
+  "Day 10 neg": "COL23A1",
+  "Day 15 pos": "OR1A2",
+  "Day 15 neg": "PTCHD3",
+  "Day 20 pos": "PRAMEF1",
+  "Day 20 neg": "MAML2"
+ },
+ {
+  "Day 5 pos": "WFDC1",
+  "Day 5 neg": "CAPS",
+  "Day 10 pos": "PLEKHH1",
+  "Day 10 neg": "DOK4",
+  "Day 15 pos": "OR56A1",
+  "Day 15 neg": "FST",
+  "Day 20 pos": "CLEC14A",
+  "Day 20 neg": "TPSG1"
+ },
+ {
+  "Day 5 pos": "COLEC12",
+  "Day 5 neg": "NEMF",
+  "Day 10 pos": "GEMIN5",
+  "Day 10 neg": "AGTR1",
+  "Day 15 pos": "COMMD9",
+  "Day 15 neg": "SOCS7",
+  "Day 20 pos": "BBIP1",
+  "Day 20 neg": "POLD1"
+ },
+ {
+  "Day 5 pos": "NDUFA4L2",
+  "Day 5 neg": "IL21",
+  "Day 10 pos": "C2orf40",
+  "Day 10 neg": "FFAR2",
+  "Day 15 pos": "SCCPDH",
+  "Day 15 neg": "ADAM2",
+  "Day 20 pos": "DENND2C",
+  "Day 20 neg": "COL11A1"
+ },
+ {
+  "Day 5 pos": "ZC3H13",
+  "Day 5 neg": "KLF7",
+  "Day 10 pos": "PMP22",
+  "Day 10 neg": "ASPHD2",
+  "Day 15 pos": "PFN3",
+  "Day 15 neg": "GNL3L",
+  "Day 20 pos": "UBE2E3",
+  "Day 20 neg": "GLYATL2"
+ },
+ {
+  "Day 5 pos": "CLMN",
+  "Day 5 neg": "CHRM4",
+  "Day 10 pos": "POLDIP3",
+  "Day 10 neg": "SRRM2",
+  "Day 15 pos": "ARL13A",
+  "Day 15 neg": "CST8",
+  "Day 20 pos": "DCD",
+  "Day 20 neg": "EMC8"
+ },
+ {
+  "Day 5 pos": "OCA2",
+  "Day 5 neg": "IFNA14",
+  "Day 10 pos": "C21orf2",
+  "Day 10 neg": "ARSK",
+  "Day 15 pos": "LNPEP",
+  "Day 15 neg": "DIEXF",
+  "Day 20 pos": "OR5A2",
+  "Day 20 neg": "TRAPPC12"
+ },
+ {
+  "Day 5 pos": "DOK1",
+  "Day 5 neg": "PEG10",
+  "Day 10 pos": "USP34",
+  "Day 10 neg": "LSM�3.00",
+  "Day 15 pos": "TMEM192",
+  "Day 15 neg": "PIR",
+  "Day 20 pos": "ARMC5",
+  "Day 20 neg": "HIC1"
+ },
+ {
+  "Day 5 pos": "HLA-C",
+  "Day 5 neg": "SRD5A3",
+  "Day 10 pos": "ZNF98",
+  "Day 10 neg": "FUT6",
+  "Day 15 pos": "C8orf42",
+  "Day 15 neg": "POLR2B",
+  "Day 20 pos": "ERP29",
+  "Day 20 neg": "PPAT"
+ },
+ {
+  "Day 5 pos": "VPS36",
+  "Day 5 neg": "MNF1",
+  "Day 10 pos": "C20orf201",
+  "Day 10 neg": "EPHX3",
+  "Day 15 pos": "DPEP2",
+  "Day 15 neg": "OR4A47",
+  "Day 20 pos": "DMTF1",
+  "Day 20 neg": "SLC10A6"
+ },
+ {
+  "Day 5 pos": "RNF121",
+  "Day 5 neg": "CDK5R2",
+  "Day 10 pos": "LCN15",
+  "Day 10 neg": "NDNL2",
+  "Day 15 pos": "GPR17",
+  "Day 15 neg": "PNP",
+  "Day 20 pos": "RIMS4",
+  "Day 20 neg": "FAM160B2"
+ },
+ {
+  "Day 5 pos": "ACTC1",
+  "Day 5 neg": "PRR22",
+  "Day 10 pos": "MRPS30",
+  "Day 10 neg": "RBMXL3",
+  "Day 15 pos": "REEP3",
+  "Day 15 neg": "ZFP36L2",
+  "Day 20 pos": "ARGLU1",
+  "Day 20 neg": "EMC1"
+ },
+ {
+  "Day 5 pos": "PLEKHH1",
+  "Day 5 neg": "FAM83F",
+  "Day 10 pos": "NRTN",
+  "Day 10 neg": "NXT1",
+  "Day 15 pos": "CD9",
+  "Day 15 neg": "MDN1",
+  "Day 20 pos": "SLC25A31",
+  "Day 20 neg": "RTN4IP1"
+ },
+ {
+  "Day 5 pos": "RASAL2",
+  "Day 5 neg": "MBOAT4",
+  "Day 10 pos": "QPRT",
+  "Day 10 neg": "YWHAQ",
+  "Day 15 pos": "C20orf27",
+  "Day 15 neg": "FERMT1",
+  "Day 20 pos": "ADRA2B",
+  "Day 20 neg": "PCED1A"
+ },
+ {
+  "Day 5 pos": "RRN3",
+  "Day 5 neg": "FAXC",
+  "Day 10 pos": "C1orf135",
+  "Day 10 neg": "ZNF18",
+  "Day 15 pos": "OPALIN",
+  "Day 15 neg": "LDLRAP1",
+  "Day 20 pos": "ILF2",
+  "Day 20 neg": "RIC8A"
+ },
+ {
+  "Day 5 pos": "C1orf56",
+  "Day 5 neg": "CLEC3B",
+  "Day 10 pos": "RIPK4",
+  "Day 10 neg": "CHAD",
+  "Day 15 pos": "BCL11B",
+  "Day 15 neg": "FAM177A1",
+  "Day 20 pos": "NEIL2",
+  "Day 20 neg": "HMGCL"
+ },
+ {
+  "Day 5 pos": "AHCYL1",
+  "Day 5 neg": "TIMP4",
+  "Day 10 pos": "RNF7",
+  "Day 10 neg": "ZNF461",
+  "Day 15 pos": "OCA2",
+  "Day 15 neg": "HTR1B",
+  "Day 20 pos": "REST",
+  "Day 20 neg": "TMEM11"
+ },
+ {
+  "Day 5 pos": "CRTC2",
+  "Day 5 neg": "LMNB2",
+  "Day 10 pos": "FNDC3B",
+  "Day 10 neg": "TMOD2",
+  "Day 15 pos": "PIM1",
+  "Day 15 neg": "MEF2D",
+  "Day 20 pos": "ANAPC2",
+  "Day 20 neg": "SLFN5"
+ },
+ {
+  "Day 5 pos": "ELOVL6",
+  "Day 5 neg": "GADD45GIP1",
+  "Day 10 pos": "NBN",
+  "Day 10 neg": "DCC",
+  "Day 15 pos": "AQP7",
+  "Day 15 neg": "ASH1L",
+  "Day 20 pos": "CA7",
+  "Day 20 neg": "COMMD7"
+ },
+ {
+  "Day 5 pos": "CACTIN",
+  "Day 5 neg": "JAZF1",
+  "Day 10 pos": "ANAPC4",
+  "Day 10 neg": "METRN",
+  "Day 15 pos": "PPIA",
+  "Day 15 neg": "CDC42BPG",
+  "Day 20 pos": "VTCN1",
+  "Day 20 neg": "IL16"
+ },
+ {
+  "Day 5 pos": "KPNA1",
+  "Day 5 neg": "CLPSL2",
+  "Day 10 pos": "ZNF268",
+  "Day 10 neg": "SNX27",
+  "Day 15 pos": "DNAJB6",
+  "Day 15 neg": "VMP1",
+  "Day 20 pos": "TMEM223",
+  "Day 20 neg": "CNTN1"
+ },
+ {
+  "Day 5 pos": "ZNF620",
+  "Day 5 neg": "TMEM5",
+  "Day 10 pos": "OR2AG2",
+  "Day 10 neg": "RPP25L",
+  "Day 15 pos": "HSD17B4",
+  "Day 15 neg": "ZBTB7C",
+  "Day 20 pos": "SERP2",
+  "Day 20 neg": "FAM186A"
+ },
+ {
+  "Day 5 pos": "FAM117B",
+  "Day 5 neg": "RNASE4",
+  "Day 10 pos": "KIF18A",
+  "Day 10 neg": "C16orf73",
+  "Day 15 pos": "GSTA4",
+  "Day 15 neg": "STAB2",
+  "Day 20 pos": "KRT85",
+  "Day 20 neg": "TBC1D25"
+ },
+ {
+  "Day 5 pos": "SNRNP70",
+  "Day 5 neg": "UQCRB",
+  "Day 10 pos": "GPR37",
+  "Day 10 neg": "VASH1",
+  "Day 15 pos": "RIPK4",
+  "Day 15 neg": "ENKUR",
+  "Day 20 pos": "ZNF680",
+  "Day 20 neg": "SLC11A1"
+ },
+ {
+  "Day 5 pos": "RAB28",
+  "Day 5 neg": "ALG6",
+  "Day 10 pos": "TEKT1",
+  "Day 10 neg": "CC2D1A",
+  "Day 15 pos": "CA7",
+  "Day 15 neg": "CCR1",
+  "Day 20 pos": "ATF7",
+  "Day 20 neg": "ATF6B"
+ },
+ {
+  "Day 5 pos": "HOXB4",
+  "Day 5 neg": "HIST1H1C",
+  "Day 10 pos": "SPRED2",
+  "Day 10 neg": "TPRA1",
+  "Day 15 pos": "GNPAT",
+  "Day 15 neg": "PLIN1",
+  "Day 20 pos": "GPR139",
+  "Day 20 neg": "PENK"
+ },
+ {
+  "Day 5 pos": "NR2E1",
+  "Day 5 neg": "FFAR1",
+  "Day 10 pos": "PRH2",
+  "Day 10 neg": "HIST1H1D",
+  "Day 15 pos": "ATP6V1G3",
+  "Day 15 neg": "FUT1",
+  "Day 20 pos": "SPRY1",
+  "Day 20 neg": "SERPIND1"
+ },
+ {
+  "Day 5 pos": "HPS5",
+  "Day 5 neg": "RILPL1",
+  "Day 10 pos": "SRMS",
+  "Day 10 neg": "AEN",
+  "Day 15 pos": "AKR1B10",
+  "Day 15 neg": "MYOZ3",
+  "Day 20 pos": "NAA16",
+  "Day 20 neg": "FGL1"
+ },
+ {
+  "Day 5 pos": "ZNF844",
+  "Day 5 neg": "OR2D2",
+  "Day 10 pos": "CPA3",
+  "Day 10 neg": "TTLL3",
+  "Day 15 pos": "ZC3HAV1",
+  "Day 15 neg": "MTMR4",
+  "Day 20 pos": "XXYLT1",
+  "Day 20 neg": "OR13F1"
+ },
+ {
+  "Day 5 pos": "ITPKB",
+  "Day 5 neg": "OR2AE1",
+  "Day 10 pos": "GPC4",
+  "Day 10 neg": "B3GALTL",
+  "Day 15 pos": "SLC16A3",
+  "Day 15 neg": "CELA2A",
+  "Day 20 pos": "PTGDR2",
+  "Day 20 neg": "MAP3K5"
+ },
+ {
+  "Day 5 pos": "L2HGDH",
+  "Day 5 neg": "OR5M3",
+  "Day 10 pos": "CD5L",
+  "Day 10 neg": "CCDC105",
+  "Day 15 pos": "CCRL1",
+  "Day 15 neg": "FAR2",
+  "Day 20 pos": "ELOVL2",
+  "Day 20 neg": "CSF3R"
+ },
+ {
+  "Day 5 pos": "MOCS2",
+  "Day 5 neg": "TUBGCP6",
+  "Day 10 pos": "ATF2",
+  "Day 10 neg": "CT45A5",
+  "Day 15 pos": "CRISPLD1",
+  "Day 15 neg": "PRKCI",
+  "Day 20 pos": "CYP21A2",
+  "Day 20 neg": "TAS2R13"
+ },
+ {
+  "Day 5 pos": "IPO7",
+  "Day 5 neg": "URB2",
+  "Day 10 pos": "KPTN",
+  "Day 10 neg": "PAGE2B",
+  "Day 15 pos": "SLC23A1",
+  "Day 15 neg": "KDM5C",
+  "Day 20 pos": "GFPT1",
+  "Day 20 neg": "TUBA3D"
+ },
+ {
+  "Day 5 pos": "GRIK1",
+  "Day 5 neg": "GALNT7",
+  "Day 10 pos": "GLI2",
+  "Day 10 neg": "ADHFE1",
+  "Day 15 pos": "GAL3ST3",
+  "Day 15 neg": "SOGA1",
+  "Day 20 pos": "SIDT1",
+  "Day 20 neg": "BABAM1"
+ },
+ {
+  "Day 5 pos": "HARBI1",
+  "Day 5 neg": "KRTAP12-3",
+  "Day 10 pos": "TMEM242",
+  "Day 10 neg": "FAM78A",
+  "Day 15 pos": "SSR3",
+  "Day 15 neg": "FNIP1",
+  "Day 20 pos": "SLC7A4",
+  "Day 20 neg": "ZNF43"
+ },
+ {
+  "Day 5 pos": "SYT4",
+  "Day 5 neg": "DSCAM",
+  "Day 10 pos": "AVPR1A",
+  "Day 10 neg": "FAM24B",
+  "Day 15 pos": "OR2T27",
+  "Day 15 neg": "MPST",
+  "Day 20 pos": "FAT2",
+  "Day 20 neg": "EEPD1"
+ },
+ {
+  "Day 5 pos": "CBX1",
+  "Day 5 neg": "OR8J1",
+  "Day 10 pos": "ADAMTSL1",
+  "Day 10 neg": "ARGFX",
+  "Day 15 pos": "KXD1",
+  "Day 15 neg": "PARP10",
+  "Day 20 pos": "CBFA2T2",
+  "Day 20 neg": "ADORA3"
+ },
+ {
+  "Day 5 pos": "TMIGD1",
+  "Day 5 neg": "ZNF600",
+  "Day 10 pos": "C17orf74",
+  "Day 10 neg": "RPL36AL",
+  "Day 15 pos": "C16orf58",
+  "Day 15 neg": "SYT11",
+  "Day 20 pos": "PLGRKT",
+  "Day 20 neg": "MXD3"
+ },
+ {
+  "Day 5 pos": "ZNF23",
+  "Day 5 neg": "LSM3",
+  "Day 10 pos": "TPRG1L",
+  "Day 10 neg": "AIRE",
+  "Day 15 pos": "NDUFC1",
+  "Day 15 neg": "LRRK2",
+  "Day 20 pos": "AKNAD1",
+  "Day 20 neg": "TMEM68"
+ },
+ {
+  "Day 5 pos": "PDE12",
+  "Day 5 neg": "FUT6",
+  "Day 10 pos": "IL18RAP",
+  "Day 10 neg": "APC",
+  "Day 15 pos": "ALDH1B1",
+  "Day 15 neg": "EIF3H",
+  "Day 20 pos": "STAG1",
+  "Day 20 neg": "HEXB"
+ },
+ {
+  "Day 5 pos": "SPC25",
+  "Day 5 neg": "LYL1",
+  "Day 10 pos": "RXFP4",
+  "Day 10 neg": "CSF1R",
+  "Day 15 pos": "OR8B4",
+  "Day 15 neg": "LIPN",
+  "Day 20 pos": "MRAP",
+  "Day 20 neg": "TWISTNB"
+ },
+ {
+  "Day 5 pos": "RUNDC3B",
+  "Day 5 neg": "NDNL2",
+  "Day 10 pos": "CERK",
+  "Day 10 neg": "DSEL",
+  "Day 15 pos": "FUT10",
+  "Day 15 neg": "ACOX2",
+  "Day 20 pos": "EXOSC3",
+  "Day 20 neg": "WDR61"
+ },
+ {
+  "Day 5 pos": "CERK",
+  "Day 5 neg": "MYO1D",
+  "Day 10 pos": "NUDT12",
+  "Day 10 neg": "PPP1R14C",
+  "Day 15 pos": "SLC17A9",
+  "Day 15 neg": "TNP2",
+  "Day 20 pos": "CD200R1L",
+  "Day 20 neg": "TAS2R7"
+ },
+ {
+  "Day 5 pos": "KPNA3",
+  "Day 5 neg": "TOR1AIP1",
+  "Day 10 pos": "RAPGEFL1",
+  "Day 10 neg": "CNN3",
+  "Day 15 pos": "CLPS",
+  "Day 15 neg": "ARHGEF2",
+  "Day 20 pos": "ZNF383",
+  "Day 20 neg": "PRSS12"
+ },
+ {
+  "Day 5 pos": "CLN8",
+  "Day 5 neg": "ZNF814",
+  "Day 10 pos": "TANK",
+  "Day 10 neg": "POLR3F",
+  "Day 15 pos": "ATF7",
+  "Day 15 neg": "HS3ST3A1",
+  "Day 20 pos": "TSPAN9",
+  "Day 20 neg": "C16orf48"
+ },
+ {
+  "Day 5 pos": "TEX30",
+  "Day 5 neg": "PSMD11",
+  "Day 10 pos": "FOXO1",
+  "Day 10 neg": "FAM211B",
+  "Day 15 pos": "ZWILCH",
+  "Day 15 neg": "KIAA0408",
+  "Day 20 pos": "MS4A7",
+  "Day 20 neg": "JAK2"
+ },
+ {
+  "Day 5 pos": "RPS6KA4",
+  "Day 5 neg": "C17orf109",
+  "Day 10 pos": "BTN3A3",
+  "Day 10 neg": "PRRG2",
+  "Day 15 pos": "BTG1",
+  "Day 15 neg": "CCIN",
+  "Day 20 pos": "FASTK",
+  "Day 20 neg": "PLEKHO2"
+ },
+ {
+  "Day 5 pos": "INTS8",
+  "Day 5 neg": "BOLL",
+  "Day 10 pos": "LY96",
+  "Day 10 neg": "C17orf96",
+  "Day 15 pos": "NACC2",
+  "Day 15 neg": "VWC2L",
+  "Day 20 pos": "C1orf122",
+  "Day 20 neg": "SRPK3"
+ },
+ {
+  "Day 5 pos": "NRIP3",
+  "Day 5 neg": "LLPH",
+  "Day 10 pos": "AOC3",
+  "Day 10 neg": "PCNT",
+  "Day 15 pos": "ZMYND10",
+  "Day 15 neg": "SNX13",
+  "Day 20 pos": "OR6K2",
+  "Day 20 neg": "SLC36A4"
+ },
+ {
+  "Day 5 pos": "RPA2",
+  "Day 5 neg": "RHOBTB3",
+  "Day 10 pos": "OR2L13",
+  "Day 10 neg": "CD52",
+  "Day 15 pos": "MYRIP",
+  "Day 15 neg": "TTC29",
+  "Day 20 pos": "HDAC4",
+  "Day 20 neg": "SCN1A"
+ },
+ {
+  "Day 5 pos": "ZNF747",
+  "Day 5 neg": "HMGN5",
+  "Day 10 pos": "WNT3",
+  "Day 10 neg": "PEX11A",
+  "Day 15 pos": "SLC16A8",
+  "Day 15 neg": "HMP19",
+  "Day 20 pos": "SRSF5",
+  "Day 20 neg": "ZNF558"
+ },
+ {
+  "Day 5 pos": "DGKH",
+  "Day 5 neg": "SLC29A4",
+  "Day 10 pos": "ABCF1",
+  "Day 10 neg": "BVES",
+  "Day 15 pos": "FCRLB",
+  "Day 15 neg": "TRIO",
+  "Day 20 pos": "PGM2",
+  "Day 20 neg": "SUGP2"
+ },
+ {
+  "Day 5 pos": "CTCF",
+  "Day 5 neg": "TTLL3",
+  "Day 10 pos": "ACAP1",
+  "Day 10 neg": "CLDN4",
+  "Day 15 pos": "ADCY10",
+  "Day 15 neg": "DTYMK",
+  "Day 20 pos": "BACE2",
+  "Day 20 neg": "RAB5B"
+ },
+ {
+  "Day 5 pos": "CYBRD1",
+  "Day 5 neg": "GABARAPL2",
+  "Day 10 pos": "ARL13A",
+  "Day 10 neg": "TMSB10",
+  "Day 15 pos": "NEUROD4",
+  "Day 15 neg": "TMEM119",
+  "Day 20 pos": "PTGES2",
+  "Day 20 neg": "ELANE"
+ },
+ {
+  "Day 5 pos": "C3orf79",
+  "Day 5 neg": "CLIC4",
+  "Day 10 pos": "TMEM109",
+  "Day 10 neg": "SHROOM3",
+  "Day 15 pos": "COL6A1",
+  "Day 15 neg": "ORM1",
+  "Day 20 pos": "CDK11A",
+  "Day 20 neg": "FOXD3"
+ },
+ {
+  "Day 5 pos": "POLDIP3",
+  "Day 5 neg": "ADHFE1",
+  "Day 10 pos": "PKDREJ",
+  "Day 10 neg": "PDIA6",
+  "Day 15 pos": "MON1B",
+  "Day 15 neg": "FAM108A1",
+  "Day 20 pos": "SBNO2",
+  "Day 20 neg": "PNMA2"
+ },
+ {
+  "Day 5 pos": "PGLS",
+  "Day 5 neg": "ZG16B",
+  "Day 10 pos": "SULT2A1",
+  "Day 10 neg": "KANSL3",
+  "Day 15 pos": "TMEM55A",
+  "Day 15 neg": "PRR25",
+  "Day 20 pos": "C20orf197",
+  "Day 20 neg": "SLC17A6"
+ },
+ {
+  "Day 5 pos": "FADS6",
+  "Day 5 neg": "SHROOM3",
+  "Day 10 pos": "TCP1",
+  "Day 10 neg": "C9orf66",
+  "Day 15 pos": "NUP153",
+  "Day 15 neg": "INS",
+  "Day 20 pos": "CTRL",
+  "Day 20 neg": "MPP3"
+ },
+ {
+  "Day 5 pos": "IGFBP2",
+  "Day 5 neg": "TMCO5A",
+  "Day 10 pos": "ILF2",
+  "Day 10 neg": "TMEM202",
+  "Day 15 pos": "CHMP5",
+  "Day 15 neg": "LACTB2",
+  "Day 20 pos": "LRIT2",
+  "Day 20 neg": "CTD-3193O13.2"
+ },
+ {
+  "Day 5 pos": "C22orf40",
+  "Day 5 neg": "POLR2B",
+  "Day 10 pos": "NKX2-1",
+  "Day 10 neg": "SFT2D3",
+  "Day 15 pos": "SST",
+  "Day 15 neg": "SF3B2",
+  "Day 20 pos": "UBOX5",
+  "Day 20 neg": "TMEM45B"
+ },
+ {
+  "Day 5 pos": "TAOK1",
+  "Day 5 neg": "TAS1R2",
+  "Day 10 pos": "05-Mar",
+  "Day 10 neg": "UBAP1",
+  "Day 15 pos": "P4HTM",
+  "Day 15 neg": "CKS2",
+  "Day 20 pos": "SLC12A8",
+  "Day 20 neg": "ZNF93"
+ },
+ {
+  "Day 5 pos": "C1orf194",
+  "Day 5 neg": "UBE2I",
+  "Day 10 pos": "TBX3",
+  "Day 10 neg": "PPIF",
+  "Day 15 pos": "LRRC71",
+  "Day 15 neg": "TEX12",
+  "Day 20 pos": "EEFSEC",
+  "Day 20 neg": "NRF1"
+ },
+ {
+  "Day 5 pos": "ANKRD13A",
+  "Day 5 neg": "PSMD14",
+  "Day 10 pos": "RALGDS",
+  "Day 10 neg": "PPT2",
+  "Day 15 pos": "MNT",
+  "Day 15 neg": "OR6C1",
+  "Day 20 pos": "SLAMF7",
+  "Day 20 neg": "AP1G2"
+ },
+ {
+  "Day 5 pos": "ALKBH2",
+  "Day 5 neg": "CCDC122",
+  "Day 10 pos": "USP5",
+  "Day 10 neg": "CSNK2B",
+  "Day 15 pos": "KAT8",
+  "Day 15 neg": "OR10H1",
+  "Day 20 pos": "PLXNB2",
+  "Day 20 neg": "CDO1"
+ },
+ {
+  "Day 5 pos": "GRIN2D",
+  "Day 5 neg": "SIX5",
+  "Day 10 pos": "TAZ",
+  "Day 10 neg": "KRT7",
+  "Day 15 pos": "H3F3C",
+  "Day 15 neg": "MYO1B",
+  "Day 20 pos": "ZPBP2",
+  "Day 20 neg": "CNST"
+ },
+ {
+  "Day 5 pos": "DPEP2",
+  "Day 5 neg": "CHD6",
+  "Day 10 pos": "PLD3",
+  "Day 10 neg": "CENPP",
+  "Day 15 pos": "MFSD10",
+  "Day 15 neg": "MMRN2",
+  "Day 20 pos": "AFF4",
+  "Day 20 neg": "CPM"
+ },
+ {
+  "Day 5 pos": "NRTN",
+  "Day 5 neg": "PAQR9",
+  "Day 10 pos": "TDRD12",
+  "Day 10 neg": "SLC24A3",
+  "Day 15 pos": "OR2B2",
+  "Day 15 neg": "OR2A2",
+  "Day 20 pos": "DRD2",
+  "Day 20 neg": "NAT6"
+ },
+ {
+  "Day 5 pos": "FAM118B",
+  "Day 5 neg": "NKX2-8",
+  "Day 10 pos": "FAM83G",
+  "Day 10 neg": "UBAP1L",
+  "Day 15 pos": "RNF149",
+  "Day 15 neg": "CABS1",
+  "Day 20 pos": "CAPZA2",
+  "Day 20 neg": "LIG3"
+ },
+ {
+  "Day 5 pos": "PLA2G4D",
+  "Day 5 neg": "KLF2",
+  "Day 10 pos": "ZNF527",
+  "Day 10 neg": "WSCD2",
+  "Day 15 pos": "NDUFV3",
+  "Day 15 neg": "UBQLN3",
+  "Day 20 pos": "AMT",
+  "Day 20 neg": "WDR27"
+ },
+ {
+  "Day 5 pos": "CCL17",
+  "Day 5 neg": "RLIM",
+  "Day 10 pos": "RIMS4",
+  "Day 10 neg": "KCTD12",
+  "Day 15 pos": "APOC4",
+  "Day 15 neg": "TMEM116",
+  "Day 20 pos": "LGALS1",
+  "Day 20 neg": "TINAG"
+ },
+ {
+  "Day 5 pos": "RPS6KA2",
+  "Day 5 neg": "ZBTB42",
+  "Day 10 pos": "LOH12CR1",
+  "Day 10 neg": "RHCG",
+  "Day 15 pos": "GPR142",
+  "Day 15 neg": "CD244",
+  "Day 20 pos": "DNASE1L2",
+  "Day 20 neg": "KRTAP4-8"
+ },
+ {
+  "Day 5 pos": "CD36",
+  "Day 5 neg": "DYDC1",
+  "Day 10 pos": "PER2",
+  "Day 10 neg": "DOC2A",
+  "Day 15 pos": "EEFSEC",
+  "Day 15 neg": "HOXB5",
+  "Day 20 pos": "NSUN4",
+  "Day 20 neg": "CREBBP"
+ },
+ {
+  "Day 5 pos": "C17orf48",
+  "Day 5 neg": "LACRT",
+  "Day 10 pos": "GBP7",
+  "Day 10 neg": "PCDHB15",
+  "Day 15 pos": "MAPKAPK5",
+  "Day 15 neg": "CYP26A1",
+  "Day 20 pos": "MNT",
+  "Day 20 neg": "PUS10"
+ },
+ {
+  "Day 5 pos": "BROX",
+  "Day 5 neg": "TLX2",
+  "Day 10 pos": "SLC10A5",
+  "Day 10 neg": "ANKRD36",
+  "Day 15 pos": "ACSM1",
+  "Day 15 neg": "KANK1",
+  "Day 20 pos": "BNC2",
+  "Day 20 neg": "ENDOG"
+ },
+ {
+  "Day 5 pos": "PRKAR1A",
+  "Day 5 neg": "CHRNA5",
+  "Day 10 pos": "RHPN2",
+  "Day 10 neg": "CASC4",
+  "Day 15 pos": "CBX1",
+  "Day 15 neg": "ERCC5",
+  "Day 20 pos": "ZIK1",
+  "Day 20 neg": "OR10H3"
+ },
+ {
+  "Day 5 pos": "AIG1",
+  "Day 5 neg": "PARM1",
+  "Day 10 pos": "BMP2",
+  "Day 10 neg": "PSD4",
+  "Day 15 pos": "HGFAC",
+  "Day 15 neg": "CTSD",
+  "Day 20 pos": "PAOX",
+  "Day 20 neg": "LPA"
+ },
+ {
+  "Day 5 pos": "HINT1",
+  "Day 5 neg": "PCDHB14",
+  "Day 10 pos": "P2RY10",
+  "Day 10 neg": "CEBPE",
+  "Day 15 pos": "TFAP2D",
+  "Day 15 neg": "MAP3K10",
+  "Day 20 pos": "GGCX",
+  "Day 20 neg": "POGLUT1"
+ },
+ {
+  "Day 5 pos": "UBL3",
+  "Day 5 neg": "CLPP",
+  "Day 10 pos": "ZNF606",
+  "Day 10 neg": "BEND5",
+  "Day 15 pos": "EXOC4",
+  "Day 15 neg": "OR10A5",
+  "Day 20 pos": "DAG1",
+  "Day 20 neg": "FGFR1OP2"
+ },
+ {
+  "Day 5 pos": "RAP2A",
+  "Day 5 neg": "COMMD2",
+  "Day 10 pos": "FBXW10",
+  "Day 10 neg": "FBN1",
+  "Day 15 pos": "EFNA2",
+  "Day 15 neg": "PCDHA4",
+  "Day 20 pos": "GPR15",
+  "Day 20 neg": "MEF2BNB"
+ },
+ {
+  "Day 5 pos": "BYSL",
+  "Day 5 neg": "C10orf68",
+  "Day 10 pos": "SLC6A16",
+  "Day 10 neg": "SIX5",
+  "Day 15 pos": "SPRED2",
+  "Day 15 neg": "SRF",
+  "Day 20 pos": "YBX2",
+  "Day 20 neg": "CCL24"
+ },
+ {
+  "Day 5 pos": "LY96",
+  "Day 5 neg": "RAD51",
+  "Day 10 pos": "AGRN",
+  "Day 10 neg": "MLF�2.00",
+  "Day 15 pos": "GCFC1",
+  "Day 15 neg": "PIGM",
+  "Day 20 pos": "CLK1",
+  "Day 20 neg": "CDH8"
+ },
+ {
+  "Day 5 pos": "FTSJD1",
+  "Day 5 neg": "PIK3CG",
+  "Day 10 pos": "LRRC71",
+  "Day 10 neg": "TAF10",
+  "Day 15 pos": "AGXT2L2",
+  "Day 15 neg": "TRIM17",
+  "Day 20 pos": "STX1B",
+  "Day 20 neg": "SLC2A2"
+ },
+ {
+  "Day 5 pos": "AGRN",
+  "Day 5 neg": "FAM181B",
+  "Day 10 pos": "WNT8B",
+  "Day 10 neg": "C1orf210",
+  "Day 15 pos": "ITFG3",
+  "Day 15 neg": "MYT1L",
+  "Day 20 pos": "WDR48",
+  "Day 20 neg": "DZIP1L"
+ },
+ {
+  "Day 5 pos": "EPYC",
+  "Day 5 neg": "LEP",
+  "Day 10 pos": "SLC45A3",
+  "Day 10 neg": "BLID",
+  "Day 15 pos": "LCE6A",
+  "Day 15 neg": "CXorf27",
+  "Day 20 pos": "DYRK3",
+  "Day 20 neg": "AP3M1"
+ },
+ {
+  "Day 5 pos": "AZIN1",
+  "Day 5 neg": "BRWD3",
+  "Day 10 pos": "TRAM1",
+  "Day 10 neg": "OR5B21",
+  "Day 15 pos": "05-Mar",
+  "Day 15 neg": "GATM",
+  "Day 20 pos": "ANKRD12",
+  "Day 20 neg": "SLC36A1"
+ },
+ {
+  "Day 5 pos": "PFDN6",
+  "Day 5 neg": "TMEM244",
+  "Day 10 pos": "GSTA4",
+  "Day 10 neg": "MLIP",
+  "Day 15 pos": "SOCS6",
+  "Day 15 neg": "ALOX5",
+  "Day 20 pos": "NTS",
+  "Day 20 neg": "OR4S1"
+ },
+ {
+  "Day 5 pos": "NUDT12",
+  "Day 5 neg": "OR4A47",
+  "Day 10 pos": "CCDC87",
+  "Day 10 neg": "CLPSL1",
+  "Day 15 pos": "SGMS2",
+  "Day 15 neg": "FBXO27",
+  "Day 20 pos": "ANGPTL3",
+  "Day 20 neg": "PRDM9"
+ },
+ {
+  "Day 5 pos": "CHRNA10",
+  "Day 5 neg": "PRKAR2B",
+  "Day 10 pos": "SLC25A5",
+  "Day 10 neg": "C1QL3",
+  "Day 15 pos": "HYI",
+  "Day 15 neg": "CCT8",
+  "Day 20 pos": "FIGLA",
+  "Day 20 neg": "SLCO1B3"
+ },
+ {
+  "Day 5 pos": "CSDC2",
+  "Day 5 neg": "C4orf47",
+  "Day 10 pos": "SORD",
+  "Day 10 neg": "SEC11C",
+  "Day 15 pos": "EAPP",
+  "Day 15 neg": "SPATA24",
+  "Day 20 pos": "ZNF518B",
+  "Day 20 neg": "SLC25A34"
+ },
+ {
+  "Day 5 pos": "SFRP5",
+  "Day 5 neg": "RHOXF2",
+  "Day 10 pos": "CRTC2",
+  "Day 10 neg": "SPOPL",
+  "Day 15 pos": "SOWAHC",
+  "Day 15 neg": "BRMS1L",
+  "Day 20 pos": "C14orf118",
+  "Day 20 neg": "C2orf48"
+ },
+ {
+  "Day 5 pos": "CBX2",
+  "Day 5 neg": "CCL20",
+  "Day 10 pos": "IKBKG",
+  "Day 10 neg": "RIOK1",
+  "Day 15 pos": "CCNE2",
+  "Day 15 neg": "GFOD2",
+  "Day 20 pos": "TMEM61",
+  "Day 20 neg": "PAIP2B"
+ },
+ {
+  "Day 5 pos": "B4GALNT4",
+  "Day 5 neg": "SPPL2C",
+  "Day 10 pos": "BEST2",
+  "Day 10 neg": "KIF5B",
+  "Day 15 pos": "PLCL1",
+  "Day 15 neg": "CMYA5",
+  "Day 20 pos": "TOP3B",
+  "Day 20 neg": "PHF23"
+ },
+ {
+  "Day 5 pos": "VIL1",
+  "Day 5 neg": "MRPS23",
+  "Day 10 pos": "CRISPLD1",
+  "Day 10 neg": "NRAS",
+  "Day 15 pos": "PDCD4",
+  "Day 15 neg": "RPS6KA6",
+  "Day 20 pos": "NUB1",
+  "Day 20 neg": "C12orf54"
+ },
+ {
+  "Day 5 pos": "COMMD9",
+  "Day 5 neg": "ZNF846",
+  "Day 10 pos": "TDRD7",
+  "Day 10 neg": "HOXB7",
+  "Day 15 pos": "PLGRKT",
+  "Day 15 neg": "CHSY1",
+  "Day 20 pos": "THBS2",
+  "Day 20 neg": "HDAC6"
+ },
+ {
+  "Day 5 pos": "AMT",
+  "Day 5 neg": "KIAA0408",
+  "Day 10 pos": "NTRK1",
+  "Day 10 neg": "SND1",
+  "Day 15 pos": "EEF1D",
+  "Day 15 neg": "FAM166B",
+  "Day 20 pos": "CLSTN3",
+  "Day 20 neg": "CPSF2"
+ },
+ {
+  "Day 5 pos": "AJUBA",
+  "Day 5 neg": "C5orf43",
+  "Day 10 pos": "DDX20",
+  "Day 10 neg": "RLIM",
+  "Day 15 pos": "GLI2",
+  "Day 15 neg": "ISY1",
+  "Day 20 pos": "ATAD2B",
+  "Day 20 neg": "FOSL2"
+ },
+ {
+  "Day 5 pos": "INTS4",
+  "Day 5 neg": "HS3ST3A1",
+  "Day 10 pos": "ZC3H12A",
+  "Day 10 neg": "AGBL3",
+  "Day 15 pos": "C9orf64",
+  "Day 15 neg": "TBX10",
+  "Day 20 pos": "NEFH",
+  "Day 20 neg": "SULT1C3"
+ },
+ {
+  "Day 5 pos": "SLC45A1",
+  "Day 5 neg": "LTA",
+  "Day 10 pos": "NHSL1",
+  "Day 10 neg": "RPL35",
+  "Day 15 pos": "GJB1",
+  "Day 15 neg": "DDX55",
+  "Day 20 pos": "NIT1",
+  "Day 20 neg": "LRRC55"
+ },
+ {
+  "Day 5 pos": "ADCK3",
+  "Day 5 neg": "CPVL",
+  "Day 10 pos": "DCDC2B",
+  "Day 10 neg": "TLX2",
+  "Day 15 pos": "MGAT4C",
+  "Day 15 neg": "PAAF1",
+  "Day 20 pos": "C3orf35",
+  "Day 20 neg": "SMG9"
+ },
+ {
+  "Day 5 pos": "HIVEP1",
+  "Day 5 neg": "KCNA5",
+  "Day 10 pos": "GRIK5",
+  "Day 10 neg": "NHP2L1",
+  "Day 15 pos": "C11orf63",
+  "Day 15 neg": "DAPL1",
+  "Day 20 pos": "ODZ1",
+  "Day 20 neg": "GDE1"
+ },
+ {
+  "Day 5 pos": "PGPEP1L",
+  "Day 5 neg": "CERCAM",
+  "Day 10 pos": "CARD9",
+  "Day 10 neg": "RPL10",
+  "Day 15 pos": "SMPDL3B",
+  "Day 15 neg": "RMND1",
+  "Day 20 pos": "CECR1",
+  "Day 20 neg": "ZNF607"
+ },
+ {
+  "Day 5 pos": "ARHGAP31",
+  "Day 5 neg": "MYH2",
+  "Day 10 pos": "POU3F3",
+  "Day 10 neg": "C10orf68",
+  "Day 15 pos": "RBPMS2",
+  "Day 15 neg": "ZNF100",
+  "Day 20 pos": "ERRFI1",
+  "Day 20 neg": "CYP2C9"
+ },
+ {
+  "Day 5 pos": "CLIP3",
+  "Day 5 neg": "LY6D",
+  "Day 10 pos": "ALOXE3",
+  "Day 10 neg": "TSPYL4",
+  "Day 15 pos": "PRKX",
+  "Day 15 neg": "MED19",
+  "Day 20 pos": "SH3D21",
+  "Day 20 neg": "GRK5"
+ },
+ {
+  "Day 5 pos": "CENPE",
+  "Day 5 neg": "TMEM119",
+  "Day 10 pos": "ZFX",
+  "Day 10 neg": "MIOS",
+  "Day 15 pos": "SYT9",
+  "Day 15 neg": "OR2B11",
+  "Day 20 pos": "L1TD1",
+  "Day 20 neg": "PRR13"
+ },
+ {
+  "Day 5 pos": "NME9",
+  "Day 5 neg": "LACTB2",
+  "Day 10 pos": "SNURF",
+  "Day 10 neg": "WDR4",
+  "Day 15 pos": "LUZP4",
+  "Day 15 neg": "HS3ST3B1",
+  "Day 20 pos": "TINAGL1",
+  "Day 20 neg": "STYX"
+ },
+ {
+  "Day 5 pos": "GALNTL1",
+  "Day 5 neg": "OR6C1",
+  "Day 10 pos": "KIR2DL4",
+  "Day 10 neg": "SRP14",
+  "Day 15 pos": "DICER1",
+  "Day 15 neg": "SNX11",
+  "Day 20 neg": "NOP16"
+ },
+ {
+  "Day 5 pos": "STK4",
+  "Day 5 neg": "OR2K2",
+  "Day 10 pos": "GJC1",
+  "Day 10 neg": "MYCBPAP",
+  "Day 15 pos": "MSX1",
+  "Day 15 neg": "SIGLEC15",
+  "Day 20 neg": "PATL2"
+ },
+ {
+  "Day 5 pos": "COX14",
+  "Day 5 neg": "OR2A2",
+  "Day 10 pos": "COMMD9",
+  "Day 10 neg": "RAD51",
+  "Day 15 pos": "FAM151A",
+  "Day 15 neg": "C6orf222",
+  "Day 20 neg": "TMED10"
+ },
+ {
+  "Day 5 pos": "GPC5",
+  "Day 5 neg": "DNAH12",
+  "Day 10 pos": "TEPP",
+  "Day 10 neg": "OR13H1",
+  "Day 15 pos": "SMAD1",
+  "Day 15 neg": "SPECC1L",
+  "Day 20 neg": "VWCE"
+ },
+ {
+  "Day 5 pos": "NHSL1",
+  "Day 5 neg": "MYT1L",
+  "Day 10 pos": "OR5V1",
+  "Day 10 neg": "APCDD1L",
+  "Day 15 pos": "SAT2",
+  "Day 15 neg": "DNAL1",
+  "Day 20 neg": "ZFP92"
+ },
+ {
+  "Day 5 pos": "C19orf77",
+  "Day 5 neg": "OR5R1",
+  "Day 10 pos": "LGALS8",
+  "Day 10 neg": "MGAT3",
+  "Day 15 pos": "ATP11A",
+  "Day 15 neg": "SLC25A17",
+  "Day 20 neg": "TUBB2A"
+ },
+ {
+  "Day 5 pos": "CCND3",
+  "Day 5 neg": "CXorf27",
+  "Day 10 pos": "C4orf26",
+  "Day 10 neg": "PAX9",
+  "Day 15 pos": "SPRY2",
+  "Day 15 neg": "EIF1",
+  "Day 20 neg": "FOXF2"
+ },
+ {
+  "Day 5 pos": "TANK",
+  "Day 5 neg": "C10orf54",
+  "Day 10 pos": "MTHFD2L",
+  "Day 10 neg": "GNL3L",
+  "Day 15 pos": "C11orf85",
+  "Day 15 neg": "C12orf40",
+  "Day 20 neg": "FBXW5"
+ },
+ {
+  "Day 5 pos": "IFI27L2",
+  "Day 5 neg": "CD14",
+  "Day 10 pos": "ATP6V1G3",
+  "Day 10 neg": "FAM181B",
+  "Day 15 pos": "PIGL",
+  "Day 15 neg": "C16orf87",
+  "Day 20 neg": "HNRNPH2"
+ },
+ {
+  "Day 5 pos": "TM6SF2",
+  "Day 5 neg": "CCT8",
+  "Day 10 pos": "FKBP11",
+  "Day 10 neg": "MMP17",
+  "Day 15 pos": "HMG20A",
+  "Day 15 neg": "BAK1",
+  "Day 20 neg": "GOLT1B"
+ },
+ {
+  "Day 5 pos": "METTL21D",
+  "Day 5 neg": "OST4",
+  "Day 10 pos": "SLC16A3",
+  "Day 10 neg": "KRTAP9-1",
+  "Day 15 pos": "TCEA2",
+  "Day 15 neg": "PLOD3",
+  "Day 20 neg": "CLSPN"
+ },
+ {
+  "Day 5 pos": "TULP2",
+  "Day 5 neg": "OR5A1",
+  "Day 10 pos": "TRIM28",
+  "Day 10 neg": "APOBEC1",
+  "Day 15 pos": "ELMO1",
+  "Day 15 neg": "MMP24",
+  "Day 20 neg": "ZNF26"
+ },
+ {
+  "Day 5 pos": "HAUS5",
+  "Day 5 neg": "DGAT1",
+  "Day 10 pos": "KCNJ15",
+  "Day 10 neg": "NPAS2",
+  "Day 15 pos": "ADAMTS18",
+  "Day 15 neg": "ALG14",
+  "Day 20 neg": "WDR86"
+ },
+ {
+  "Day 5 pos": "HIST2H2BF",
+  "Day 5 neg": "BAK1",
+  "Day 10 pos": "C20orf27",
+  "Day 10 neg": "MDN1",
+  "Day 15 pos": "CRHR2",
+  "Day 15 neg": "HTR3B",
+  "Day 20 neg": "CRYBB2"
+ },
+ {
+  "Day 5 pos": "UBTD1",
+  "Day 5 neg": "GALNT1",
+  "Day 10 pos": "LHFPL1",
+  "Day 10 neg": "C4orf47",
+  "Day 15 pos": "IDNK",
+  "Day 15 neg": "DOPEY1",
+  "Day 20 neg": "ADCY4"
+ },
+ {
+  "Day 5 pos": "LMTK2",
+  "Day 5 neg": "ZNF121",
+  "Day 10 pos": "ATP5G2",
+  "Day 10 neg": "FAM177A1",
+  "Day 15 pos": "SPATA8",
+  "Day 15 neg": "CYP2A6",
+  "Day 20 neg": "PYDC1"
+ },
+ {
+  "Day 5 pos": "XDH",
+  "Day 5 neg": "GNPDA2",
+  "Day 10 pos": "SLC16A1",
+  "Day 10 neg": "NADSYN1",
+  "Day 15 pos": "PIK3R5",
+  "Day 15 neg": "ATF5",
+  "Day 20 neg": "ZNF429"
+ },
+ {
+  "Day 5 pos": "PIK3C2B",
+  "Day 5 neg": "CABP4",
+  "Day 10 pos": "MSI1",
+  "Day 10 neg": "SPINK9",
+  "Day 15 pos": "EFHD1",
+  "Day 15 neg": "ADRB1",
+  "Day 20 neg": "ZFP41"
+ },
+ {
+  "Day 5 pos": "EIF1AD",
+  "Day 5 neg": "ADRB2",
+  "Day 10 pos": "GNB2",
+  "Day 10 neg": "BBS2",
+  "Day 15 pos": "USP5",
+  "Day 15 neg": "TMPO",
+  "Day 20 neg": "RPL10A"
+ },
+ {
+  "Day 5 pos": "TCEB3",
+  "Day 5 neg": "TNKS1BP1",
+  "Day 10 pos": "CHRDL2",
+  "Day 10 neg": "SBK1",
+  "Day 15 pos": "BRSK2",
+  "Day 15 neg": "IKZF5",
+  "Day 20 neg": "KRTAP5-1"
+ },
+ {
+  "Day 5 pos": "TPPP",
+  "Day 5 neg": "CNST",
+  "Day 10 pos": "C7orf33",
+  "Day 10 neg": "C12orf77",
+  "Day 15 pos": "SLPI",
+  "Day 15 neg": "UBR4",
+  "Day 20 neg": "NXPH1"
+ },
+ {
+  "Day 5 pos": "CPN2",
+  "Day 5 neg": "P4HB",
+  "Day 10 pos": "GIT1",
+  "Day 10 neg": "DYTN",
+  "Day 15 pos": "CCDC146",
+  "Day 15 neg": "C1orf114",
+  "Day 20 neg": "PRAMEF10"
+ },
+ {
+  "Day 5 pos": "LBR",
+  "Day 10 pos": "BLCAP",
+  "Day 10 neg": "STARD7",
+  "Day 15 pos": "LRRC8E",
+  "Day 15 neg": "RXFP2",
+  "Day 20 neg": "TASP1"
+ },
+ {
+  "Day 5 pos": "ZNF594",
+  "Day 10 pos": "TXNL4A",
+  "Day 10 neg": "KCTD17",
+  "Day 15 pos": "UBE2E3",
+  "Day 15 neg": "SNX25",
+  "Day 20 neg": "RFWD3"
+ },
+ {
+  "Day 5 pos": "NTRK1",
+  "Day 10 pos": "SIGLEC8",
+  "Day 10 neg": "LYSMD4",
+  "Day 15 pos": "HTR2B",
+  "Day 15 neg": "DAGLA",
+  "Day 20 neg": "LRRC31"
+ },
+ {
+  "Day 5 pos": "RINT1",
+  "Day 10 pos": "ZNF540",
+  "Day 10 neg": "FUT1",
+  "Day 15 pos": "PRDM13",
+  "Day 15 neg": "ZNF324",
+  "Day 20 neg": "SLC35C2"
+ },
+ {
+  "Day 5 pos": "TXNL4A",
+  "Day 10 pos": "ALG3",
+  "Day 10 neg": "MYOZ3",
+  "Day 15 pos": "ASB5",
+  "Day 15 neg": "GPRIN2",
+  "Day 20 neg": "RBM12"
+ },
+ {
+  "Day 5 pos": "RALGDS",
+  "Day 10 pos": "RP11-744I24.1",
+  "Day 10 neg": "SPPL2C",
+  "Day 15 pos": "XDH",
+  "Day 15 neg": "NFE2L1",
+  "Day 20 neg": "ADAD1"
+ },
+ {
+  "Day 5 pos": "TOPBP1",
+  "Day 10 pos": "THNSL1",
+  "Day 10 neg": "PARP10",
+  "Day 15 pos": "ZNF615",
+  "Day 15 neg": "C3orf25",
+  "Day 20 neg": "OR2F2"
+ },
+ {
+  "Day 5 pos": "TIMD4",
+  "Day 10 pos": "PCK2",
+  "Day 10 neg": "SYT11",
+  "Day 15 pos": "CHRNA6",
+  "Day 15 neg": "CD34",
+  "Day 20 neg": "ZNF812"
+ },
+ {
+  "Day 5 pos": "AKR1B10",
+  "Day 10 pos": "FAHD1",
+  "Day 10 neg": "PIGM",
+  "Day 15 pos": "RIT2",
+  "Day 15 neg": "TNF",
+  "Day 20 neg": "SHCBP1L"
+ },
+ {
+  "Day 5 pos": "ZNF268",
+  "Day 10 pos": "YWHAH",
+  "Day 10 neg": "MRPS23",
+  "Day 15 pos": "CILP2",
+  "Day 15 neg": "ELL2",
+  "Day 20 neg": "UBR3"
+ },
+ {
+  "Day 5 pos": "C7orf72",
+  "Day 10 pos": "ERP29",
+  "Day 10 neg": "SPZ1",
+  "Day 15 pos": "UPK1A",
+  "Day 15 neg": "AMIGO2",
+  "Day 20 neg": "EIF5A2"
+ },
+ {
+  "Day 5 pos": "KCNN4",
+  "Day 10 pos": "GPR139",
+  "Day 10 neg": "CYP4F2",
+  "Day 15 pos": "IRGC",
+  "Day 15 neg": "EFCAB4A",
+  "Day 20 neg": "ITPKC"
+ },
+ {
+  "Day 5 pos": "CHRM1",
+  "Day 10 pos": "ZNF280D",
+  "Day 10 neg": "PRPF38A",
+  "Day 15 pos": "RAB40C",
+  "Day 15 neg": "EPB41L4A",
+  "Day 20 neg": "FAM48A"
+ },
+ {
+  "Day 5 pos": "ARL13A",
+  "Day 10 pos": "ANKLE1",
+  "Day 10 neg": "TTC3",
+  "Day 15 pos": "NMRAL1",
+  "Day 15 neg": "NUDT2",
+  "Day 20 neg": "SLC1A7"
+ },
+ {
+  "Day 5 pos": "OR8B4",
+  "Day 10 pos": "MYOD1",
+  "Day 10 neg": "HS3ST3A1",
+  "Day 15 pos": "ASTN1",
+  "Day 15 neg": "CCL8",
+  "Day 20 neg": "TMEM38A"
+ },
+ {
+  "Day 5 pos": "MYOD1",
+  "Day 10 pos": "TRHR",
+  "Day 10 neg": "ZNF649",
+  "Day 15 pos": "PLXNB2",
+  "Day 15 neg": "OR2L8",
+  "Day 20 neg": "KCNQ1"
+ },
+ {
+  "Day 5 pos": "SKIV2L",
+  "Day 10 pos": "H3F3C",
+  "Day 10 neg": "NAA40",
+  "Day 15 pos": "AGRN",
+  "Day 15 neg": "PIK3C3",
+  "Day 20 neg": "ZNF592"
+ },
+ {
+  "Day 5 pos": "ZBTB45",
+  "Day 10 pos": "SCNM1",
+  "Day 10 neg": "CPVL",
+  "Day 15 pos": "SLC7A4",
+  "Day 15 neg": "LRRC48",
+  "Day 20 neg": "P2RX5"
+ },
+ {
+  "Day 5 pos": "REEP3",
+  "Day 10 pos": "CNGB3",
+  "Day 10 neg": "KCNA5",
+  "Day 15 pos": "DSN1",
+  "Day 15 neg": "PDZRN3",
+  "Day 20 neg": "CST2"
+ },
+ {
+  "Day 5 pos": "CLDN12",
+  "Day 10 pos": "GRINA",
+  "Day 10 neg": "ZFP2",
+  "Day 15 pos": "ZSWIM6",
+  "Day 15 neg": "CBX4",
+  "Day 20 neg": "KRTAP10-2"
+ },
+ {
+  "Day 5 pos": "GLS",
+  "Day 10 pos": "WNT3A",
+  "Day 10 neg": "MMADHC",
+  "Day 15 pos": "DRD2",
+  "Day 15 neg": "SDR39U1",
+  "Day 20 neg": "HTR1F"
+ },
+ {
+  "Day 5 pos": "GNB2",
+  "Day 10 pos": "PPP2R2C",
+  "Day 10 neg": "TMEM119",
+  "Day 15 pos": "NXPH2",
+  "Day 15 neg": "C10orf54",
+  "Day 20 neg": "GABRE"
+ },
+ {
+  "Day 5 pos": "TDRD6",
+  "Day 10 pos": "C1orf122",
+  "Day 10 neg": "FAM108A1",
+  "Day 15 pos": "CCL25",
+  "Day 15 neg": "CABP4",
+  "Day 20 neg": "CCDC56"
+ },
+ {
+  "Day 5 pos": "DSN1",
+  "Day 10 pos": "PKIA",
+  "Day 10 neg": "OR2A2",
+  "Day 15 pos": "ZMAT4",
+  "Day 15 neg": "CCDC84",
+  "Day 20 neg": "SORCS2"
+ },
+ {
+  "Day 5 pos": "FNDC3B",
+  "Day 10 pos": "KAT6B",
+  "Day 10 neg": "C3orf24",
+  "Day 15 pos": "NAA50",
+  "Day 15 neg": "SLC25A38",
+  "Day 20 neg": "CXCL10"
+ },
+ {
+  "Day 5 pos": "MRAP",
+  "Day 10 pos": "IQCD",
+  "Day 10 neg": "DNAH6",
+  "Day 15 pos": "FNDC7",
+  "Day 15 neg": "PYGO2",
+  "Day 20 neg": "KIF7"
+ },
+ {
+  "Day 5 pos": "C15orf41",
+  "Day 10 pos": "AGXT2L2",
+  "Day 10 neg": "RP11-110H1.2",
+  "Day 15 pos": "SIGLEC12",
+  "Day 15 neg": "STMN1",
+  "Day 20 neg": "FOXN2"
+ },
+ {
+  "Day 5 pos": "ANKLE1",
+  "Day 10 pos": "ZSWIM4",
+  "Day 10 neg": "DNAH12",
+  "Day 15 pos": "GIT1",
+  "Day 15 neg": "TXNRD2",
+  "Day 20 neg": "CTAGE9"
+ },
+ {
+  "Day 5 pos": "OTOP1",
+  "Day 10 pos": "CYBB",
+  "Day 10 neg": "FRMPD2",
+  "Day 15 pos": "MST1",
+  "Day 15 neg": "TXNDC9",
+  "Day 20 neg": "C5orf38"
+ },
+ {
+  "Day 5 pos": "C1orf105",
+  "Day 10 pos": "RAD51AP2",
+  "Day 10 neg": "CXorf27",
+  "Day 15 pos": "MAP2K4",
+  "Day 15 neg": "STC1",
+  "Day 20 neg": "ROBO1"
+ },
+ {
+  "Day 5 pos": "GREM2",
+  "Day 10 pos": "KIR3DL3",
+  "Day 10 neg": "MYT1L",
+  "Day 15 pos": "CD300E",
+  "Day 15 neg": "TAF13",
+  "Day 20 neg": "EPS8L2"
+ },
+ {
+  "Day 5 pos": "ZNF611",
+  "Day 10 pos": "HOXC5",
+  "Day 10 neg": "KRBOX1",
+  "Day 15 pos": "AVPI1",
+  "Day 15 neg": "LCN2",
+  "Day 20 neg": "SPRED3"
+ },
+ {
+  "Day 5 pos": "ZBTB17",
+  "Day 10 pos": "TACR3",
+  "Day 10 neg": "FBXO27",
+  "Day 15 pos": "SRSF5",
+  "Day 15 neg": "MORC2",
+  "Day 20 neg": "OR6C4"
+ },
+ {
+  "Day 5 pos": "ARHGEF7",
+  "Day 10 pos": "ST6GALNAC3",
+  "Day 10 neg": "SQSTM1",
+  "Day 15 pos": "SUCLG1",
+  "Day 15 neg": "HKR1",
+  "Day 20 neg": "AQP6"
+ },
+ {
+  "Day 5 pos": "TUFT1",
+  "Day 10 pos": "IFI27L2",
+  "Day 10 neg": "CACNG5",
+  "Day 15 pos": "C1orf122",
+  "Day 15 neg": "RRBP1",
+  "Day 20 neg": "ZBTB48"
+ },
+ {
+  "Day 5 pos": "PFDN2",
+  "Day 10 pos": "EGLN3",
+  "Day 10 neg": "TSPAN12",
+  "Day 15 pos": "IL36B",
+  "Day 15 neg": "CCDC102B",
+  "Day 20 neg": "FCRL2"
+ },
+ {
+  "Day 5 pos": "SH3TC1",
+  "Day 10 pos": "UGT2B15",
+  "Day 10 neg": "RMND1",
+  "Day 15 pos": "KRT84",
+  "Day 15 neg": "SLC10A6",
+  "Day 20 neg": "IGSF10"
+ },
+ {
+  "Day 5 pos": "PDCD4",
+  "Day 10 pos": "ZNF213",
+  "Day 10 neg": "FTMT",
+  "Day 15 pos": "CD99L2",
+  "Day 15 neg": "SPG11",
+  "Day 20 neg": "CXCL12"
+ },
+ {
+  "Day 5 pos": "CCL5",
+  "Day 10 pos": "LRP2BP",
+  "Day 10 neg": "SIGLEC15",
+  "Day 15 pos": "ANXA11",
+  "Day 15 neg": "STAT2",
+  "Day 20 neg": "PARVG"
+ },
+ {
+  "Day 5 pos": "USP34",
+  "Day 10 pos": "PPP1R17",
+  "Day 10 neg": "DNAL1",
+  "Day 15 pos": "TRIM28",
+  "Day 15 neg": "FBXO48",
+  "Day 20 neg": "ENTPD7"
+ },
+ {
+  "Day 5 pos": "TRAK1",
+  "Day 10 pos": "BBIP1",
+  "Day 10 neg": "SSTR3",
+  "Day 15 pos": "ARHGAP35",
+  "Day 15 neg": "DCUN1D2",
+  "Day 20 neg": "EDF1"
+ },
+ {
+  "Day 5 pos": "POU3F3",
+  "Day 10 pos": "MOCS2",
+  "Day 10 neg": "LDLRAD1",
+  "Day 15 pos": "B4GALNT4",
+  "Day 15 neg": "RRP9",
+  "Day 20 neg": "CLCA1"
+ },
+ {
+  "Day 5 pos": "USP11",
+  "Day 10 pos": "SYT9",
+  "Day 10 neg": "EIF1",
+  "Day 15 pos": "OVOL1",
+  "Day 15 neg": "RBM19",
+  "Day 20 neg": "GPR56"
+ },
+ {
+  "Day 5 pos": "SLC17A1",
+  "Day 10 pos": "HCCS",
+  "Day 10 neg": "ARAP3",
+  "Day 15 pos": "TP53AIP1",
+  "Day 15 neg": "DNPEP",
+  "Day 20 neg": "PPP2R5E"
+ },
+ {
+  "Day 5 pos": "ISY1",
+  "Day 10 pos": "TMEM159",
+  "Day 10 neg": "BAK1",
+  "Day 15 pos": "RRNAD1",
+  "Day 15 neg": "OSGIN2",
+  "Day 20 neg": "RP3-486B10.1"
+ },
+ {
+  "Day 5 pos": "BAG3",
+  "Day 10 pos": "BUB3",
+  "Day 10 neg": "CYP2A6",
+  "Day 15 pos": "AP5S1",
+  "Day 15 neg": "ADRB2",
+  "Day 20 neg": "FAM118A"
+ },
+ {
+  "Day 5 pos": "BCL11B",
+  "Day 10 pos": "CSRNP3",
+  "Day 10 neg": "TMEM14B",
+  "Day 15 pos": "ARNT",
+  "Day 15 neg": "SNRNP35",
+  "Day 20 neg": "KISS1R"
+ },
+ {
+  "Day 5 pos": "IGF2R",
+  "Day 10 pos": "TDP1",
+  "Day 10 neg": "CYLC2",
+  "Day 15 pos": "TMEM63A",
+  "Day 15 neg": "FCHSD2",
+  "Day 20 neg": "ADAT3"
+ },
+ {
+  "Day 5 pos": "PDCL2",
+  "Day 10 pos": "C1orf49",
+  "Day 10 neg": "IKZF5",
+  "Day 15 pos": "ARHGEF18",
+  "Day 15 neg": "EMC4",
+  "Day 20 neg": "BIK"
+ },
+ {
+  "Day 5 pos": "GPR146",
+  "Day 10 pos": "MPPED2",
+  "Day 10 neg": "RBM25",
+  "Day 15 pos": "ZRANB1",
+  "Day 15 neg": "SPANXN2",
+  "Day 20 neg": "KRT12"
+ },
+ {
+  "Day 5 pos": "RUVBL2",
+  "Day 10 pos": "CXCL2",
+  "Day 10 neg": "ZNF480",
+  "Day 15 pos": "CCDC106",
+  "Day 15 neg": "TAS2R41",
+  "Day 20 neg": "EPN2"
+ },
+ {
+  "Day 5 pos": "LONP1",
+  "Day 10 pos": "HMG20A",
+  "Day 10 neg": "A4GALT",
+  "Day 15 pos": "COLEC11",
+  "Day 15 neg": "KRT2",
+  "Day 20 neg": "MGAM"
+ },
+ {
+  "Day 5 pos": "ZWILCH",
+  "Day 10 pos": "PTGFRN",
+  "Day 10 neg": "RGCC",
+  "Day 15 pos": "CLIP3",
+  "Day 15 neg": "NDE1",
+  "Day 20 neg": "STIM1"
+ },
+ {
+  "Day 5 pos": "DCDC2B",
+  "Day 10 pos": "SMAD7",
+  "Day 10 neg": "RGS16",
+  "Day 15 pos": "HRASLS5",
+  "Day 15 neg": "PEX2",
+  "Day 20 neg": "MAGEB18"
+ },
+ {
+  "Day 5 pos": "PIPOX",
+  "Day 10 pos": "SLC38A9",
+  "Day 10 neg": "CCL8",
+  "Day 15 pos": "MRPL21",
+  "Day 15 neg": "CNEP1R1",
+  "Day 20 neg": "GUCY1A2"
+ },
+ {
+  "Day 5 pos": "CREBRF",
+  "Day 10 pos": "OGT",
+  "Day 10 neg": "ZNF638",
+  "Day 15 pos": "THTPA",
+  "Day 15 neg": "AP1G2",
+  "Day 20 neg": "OR11G2"
+ },
+ {
+  "Day 5 pos": "BLCAP",
+  "Day 10 pos": "MGAT4C",
+  "Day 10 neg": "C18orf63",
+  "Day 15 pos": "RSG1",
+  "Day 15 neg": "CNST",
+  "Day 20 neg": "DOCK5"
+ },
+ {
+  "Day 5 pos": "DMBT1",
+  "Day 10 pos": "ASB5",
+  "Day 10 neg": "SDR39U1",
+  "Day 15 pos": "ZMAT5",
+  "Day 15 neg": "NAT6",
+  "Day 20 neg": "OR52D1"
+ },
+ {
+  "Day 5 pos": "SIGLEC8",
+  "Day 10 pos": "LIN52",
+  "Day 10 neg": "GNPDA2",
+  "Day 15 pos": "CAPN11",
+  "Day 15 neg": "ZNF238",
+  "Day 20 neg": "OR56B1"
+ },
+ {
+  "Day 5 pos": "ZNF540",
+  "Day 10 pos": "CEP170",
+  "Day 10 neg": "CABP4",
+  "Day 15 pos": "LBX2",
+  "Day 15 neg": "AP3M1",
+  "Day 20 neg": "SERPINF1"
+ },
+ {
+  "Day 5 pos": "LARGE",
+  "Day 10 pos": "KAT8",
+  "Day 10 neg": "SLC25A38",
+  "Day 15 pos": "STARD3",
+  "Day 15 neg": "SLC36A1",
+  "Day 20 neg": "PRKACG"
+ },
+ {
+  "Day 5 pos": "PSG9",
+  "Day 10 pos": "FLG",
+  "Day 10 neg": "EMR2",
+  "Day 15 pos": "ZNF544",
+  "Day 15 neg": "NUFIP1",
+  "Day 20 neg": "WIPF1"
+ },
+ {
+  "Day 5 pos": "LAYN",
+  "Day 10 pos": "HSD3B1",
+  "Day 10 neg": "OAS3",
+  "Day 15 pos": "RTF1",
+  "Day 15 neg": "SLC25A34",
+  "Day 20 neg": "GSC2"
+ },
+ {
+  "Day 5 pos": "VWC2L",
+  "Day 10 pos": "FASTK",
+  "Day 10 neg": "HILPDA",
+  "Day 15 pos": "KIAA2018",
+  "Day 15 neg": "CPSF2",
+  "Day 20 neg": "NFE2L3"
+ },
+ {
+  "Day 5 pos": "CASC3",
+  "Day 10 pos": "RTEL1",
+  "Day 10 neg": "WBP2",
+  "Day 15 pos": "TMEM184C",
+  "Day 15 neg": "CYP2C9",
+  "Day 20 neg": "FAM129C"
+ },
+ {
+  "Day 5 pos": "ATP6V1G2",
+  "Day 10 pos": "AMT",
+  "Day 10 neg": "COPS7A",
+  "Day 15 pos": "EML2",
+  "Day 15 neg": "IL27RA",
+  "Day 20 neg": "TOMM20L"
+ },
+ {
+  "Day 5 pos": "BEST2",
+  "Day 10 pos": "PAX8",
+  "Day 10 neg": "ACTL9",
+  "Day 15 neg": "VWCE",
+  "Day 20 neg": "CAPNS2"
+ },
+ {
+  "Day 5 pos": "SLC35B3",
+  "Day 10 pos": "ADCYAP1R1",
+  "Day 10 neg": "KCNJ16",
+  "Day 15 neg": "CCDC24",
+  "Day 20 neg": "REPS2"
+ },
+ {
+  "Day 5 pos": "NACC2",
+  "Day 10 pos": "BARX2",
+  "Day 10 neg": "TSLP",
+  "Day 15 neg": "FOXF2",
+  "Day 20 neg": "CHAC2"
+ },
+ {
+  "Day 5 pos": "HIST1H3A",
+  "Day 10 pos": "XRCC1",
+  "Day 10 neg": "HEXB",
+  "Day 15 neg": "RGS1",
+  "Day 20 neg": "ODF3B"
+ },
+ {
+  "Day 5 pos": "KLF9",
+  "Day 10 pos": "GOT1",
+  "Day 10 neg": "ELANE",
+  "Day 15 neg": "MBD3L1",
+  "Day 20 neg": "WBSCR27"
+ },
+ {
+  "Day 5 pos": "ENTPD5",
+  "Day 10 pos": "ARHGEF18",
+  "Day 10 neg": "CTD-3193O13.2",
+  "Day 15 neg": "ZNF429",
+  "Day 20 neg": "OR10A6"
+ },
+ {
+  "Day 5 pos": "LGI4",
+  "Day 10 pos": "ARNT",
+  "Day 10 neg": "CNEP1R1",
+  "Day 15 neg": "PRAMEF10",
+  "Day 20 neg": "FAM177B"
+ },
+ {
+  "Day 5 pos": "ALOXE3",
+  "Day 10 pos": "KCNJ1",
+  "Day 10 neg": "CPM",
+  "Day 15 neg": "UBE2G1",
+  "Day 20 neg": "TCEANC"
+ },
+ {
+  "Day 5 pos": "BPIFB4",
+  "Day 10 pos": "EVI5",
+  "Day 10 neg": "TINAG",
+  "Day 15 neg": "PAH",
+  "Day 20 neg": "RGS9"
+ },
+ {
+  "Day 5 pos": "CHRNA6",
+  "Day 10 pos": "INSM2",
+  "Day 10 neg": "VAMP8",
+  "Day 15 neg": "ATF4",
+  "Day 20 neg": "H2BFWT"
+ },
+ {
+  "Day 5 pos": "USP6",
+  "Day 10 pos": "CDK20",
+  "Day 10 neg": "PRAMEF10",
+  "Day 15 neg": "CTAGE9",
+  "Day 20 neg": "ZFP3"
+ },
+ {
+  "Day 5 pos": "WNT3",
+  "Day 10 pos": "ANXA11",
+  "Day 10 neg": "WDR88",
+  "Day 15 neg": "AQP6",
+  "Day 20 neg": "TP53BP1"
+ },
+ {
+  "Day 5 pos": "SERPINA1",
+  "Day 10 pos": "RAD54L2",
+  "Day 10 neg": "UBR3",
+  "Day 15 neg": "GTPBP2",
+  "Day 20 neg": "CCDC75"
+ },
+ {
+  "Day 5 pos": "HGFAC",
+  "Day 10 pos": "CD6",
+  "Day 10 neg": "TMEM38A",
+  "Day 15 neg": "MAGEB18",
+  "Day 20 neg": "EXD2"
+ },
+ {
+  "Day 5 pos": "ALG1",
+  "Day 10 pos": "C10orf25",
+  "Day 10 neg": "AQP6",
+  "Day 15 neg": "SERPINF1",
+  "Day 20 neg": "POLR3G"
+ },
+ {
+  "Day 5 pos": "LIN52",
+  "Day 10 pos": "OVOL1",
+  "Day 10 neg": "ADAT3",
+  "Day 15 neg": "TAS2R50",
+  "Day 20 neg": "AP3S1"
+ },
+ {
+  "Day 5 pos": "MCEE",
+  "Day 10 pos": "NEIL2",
+  "Day 10 neg": "OR52D1",
+  "Day 15 neg": "SLC25A33",
+  "Day 20 neg": "GLTSCR2"
+ },
+ {
+  "Day 5 pos": "RNF165",
+  "Day 10 pos": "POLR1B",
+  "Day 15 neg": "CHAC2",
+  "Day 20 neg": "HIST1H1T"
+ },
+ {
+  "Day 5 pos": "ATF7",
+  "Day 10 pos": "CAPN11",
+  "Day 15 neg": "LRRC32",
+  "Day 20 neg": "ZNF235"
+ },
+ {
+  "Day 5 pos": "CNPY1",
+  "Day 10 pos": "SLC7A4",
+  "Day 15 neg": "OR10A6",
+  "Day 20 neg": "PSG3"
+ },
+ {
+  "Day 5 pos": "EIF2C1",
+  "Day 10 pos": "S100A1",
+  "Day 15 neg": "FAM177B",
+  "Day 20 neg": "ADH1A"
+ },
+ {
+  "Day 5 pos": "C17orf74",
+  "Day 10 pos": "ABCA3",
+  "Day 15 neg": "SUGT1",
+  "Day 20 neg": "PODXL2"
+ },
+ {
+  "Day 5 pos": "PDPR",
+  "Day 10 pos": "TCF21",
+  "Day 15 neg": "PODXL2",
+  "Day 20 neg": "TMEM123"
+ },
+ {
+  "Day 5 pos": "STAM",
+  "Day 10 pos": "ATP6V1G2",
+  "Day 15 neg": "CWC25",
+  "Day 20 neg": "CWC25"
+ },
+ {
+  "Day 5 pos": "NAT6",
+  "Day 10 pos": "IRX6",
+  "Day 15 neg": "C3orf17",
+  "Day 20 neg": "GHDC"
+ },
+ {
+  "Day 5 pos": "HAGHL",
+  "Day 15 neg": "CRYGB",
+  "Day 20 neg": "UPK3A"
+ },
+ {
+  "Day 5 pos": "P4HTM",
+  "Day 15 neg": "SYT5",
+  "Day 20 neg": "ESRP2"
+ },
+ {
+  "Day 5 pos": "USP5",
+  "Day 15 neg": "IMPACT",
+  "Day 20 neg": "TRAPPC1"
+ },
+ {
+  "Day 5 pos": "H3F3C",
+  "Day 15 neg": "MRPL16",
+  "Day 20 neg": "CHIC1"
+ },
+ {
+  "Day 5 pos": "ZNF771",
+  "Day 15 neg": "SAP30BP",
+  "Day 20 neg": "DDO"
+ },
+ {
+  "Day 5 pos": "FAM129A",
+  "Day 15 neg": "MRPS31",
+  "Day 20 neg": "OR4N4"
+ },
+ {
+  "Day 5 pos": "GFPT1",
+  "Day 15 neg": "ZNF304",
+  "Day 20 neg": "TIGD6"
+ },
+ {
+  "Day 5 pos": "KCNMB1",
+  "Day 15 neg": "BEX5",
+  "Day 20 neg": "DNPEP"
+ },
+ {
+  "Day 5 pos": "MAP2K7",
+  "Day 15 neg": "GABRA3",
+  "Day 20 neg": "MRPL16"
+ },
+ {
+  "Day 5 pos": "MTHFD2L",
+  "Day 20 neg": "TUBB"
+ },
+ {
+  "Day 5 pos": "NCR3",
+  "Day 20 neg": "ZNF470"
+ },
+ {
+  "Day 5 pos": "ANGPTL7",
+  "Day 20 neg": "KRTAP1-1"
+ },
+ {
+  "Day 5 pos": "ALPK3",
+  "Day 20 neg": "KATNAL2"
+ },
+ {
+  "Day 5 pos": "CCDC148",
+  "Day 20 neg": "PTCHD2"
+ },
+ {
+  "Day 5 pos": "ZNF324B",
+  "Day 20 neg": "ARF5"
+ },
+ {
+  "Day 5 pos": "USP51",
+  "Day 20 neg": "ATP5J2"
+ },
+ {
+  "Day 5 pos": "FUT11",
+  "Day 20 neg": "TSPO"
+ },
+ {
+  "Day 5 pos": "RP11-865B13.1",
+  "Day 20 neg": "CCDC37"
+ },
+ {
+  "Day 5 pos": "BACE2",
+  "Day 20 neg": "SH3BP1"
+ },
+ {
+  "Day 5 pos": "ZSCAN22",
+  "Day 20 neg": "CLNK"
+ },
+ {
+  "Day 5 pos": "ZNF804A",
+  "Day 20 neg": "SREK1IP1"
+ },
+ {
+  "Day 5 pos": "RHPN2",
+  "Day 20 neg": "NR6A1"
+ },
+ {
+  "Day 5 pos": "GJC1",
+  "Day 20 neg": "GABRA3"
+ },
+ {
+  "Day 5 pos": "GPD2",
+  "Day 20 neg": "XPA"
+ },
+ {
+  "Day 5 pos": "FDFT1",
+  "Day 20 neg": "MLNR"
+ },
+ {
+  "Day 5 pos": "BAZ2B",
+  "Day 20 neg": "XKR7"
+ },
+ {
+  "Day 5 pos": "DIS3L2",
+  "Day 20 neg": "PRIM1"
+ },
+ {
+  "Day 5 pos": "CLEC14A",
+  "Day 20 neg": "MSN"
+ },
+ {
+  "Day 5 pos": "RTEL1",
+  "Day 20 neg": "RPS4Y1"
+ },
+ {
+  "Day 5 pos": "TIMM9",
+  "Day 20 neg": "VCX3B"
+ },
+ {
+  "Day 5 pos": "PUM2"
+ },
+ {
+  "Day 5 pos": "DSC3"
+ },
+ {
+  "Day 5 pos": "ITLN2"
+ },
+ {
+  "Day 5 pos": "IDNK"
+ },
+ {
+  "Day 5 pos": "BLVRB"
+ },
+ {
+  "Day 5 pos": "TBCD"
+ },
+ {
+  "Day 5 pos": "ST6GALNAC3"
+ },
+ {
+  "Day 5 pos": "TMA16"
+ },
+ {
+  "Day 5 pos": "LSG1"
+ },
+ {
+  "Day 5 pos": "STEAP2"
+ },
+ {
+  "Day 5 pos": "C1orf49"
+ },
+ {
+  "Day 5 pos": "IPCEF1"
+ },
+ {
+  "Day 5 pos": "HTR3B"
+ },
+ {
+  "Day 5 pos": "IRF8"
+ },
+ {
+  "Day 5 pos": "PAX1"
+ },
+ {
+  "Day 5 pos": "HERC3"
+ },
+ {
+  "Day 5 pos": "IFNAR2"
+ },
+ {
+  "Day 5 pos": "ASB5"
+ },
+ {
+  "Day 5 pos": "GGT6"
+ },
+ {
+  "Day 5 pos": "AAGAB"
+ },
+ {
+  "Day 5 pos": "WDR33"
+ },
+ {
+  "Day 5 pos": "IFT81"
+ },
+ {
+  "Day 5 pos": "FSIP2"
+ },
+ {
+  "Day 5 pos": "AHSG"
+ },
+ {
+  "Day 5 pos": "NEIL2"
+ },
+ {
+  "Day 5 pos": "AP4M1"
+ },
+ {
+  "Day 5 pos": "SH3BP4"
+ },
+ {
+  "Day 5 pos": "ARRDC2"
+ },
+ {
+  "Day 5 pos": "SLC2A8"
+ },
+ {
+  "Day 5 pos": "SCRT1"
+ },
+ {
+  "Day 5 pos": "MASTL"
+ },
+ {
+  "Day 5 pos": "WRAP73"
+ },
+ {
+  "Day 5 pos": "IGDCC4"
+ },
+ {
+  "Day 5 pos": "CR2"
+ },
+ {
+  "Day 5 pos": "SPRED1"
+ },
+ {
+  "Day 5 pos": "PCK2"
+ },
+ {
+  "Day 5 pos": "GLYCTK"
+ },
+ {
+  "Day 5 pos": "BTG1"
+ },
+ {
+  "Day 5 pos": "DOLPP1"
+ },
+ {
+  "Day 5 pos": "DOLPP1"
+ }
+]
